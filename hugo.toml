@@ -20,4 +20,9 @@ home = ["HTML","RSS"]
 
 [params]
 description = "Independent news and analysis."
+mainSections = ["stories"]
+
+[params.ananke]
+custom_css = ["custom.css"]
+show_recent_posts = false
 

@@ -1,0 +1,45 @@
+{{/* Site-owned homepage for Seven Lights.
+     Replaces Ananke's home.html and its homepage header block only.
+     Story pages, section pages, navigation, footer and metadata stay Ananke. */}}
+
+{{ define "header" }}
+  <header class="sevenlights-hero">
+    {{ with .Params.featured_image }}
+      <img class="sevenlights-hero-img" src="{{ . }}" width="1800" height="600" alt="" fetchpriority="high" decoding="async">
+    {{ end }}
+    <div class="sevenlights-hero-overlay">
+      <nav class="sevenlights-nav" aria-label="Main">
+        {{ with .Site.Menus.main }}
+          <ul class="sevenlights-nav-list">
+            {{ range . }}
+              <li><a class="sevenlights-nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </nav>
+      <div class="sevenlights-hero-text">
+        <h1 class="sevenlights-hero-title">{{ .Site.Title }}</h1>
+        {{ with .Params.description | default .Site.Params.description }}
+          <p class="sevenlights-hero-tagline">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  <div class="sevenlights-home">
+    {{ with .Content }}
+      <div class="sevenlights-home-intro nested-links">{{ . }}</div>
+    {{ end }}
+
+    {{/* All published stories, newest first. To add pagination later, swap
+       $stories for a paginated slice and render Hugo's pagination.html. */}}
+    {{ $stories := where site.RegularPages "Section" "in" (site.Params.mainSections | default (slice "stories")) }}
+    <section class="sevenlights-story-list" aria-label="Latest stories">
+      {{ range $stories }}
+        {{ partials.Include "sevenlights-story-row.html" . }}
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

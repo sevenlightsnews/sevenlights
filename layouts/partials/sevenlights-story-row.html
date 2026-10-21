@@ -1,0 +1,27 @@
+{{/* Compact news row for one published story.
+     Image field resolution: image -> featured_image -> images[0]. */}}
+{{- $img := .Params.image | default .Params.featured_image -}}
+{{- if not $img }}{{ with .Params.images }}{{ $img = index . 0 }}{{ end }}{{ end -}}
+{{- $alt := .Params.image_alt | default .Title -}}
+<article class="sevenlights-story-row">
+  <a class="sevenlights-story-image-link" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">
+    {{- if $img }}
+      <img class="sevenlights-story-image" src="{{ $img }}" alt="{{ $alt }}" loading="lazy" decoding="async" width="240" height="150">
+    {{- else }}
+      <span class="sevenlights-story-image sevenlights-story-image--placeholder"></span>
+    {{- end }}
+  </a>
+  <div class="sevenlights-story-content">
+    <h2 class="sevenlights-story-title">
+      <a class="sevenlights-story-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="sevenlights-story-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date | time.Format "January 2, 2006" }}</time>
+      {{ with .GetTerms "categories" }}
+        <span class="sevenlights-story-dot" aria-hidden="true">&middot;</span>
+        {{ range . }}<a class="sevenlights-story-category" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+      {{ end }}
+    </p>
+    <p class="sevenlights-story-summary">{{ .Summary }}</p>
+  </div>
+</article>
