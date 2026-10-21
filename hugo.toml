@@ -10,6 +10,11 @@ pagerSize = 20
 [permalinks]
 stories = "/:year/:month/:day/:slug/"
 
+[[menus.main]]
+name = "About"
+url = "/about/"
+weight = 10
+
 [outputs]
 home = ["HTML","RSS"]
 
