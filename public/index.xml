@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seven Lights</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Seven Lights</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2026 10:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Seven Lights</title>
+      <link>http://localhost:1313/2026/10/21/welcome-to-seven-lights/</link>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/2026/10/21/welcome-to-seven-lights/</guid>
+      <description>The launch of Seven Lights.</description>
+    </item>
+  </channel>
+</rss>

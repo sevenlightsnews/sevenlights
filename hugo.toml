@@ -1,0 +1,17 @@
+baseURL = "https://sevenlights.org/"
+languageCode = "en-us"
+title = "Seven Lights"
+
+[pagination]
+pagerSize = 20
+
+[permalinks]
+stories = "/:year/:month/:day/:slug/"
+
+[outputs]
+home = ["HTML","RSS"]
+
+[params]
+description = "Independent news and analysis."
+
+theme = "ananke"
