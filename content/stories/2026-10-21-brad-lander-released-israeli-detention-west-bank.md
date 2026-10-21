@@ -1,7 +1,7 @@
 +++
 title = "New York Congressional Candidate Brad Lander Released After Israeli Military Detention in the West Bank"
 date = 2026-10-21T14:19:00-04:00
-lastmod = 2026-10-21T14:19:00-04:00
+lastmod = 2026-10-21T14:29:00-04:00
 draft = false
 slug = "brad-lander-released-israeli-detention-west-bank"
 summary = "Brad Lander, a Democratic candidate for Congress in New York, said Israeli forces detained him while he helped Palestinian farmers harvest olives, in what two Israeli lawyers told NPR was the largest mass detention of activists in the West Bank in at least a decade."
@@ -15,7 +15,7 @@ image_alt = "Uniformed, helmeted soldiers walking single file along a dirt trail
 
 ![Uniformed, helmeted soldiers walking single file along a dirt trail through dry, hilly countryside with yellow flowering bushes and electricity pylons in the background](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/836x627+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F13%2F662de40b41cda580069a58be1bbf%2Fimg-2213.jpg)
 
-*Photo: Ruth Sherlock/NPR.*
+*Image: NPR.*
 
 Brad Lander, the Democratic nominee for Congress in New York's 10th district and a former New York City comptroller, said Wednesday that Israeli security forces detained him in the occupied West Bank while he was helping Palestinian farmers harvest olives, and that he was later released with a warning while several dozen others in the group remained detained, according to NPR and NBC News.
 

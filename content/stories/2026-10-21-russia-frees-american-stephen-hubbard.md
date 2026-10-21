@@ -1,7 +1,7 @@
 +++
 title = "Russia Frees American Stephen Hubbard After Nearly Five Years as Trump Envoy Meets Putin"
 date = 2026-10-21T14:19:00-04:00
-lastmod = 2026-10-21T14:19:00-04:00
+lastmod = 2026-10-21T14:29:00-04:00
 draft = false
 slug = "russia-frees-american-stephen-hubbard"
 summary = "Russia released Stephen Hubbard, a 74-year-old retired American teacher jailed on mercenary charges, as President Trump's envoy Steve Witkoff opened talks with Vladimir Putin in St Petersburg."
@@ -15,7 +15,7 @@ image_alt = "Portrait of a smiling older man with a gray beard and glasses, phot
 
 ![Portrait of a smiling older man with a gray beard and glasses, photographed outdoors in front of blurred green foliage](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:best/rockcms/2026-10/261021-3x2-hubbard-2-rs-272d1a.jpg)
 
-*Photo: Trisha Hubbard via NBC News.*
+*Image: NBC News.*
 
 Russia released Stephen James Hubbard, a 74-year-old retired American teacher from Michigan, on Wednesday after nearly five years in Russian custody, announcing the release at the start of a meeting between President Donald Trump's special envoy Steve Witkoff and Russian President Vladimir Putin in St Petersburg, according to NPR and NBC News.
 

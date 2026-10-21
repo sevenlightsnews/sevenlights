@@ -1,7 +1,7 @@
 +++
 title = "Musk Calls a Potential SpaceX-Tesla Merger a 'Good Idea' as Committees Weigh the Deal"
 date = 2026-10-21T14:19:00-04:00
-lastmod = 2026-10-21T14:19:00-04:00
+lastmod = 2026-10-21T14:29:00-04:00
 draft = false
 slug = "musk-spacex-tesla-merger-good-idea"
 summary = "Elon Musk said a merger of Tesla and SpaceX would be a good idea and disclosed that special committees have been formed to assess a potential deal that would combine the two largest private and public companies he controls."
@@ -15,7 +15,7 @@ image_alt = "Composite image showing Elon Musk in a blue suit jacket with claspe
 
 ![Composite image showing Elon Musk in a blue suit jacket with clasped hands beside a photo of a Tesla vehicle on display and a photo of a SpaceX rocket lifting off](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png)
 
-*Photo: Getty Images/Reuters/BBC composite.*
+*Image: BBC News.*
 
 Elon Musk, chief executive of both Tesla and SpaceX, said Tuesday that bringing the two companies together would be a good idea, and he disclosed that special committees have been formed at each company to assess a potential deal, according to the BBC. Musk stressed that nothing has been agreed and there is no guarantee a merger will happen.
 

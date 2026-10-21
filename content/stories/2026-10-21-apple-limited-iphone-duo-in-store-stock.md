@@ -1,7 +1,7 @@
 +++
 title = "Apple Promises Only 'Limited' iPhone Duo Stock for Walk-In Buyers at Launch"
 date = 2026-10-21T14:19:00-04:00
-lastmod = 2026-10-21T14:19:00-04:00
+lastmod = 2026-10-21T14:29:00-04:00
 draft = false
 slug = "apple-limited-iphone-duo-in-store-stock"
 summary = "Apple said Apple Stores will have limited iPhone Duo units for walk-in customers when the foldable phone launches Friday, after online preorders sold out quickly with some delivery estimates slipping into next year."
@@ -15,7 +15,7 @@ image_alt = "Close-up of a foldable smartphone angled partly open on a reflectiv
 
 ![Close-up of a foldable smartphone angled partly open on a reflective surface, with its polished metal hinge edge in focus and a blurred home screen visible](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)
 
-*Photo: Amelia Holowaty Krales/The Verge.*
+*Image: The Verge.*
 
 Apple said it will have only a limited number of its new foldable iPhone Duo phones available for walk-in customers when the device launches on Friday, October 23, according to a Reuters report cited by The Verge. Online preorders for the phone sold out quickly, with some delivery estimates extending into next year.
 
