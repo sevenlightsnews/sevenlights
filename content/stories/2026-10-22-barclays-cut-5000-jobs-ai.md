@@ -1,7 +1,7 @@
 +++
 title = "Barclays to Cut About 5,000 Jobs as It Expands Use of AI"
 date = 2026-10-22T06:19:00-04:00
-lastmod = 2026-10-22T06:19:00-04:00
+lastmod = 2026-10-22T09:36:00-04:00
 draft = false
 slug = "barclays-cut-5000-jobs-ai"
 summary = "Barclays is cutting around 5,000 posts, about 5% of its global workforce, as it introduces more artificial intelligence into its work processes, the bank said alongside third-quarter results."
@@ -17,6 +17,8 @@ image_alt = "Barclays has been blasted for financial crime failings"
 
 *Image: City A.M..*
 
+Update (Oct. 22, 2026): CNBC reported the reductions as part of an AI efficiency push at the bank, and Bloomberg added the Barclays job-cuts news to its Opening Trade market briefing video for Oct. 22. The new reporting contained no additional detail beyond the job-cut figures and third-quarter results already covered here.
+
 Barclays is cutting its staff by around 5,000 as it introduces more artificial intelligence into its work processes, the banking group said; 1,000 posts had already been closed and a further 4,000 reductions are expected to be complete by the end of this year, amounting to around 5% of its global workforce, the BBC reported. The BBC said the reductions are focused on the UK retail bank, but that some back-office functions for the UK are performed in India, where a significant proportion of the cuts are expected to fall.
 
 Around 60% of the job cuts will fall within support functions, including among developers, the BBC reported. City A.M. quoted group chief executive CS Venkatakrishnan saying the cuts are “across the bank” and “primarily related to operational and functional roles that service our business,” the result of investments in technology over a number of years; Venkatakrishnan said AI use at the firm is “the icing on the cake, not the cake,” according to both outlets.
@@ -25,6 +27,7 @@ The announcement accompanied third-quarter results: Barclays reported a £2.3bn 
 
 ## Sources
 
+- [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-22/the-opening-trade-10-22-2026-video)
 - [City A.M.](https://www.cityam.com/barclays-profit-misses-after-investment-bank-comes-up-short/)
 - [Business Insider](https://www.businessinsider.com/barclays-job-cuts-ai-push-layoffs-2026-10)
 - [CNBC](https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html)

@@ -1,7 +1,7 @@
 +++
 title = "Meta Says Its Muse AI App Has Over 10 Million Users as It Pauses Share-Link Feature"
 date = 2026-10-22T06:18:00-04:00
-lastmod = 2026-10-22T06:18:00-04:00
+lastmod = 2026-10-22T09:21:00-04:00
 draft = false
 slug = "meta-muse-10m-users-share-link-flaw"
 summary = "Meta said during its Q3 earnings call that its Muse AI app has over 10 million users, with shopping a top activity; it has paused the app's conversation share-link feature after researchers enumerated thousands of discoverable links."
@@ -16,6 +16,8 @@ image_alt = "A close-up of a human finger pressing the Muse app icon inside a fo
 ![A close-up of a human finger pressing the Muse app icon inside a folder containing Meta apps on a smartphone screen](https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024)
 
 *Image: TechCrunch.*
+
+Update (Oct. 22, 2026): In a further report on the same story, TechCrunch said Meta told investors on its Q3 earnings call that the AI app now has over 10 million users and that users are adopting Muse for shopping and personal productivity.
 
 Meta said its Muse AI app now has more than 10 million users and that users are adopting it for shopping and personal productivity, the company said during its Q3 earnings call, TechCrunch reported.
 
