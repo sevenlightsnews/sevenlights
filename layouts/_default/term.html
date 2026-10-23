@@ -31,7 +31,7 @@
         {{ len $pages }} {{ if eq (len $pages) 1 }}story{{ else }}stories{{ end }} published
         {{ with $cats }}{{ if gt (len (index . 0).names) 1 }}&middot; also includes stories filed under: {{ delimit (after 1 (index . 0).names) ", " }}{{ end }}{{ end }}
       </p>{{ end }}
-      {{ partials.Include "sevenlights-dateline.html" . }}
+      {{ partials.Include "sevenlights-dateline.html" (dict "pages" $pages) }}
     </header>
 
     {{ if not $pages }}
@@ -73,5 +73,4 @@
       </section>
     {{ end }}
   </div>
-  {{ partials.Include "sevenlights-clock.html" . }}
 {{ end }}

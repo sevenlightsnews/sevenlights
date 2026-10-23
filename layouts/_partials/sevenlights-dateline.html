@@ -1,27 +1,19 @@
-{{/* Date+time line. The build-time value below is ONLY the no-JS fallback: the
-     inline script rewrites every .sevenlights-dateline to the reader's current
-     local date/time the moment this element is parsed (so the hero never shows
-     a stale build stamp), then keeps ticking every 30 seconds. */}}
-<p class="sevenlights-dateline" data-build="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
-  {{ now | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
-</p>
-<script>
-(function () {
-  if (window.__slDateline) { window.__slDateline(); return; }
-  function fmt() {
-    var d = new Date();
-    var date = d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-    var time = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
-    var tz = '';
-    try { tz = ' ' + Intl.DateTimeFormat().resolvedOptions().timeZone.split('/').pop().replace(/_/g, ' '); } catch (e) {}
-    return date + ' \u2014 ' + time + tz;
-  }
-  function update() {
-    var els = document.querySelectorAll('.sevenlights-dateline');
-    for (var i = 0; i < els.length; i++) { els[i].textContent = fmt(); }
-  }
-  window.__slDateline = update;
-  update();
-  setInterval(update, 30000);
-})();
-</script>
+{{/* "Last updated" stamp — the timestamp of the NEWEST story in scope, i.e. the
+     moment the site was last updated with new stories. Deliberately NOT the
+     reader's clock (editor, 2026-10-23) and not the raw deploy time either: a
+     6am rebuild with no new story would otherwise claim a fresh edition.
+
+     Call with a dict so the stamp can be scoped to the page:
+       home page     -> all published stories
+       category page -> that category's stories
+     Stories carry an explicit -04:00/-05:00 offset; time.In normalises to
+     Eastern so Go prints the EDT/EST abbreviation instead of a bare offset. */}}
+{{ $pages := .pages }}
+{{ with $pages }}
+  {{ $latest := index . 0 }}
+  {{ range . }}{{ if gt .Date $latest.Date }}{{ $latest = . }}{{ end }}{{ end }}
+  {{ $t := $latest.Date | time.In "America/New_York" }}
+  <p class="sevenlights-dateline" data-updated="{{ $t | time.Format "2006-01-02T15:04:05Z07:00" }}">
+    Last updated {{ $t | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
+  </p>
+{{ end }}

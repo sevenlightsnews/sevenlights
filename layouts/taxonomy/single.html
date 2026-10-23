@@ -11,7 +11,6 @@
   <div class="sevenlights-category">
     <header class="sevenlights-category-header">
       <h1 class="sevenlights-category-title">{{ .LinkTitle }}</h1>
-      {{ partials.Include "sevenlights-dateline.html" . }}
     </header>
 
     {{ $today := now.Format "2006-01-02" }}
@@ -26,6 +25,8 @@
     {{ else }}
       {{ $pages = where .Pages "Section" "stories" }}
     {{ end }}
+
+    {{ partials.Include "sevenlights-dateline.html" (dict "pages" $pages) }}
 
     {{ if not $pages }}
       <p class="sevenlights-empty">No stories published in this category yet —
@@ -66,5 +67,4 @@
       </section>
     {{ end }}
   </div>
-  {{ partials.Include "sevenlights-clock.html" . }}
 {{ end }}
