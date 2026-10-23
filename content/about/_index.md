@@ -5,8 +5,6 @@ date = 2026-10-21T14:40:00-04:00
 lastmod = 2026-10-21T14:40:00-04:00
 draft = false
 type = "page"
-[build]
-list = false
 +++
 
 Seven Lights is an independent news site. Each day it publishes a short factual summary of the stories that multiple established news organizations are reporting, with links to that reporting.
@@ -38,3 +36,7 @@ No site can certify its own neutrality, so this page states the controls a reade
 A story has to be reported by three unrelated media organizations before it runs, which makes it harder for one outlet's framing to become this site's framing. Selection follows what multiple organizations are covering, not whether the coverage helps or hurts any political side, and that rule is applied the same way every day. Summaries carry the sources' facts in plain language and avoid evaluative words. When sources disagree on a detail, each version is attributed to the organization that reported it rather than merged into a single claim. And every item links out, so a reader who suspects a summary has left something out can go to the source and see.
 
 If a summary states something the linked sources do not support, that is an error, and it is corrected on the page under the update-note rule above.
+
+## Traffic
+
+This site publishes its own [traffic statistics](/about/traffic/), measured at the Cloudflare edge and updated daily. No visitor tracking or analytics cookies are used.
