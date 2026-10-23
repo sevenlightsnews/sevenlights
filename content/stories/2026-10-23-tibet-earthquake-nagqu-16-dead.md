@@ -10,11 +10,11 @@ author = "Seven Lights"
 categories = ["Global"]
 tags = ["china", "tibet", "earthquake", "nagqu", "natural-disasters"]
 image = "/images/stories/tibet-earthquake-nagqu-16-dead.webp"
-image_alt = "Collapsed flat-roofed stone houses with scattered rubble in a high-altitude plateau village at dusk, snow-dusted mountains in the distance"
+image_alt = "A high-altitude plateau village street lined with stone and mud-brick houses, piles of rubble along a dirt lane with drifting dust, snow-capped mountains in the distance"
 refs = 3
 +++
 
-![Collapsed flat-roofed stone houses with scattered rubble in a high-altitude plateau village at dusk, snow-dusted mountains in the distance](/images/stories/tibet-earthquake-nagqu-16-dead.webp)
+![A high-altitude plateau village street lined with stone and mud-brick houses, piles of rubble along a dirt lane with drifting dust, snow-capped mountains in the distance](/images/stories/tibet-earthquake-nagqu-16-dead.webp)
 
 A magnitude 7.0 earthquake has hit a mountainous region in Tibet, killing at least 16 people and injuring dozens, according to Chinese state media, the BBC reported. The centre of the quake hit Baqên County in the Nagqu region on Thursday night, Xinhua reported, citing the local emergency management bureau, the BBC said. The county is about 400km (250 miles) north-east of the regional capital, Lhasa, the BBC added.
 
