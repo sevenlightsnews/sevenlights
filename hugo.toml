@@ -45,10 +45,17 @@ name = "Entertainment"
 url = "/categories/entertainment/"
 weight = 7
 
+# Entries with weight >= 10 render inside the "About" dropdown
+# (see layouts/_partials/sevenlights-nav.html).
 [[menus.main]]
-name = "About"
+name = "About Seven Lights"
 url = "/about/"
 weight = 10
+
+[[menus.main]]
+name = "Traffic Statistics"
+url = "/about/traffic/"
+weight = 11
 
 [outputs]
 home = ["HTML","RSS"]

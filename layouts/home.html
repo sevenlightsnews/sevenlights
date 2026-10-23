@@ -14,15 +14,7 @@
       <img class="sevenlights-hero-img" src="{{ . }}" width="1800" height="600" alt="" fetchpriority="high" decoding="async">
     {{ end }}
     <div class="sevenlights-hero-overlay">
-      <nav class="sevenlights-nav" aria-label="Main">
-        {{ with .Site.Menus.main }}
-          <ul class="sevenlights-nav-list">
-            {{ range . }}
-              <li><a class="sevenlights-nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        {{ end }}
-      </nav>
+      {{ partials.Include "sevenlights-nav.html" . }}
       <div class="sevenlights-hero-text">
         <h1 class="sevenlights-hero-title">{{ .Site.Title }}</h1>
         {{ with .Params.description | default .Site.Params.description }}

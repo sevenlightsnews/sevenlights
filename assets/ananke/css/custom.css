@@ -2,9 +2,12 @@
    Scoped to sevenlights-* classes only. No theme files touched. */
 
 /* ---------- Compact editorial hero ---------- */
+/* overflow must stay visible: the hero clips an absolutely-positioned
+   dropdown panel otherwise (only ~4 of 7 items rendered). The hero image is
+   inset:0 / width:100% so it cannot overflow on its own. */
 .sevenlights-hero {
   position: relative;
-  overflow: hidden;
+  overflow: visible;
   background-color: #101c33; /* navy fallback if the image is missing */
 }
 .sevenlights-hero-img {
@@ -270,3 +273,49 @@
   color: #777;
 }
 .sevenlights-story-readtime { color: #777; }
+
+/* ---------- Dropdown navigation (editor, 2026-10-23) ----------
+   Two dropdowns (Categories, About) replace the flat row of eight links. */
+.sevenlights-nav-list { flex-wrap: nowrap; }
+.sevenlights-nav-item { position: relative; }
+.sevenlights-dd { position: relative; }
+.sevenlights-dd-btn {
+  list-style: none;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.95rem;
+  user-select: none;
+  white-space: nowrap;
+}
+.sevenlights-dd-btn::-webkit-details-marker { display: none; }
+.sevenlights-dd-btn:hover { color: #fff; }
+.sevenlights-dd-caret { margin-left: 0.35rem; font-size: 0.7rem; display: inline-block; }
+.sevenlights-dd[open] .sevenlights-dd-caret { transform: rotate(180deg); }
+.sevenlights-dd[open] > .sevenlights-dd-btn { color: #fff; }
+.sevenlights-dd-list {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.55rem);
+  min-width: 13.5rem;
+  margin: 0;
+  padding: 0.4rem 0;
+  list-style: none;
+  background: rgba(10, 17, 32, 0.97);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 0.4rem;
+  box-shadow: 0 12px 30px rgba(4, 8, 16, 0.55);
+  z-index: 60;
+}
+.sevenlights-dd-list a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: rgba(255, 255, 255, 0.88);
+  text-decoration: none;
+  font-size: 0.92rem;
+  white-space: nowrap;
+}
+.sevenlights-dd-list a:hover { background: rgba(255, 255, 255, 0.12); color: #fff; }
+@media (max-width: 640px) {
+  .sevenlights-dd-list { min-width: 11.5rem; }
+  .sevenlights-dd-list a { white-space: normal; }
+}

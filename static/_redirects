@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects (site-owned; Hugo copies static/ verbatim)
+# Pop Culture was folded into Entertainment (editor, 2026-10-23).
+/categories/pop-culture/ /categories/entertainment/ 301

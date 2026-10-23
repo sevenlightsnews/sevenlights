@@ -1,0 +1,56 @@
+{{/* Site-owned dropdown navigation (editor, 2026-10-23): the seven categories
+     and the About section live behind two dropdowns instead of a flat row of
+     eight links, which wrapped into a stack on mobile.
+     Used by layouts/home.html (hero) and layouts/_partials/site-navigation.html
+     (inner pages). Theme files are never touched.
+     <details>/<summary> = native tap support on mobile, keyboard accessible. */}}
+
+<nav class="sevenlights-nav" aria-label="Main">
+  <ul class="sevenlights-nav-list">
+    <li class="sevenlights-nav-item">
+      <details class="sevenlights-dd">
+        <summary class="sevenlights-dd-btn">Categories<span class="sevenlights-dd-caret" aria-hidden="true">&#9662;</span></summary>
+        <ul class="sevenlights-dd-list">
+          {{ range .Site.Params.siteCategories }}
+            <li><a href="/categories/{{ .term }}/">{{ .label }}</a></li>
+          {{ end }}
+        </ul>
+      </details>
+    </li>
+    {{ $about := where .Site.Menus.main "Weight" ">=" 10 }}
+    {{ with $about }}
+      <li class="sevenlights-nav-item">
+        <details class="sevenlights-dd">
+          <summary class="sevenlights-dd-btn">About<span class="sevenlights-dd-caret" aria-hidden="true">&#9662;</span></summary>
+          <ul class="sevenlights-dd-list">
+            {{ range $about }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </details>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
+
+<script>
+  (function () {
+    var dds = document.querySelectorAll('.sevenlights-dd');
+    dds.forEach(function (d) {
+      d.querySelector('summary').addEventListener('click', function (e) {
+        // Suppress the native <details> toggle: without preventDefault the
+        // browser toggles again after this handler and the menu snaps shut.
+        e.preventDefault();
+        var wasOpen = d.open;
+        dds.forEach(function (o) { o.open = false; });
+        d.open = !wasOpen;
+      });
+    });
+    document.addEventListener('click', function (e) {
+      if (!e.target.closest('.sevenlights-dd')) dds.forEach(function (o) { o.open = false; });
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') dds.forEach(function (o) { o.open = false; });
+    });
+  })();
+</script>
