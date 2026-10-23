@@ -2,7 +2,7 @@
 title = "Traffic Statistics"
 description = "Seven Lights traffic, measured at the Cloudflare edge and updated daily."
 date = 2026-10-21T06:00:00-04:00
-lastmod = 2026-10-23T15:28:35Z
+lastmod = 2026-10-23T15:34:15Z
 draft = false
 +++
 
@@ -19,7 +19,7 @@ _Oct 22_
 | Unique IPs (daily avg) | 179 |
 | Data served | 8.7 MB |
 | Served from cache | 2% |
-| Blocked scanner requests | 366 |
+| Blocked scanner requests | 365 |
 
 **Last 7 days**  
 _Oct 16–Oct 22_
@@ -30,7 +30,7 @@ _Oct 16–Oct 22_
 | Unique IPs (daily avg) | 184 |
 | Data served | 12.9 MB |
 | Served from cache | 5% |
-| Blocked scanner requests | 586 |
+| Blocked scanner requests | 585 |
 
 **Last 30 days**  
 _Sep 23–Oct 22_
@@ -47,7 +47,7 @@ _Sep 23–Oct 22_
 
 | Page | Requests |
 |---|---|
-| `/` (home) | 629 |
+| `/` (home) | 628 |
 
 
-_Last updated: 2026-10-23 15:28 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
+_Last updated: 2026-10-23 15:34 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
