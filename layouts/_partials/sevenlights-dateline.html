@@ -13,7 +13,12 @@
   {{ $latest := index . 0 }}
   {{ range . }}{{ if gt .Date $latest.Date }}{{ $latest = . }}{{ end }}{{ end }}
   {{ $t := $latest.Date | time.In "America/New_York" }}
+  {{/* The MST format token prints "EDT"/"EST" on my local Hugo but "-0400" on
+     Cloudflare Pages' Hugo build. Print the abbreviation from the offset
+     instead so the label is identical on every builder. */}}
+  {{ $zones := dict "-04:00" "EDT" "-05:00" "EST" }}
+  {{ $off := $t.Format "Z07:00" }}
   <p class="sevenlights-dateline" data-updated="{{ $t | time.Format "2006-01-02T15:04:05Z07:00" }}">
-    Last updated {{ $t | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
+    Last updated {{ $t | time.Format "Monday, January 2, 2006 — 3:04 PM" }} {{ index $zones $off | default $off }}
   </p>
 {{ end }}
