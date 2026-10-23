@@ -24,8 +24,8 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 220px;
-  padding-bottom: 1.5rem;
+  min-height: 170px;
+  padding-bottom: 1rem;
   background: linear-gradient(
     180deg,
     rgba(10, 17, 32, 0.62) 0%,
@@ -40,7 +40,7 @@
   justify-content: flex-end;
   gap: 1.25rem;
   margin: 0;
-  padding: 0.9rem 1.25rem 0 0;
+  padding: 0.6rem 1.25rem 0 0;
 }
 .sevenlights-nav-link {
   color: rgba(255, 255, 255, 0.85);
@@ -54,7 +54,7 @@
 }
 .sevenlights-hero-title {
   margin: 0;
-  font-size: clamp(1.9rem, 4.5vw, 3rem);
+  font-size: clamp(1.7rem, 4.2vw, 2.6rem);
   font-weight: 600;
   letter-spacing: 0.02em;
   line-height: 1.15;
@@ -62,7 +62,7 @@
   text-shadow: 0 1px 8px rgba(6, 11, 22, 0.65);
 }
 .sevenlights-hero-tagline {
-  margin: 0.5rem 0 0;
+  margin: 0.35rem 0 0;
   font-size: clamp(0.9rem, 1.6vw, 1.05rem);
   color: rgba(255, 255, 255, 0.92);
   text-shadow: 0 1px 6px rgba(6, 11, 22, 0.7);
@@ -170,8 +170,8 @@
 
 /* ---------- Mobile ---------- */
 @media (max-width: 640px) {
-  .sevenlights-hero-overlay { min-height: 160px; padding-bottom: 1rem; }
-  .sevenlights-nav-list { padding: 0.75rem 1rem 0 0; gap: 1rem; }
+  .sevenlights-hero-overlay { min-height: 128px; padding-bottom: 0.75rem; }
+  .sevenlights-nav-list { padding: 0.5rem 1rem 0 0; gap: 1rem; }
   .sevenlights-story-row {
     flex-direction: column;
     gap: 0.75rem;
@@ -191,7 +191,7 @@
 
 /* Dateline (front page + category pages) */
 .sevenlights-dateline {
-  margin: 0.5rem 0 0;
+  margin: 0.35rem 0 0;
   font-size: 0.95rem;
   letter-spacing: 0.02em;
   color: #f2e8d5;
@@ -221,6 +221,11 @@
   border-bottom: 2px solid #b58a3c;
 }
 .sevenlights-catlink:hover { color: #7a5c1e; }
+.sevenlights-cattotal {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  color: #6b6b6b;
+}
 .sevenlights-catcount {
   font-size: 0.8rem;
   font-weight: 400;
@@ -274,6 +279,12 @@
 }
 .sevenlights-story-readtime { color: #777; }
 
+/* ---------- Tighter inner-page header bar ----------
+   Ananke's nav carries Tachyons pv3 (1rem vertical padding); loaded later, this
+   halves it so the header reads like a news masthead rather than a banner. */
+.sevenlights-inner-nav { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+.sevenlights-inner-nav .f3 { font-size: 1.45rem; }
+
 /* ---------- Dropdown navigation (editor, 2026-10-23) ----------
    Two dropdowns (Categories, About) replace the flat row of eight links. */
 .sevenlights-nav-list { flex-wrap: nowrap; }
@@ -316,6 +327,75 @@
 }
 .sevenlights-dd-list a:hover { background: rgba(255, 255, 255, 0.12); color: #fff; }
 @media (max-width: 640px) {
-  .sevenlights-dd-list { min-width: 11.5rem; }
   .sevenlights-dd-list a { white-space: normal; }
+}
+
+/* Story counts inside the Categories dropdown (published stories per category). */
+.sevenlights-dd-count {
+  float: right;
+  margin-left: 1.25rem;
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.55);
+  font-variant-numeric: tabular-nums;
+}
+.sevenlights-dd-list a:hover .sevenlights-dd-count { color: rgba(255, 255, 255, 0.85); }
+
+/* ---------- Hamburger (mobile) + hover-open (desktop) ----------
+   <=640px: the nav collapses behind a Menu button; opening it reveals ONE panel
+   in which the two dropdowns expand inline (accordion), so nothing is
+   absolutely positioned inside another absolutely positioned box. */
+.sevenlights-nav-toggle {
+  display: none;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(10, 17, 32, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 0.35rem;
+  color: #fff;
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.7rem;
+  cursor: pointer;
+}
+.sevenlights-nav-toggle:hover { background: rgba(10, 17, 32, 0.8); }
+.sevenlights-nav-toggle-icon { font-size: 1.05rem; line-height: 1; }
+
+@media (max-width: 640px) {
+  .sevenlights-nav { position: relative; display: flex; justify-content: flex-end; }
+  .sevenlights-nav-toggle { display: inline-flex; margin-right: 1rem; }
+  .sevenlights-nav-list {
+    display: none;
+    position: absolute;
+    right: 0.75rem;
+    top: calc(100% + 0.35rem);
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    min-width: 13.5rem;
+    max-width: 78vw;
+    margin: 0;
+    padding: 0.4rem 0;
+    background: rgba(10, 17, 32, 0.98);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 0.45rem;
+    box-shadow: 0 14px 34px rgba(4, 8, 16, 0.6);
+    z-index: 70;
+  }
+  .sevenlights-nav.is-open .sevenlights-nav-list { display: flex; }
+  .sevenlights-nav-item { position: static; }
+  .sevenlights-dd-btn { padding: 0.5rem 1rem; }
+  .sevenlights-dd-list {
+    position: static;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+    padding: 0 0 0.3rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+  }
+  .sevenlights-dd-list a { padding-left: 1.6rem; }
+  .sevenlights-dd-count { margin-left: 1rem; }
 }

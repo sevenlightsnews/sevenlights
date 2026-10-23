@@ -1,3 +1,6 @@
 # Cloudflare Pages redirects (site-owned; Hugo copies static/ verbatim)
 # Pop Culture was folded into Entertainment (editor, 2026-10-23).
 /categories/pop-culture/ /categories/entertainment/ 301
+# The AI label maps to the Technology display category (params.siteCategories
+# names); redirect keeps the orphan taxonomy term out of the index.
+/categories/ai/ /categories/technology/ 301

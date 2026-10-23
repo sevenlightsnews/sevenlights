@@ -51,7 +51,7 @@
         <h2 class="sevenlights-cathead">
           <a class="sevenlights-catlink" href="/categories/{{ $c.term }}/">{{ $c.label }}</a>
           <span class="sevenlights-catcount">
-            {{ if $todays }}Today: {{ len $todays }} {{ if eq (len $todays) 1 }}story{{ else }}stories{{ end }}{{ end }}
+            {{ if $todays }}Today: {{ len $todays }} {{ if eq (len $todays) 1 }}story{{ else }}stories{{ end }} &middot; {{ end }}{{ len $catpages }} published
           </span>
         </h2>
         {{ if $top }}

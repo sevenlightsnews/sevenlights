@@ -9,23 +9,30 @@
 
 {{ define "main" }}
   <div class="sevenlights-category">
-    <header class="sevenlights-category-header">
-      <h1 class="sevenlights-category-title">{{ .LinkTitle }}</h1>
-      {{ partials.Include "sevenlights-dateline.html" . }}
-    </header>
-
     {{ $today := now.Format "2006-01-02" }}
-    {{/* Resolve this term's display config (legacy labels map here too). */}}
-    {{ $cat := false }}
-    {{ range $c := site.Params.siteCategories }}
-      {{ if eq $c.term $.Data.Term }}{{ $cat = $c }}{{ end }}
-    {{ end }}
+    {{/* Resolve this term's display config (legacy labels map here too).
+       NOTE: `where` on the params slice, not a range + `=` assignment — the
+       assignment form silently leaves the variable false in this build, which
+       made the label/count block never render. */}}
+    {{/* Hugo 0.160 sets .Data.Term to the AUTHORED front-matter label (e.g.
+       "Entertainment", "AI"), not the URL slug — so match on the params
+       `names` list, which is exactly the set of accepted labels. */}}
+    {{ $cats := where site.Params.siteCategories "names" "intersect" (slice $.Data.Term) }}
     {{ $pages := slice }}
-    {{ if $cat }}
-      {{ $pages = where (where site.RegularPages "Section" "stories") "Params.categories" "intersect" $cat.names }}
+    {{ with $cats }}
+      {{ $pages = where (where site.RegularPages "Section" "stories") "Params.categories" "intersect" (index . 0).names }}
     {{ else }}
       {{ $pages = where .Pages "Section" "stories" }}
     {{ end }}
+
+    <header class="sevenlights-category-header">
+      <h1 class="sevenlights-category-title">{{ .LinkTitle }}</h1>
+      {{ if $pages }}<p class="sevenlights-cattotal">
+        {{ len $pages }} {{ if eq (len $pages) 1 }}story{{ else }}stories{{ end }} published
+        {{ with $cats }}{{ if gt (len (index . 0).names) 1 }}&middot; also includes stories filed under: {{ delimit (after 1 (index . 0).names) ", " }}{{ end }}{{ end }}
+      </p>{{ end }}
+      {{ partials.Include "sevenlights-dateline.html" . }}
+    </header>
 
     {{ if not $pages }}
       <p class="sevenlights-empty">No stories published in this category yet —

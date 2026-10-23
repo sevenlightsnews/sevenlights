@@ -3,16 +3,28 @@
      eight links, which wrapped into a stack on mobile.
      Used by layouts/home.html (hero) and layouts/_partials/site-navigation.html
      (inner pages). Theme files are never touched.
-     <details>/<summary> = native tap support on mobile, keyboard accessible. */}}
+     <details>/<summary> = native tap support, keyboard accessible.
+     Mobile (<=640px): the whole nav collapses behind a hamburger button and the
+     dropdowns become inline accordions inside one panel (see custom.css).
+     Desktop: click OR hover opens; each category shows its published-story count. */}}
+
+{{ $allstories := where site.RegularPages "Section" "stories" }}
 
 <nav class="sevenlights-nav" aria-label="Main">
+  <button class="sevenlights-nav-toggle" type="button"
+          aria-expanded="false" aria-label="Open menu">
+    <span class="sevenlights-nav-toggle-icon" aria-hidden="true">&#9776;</span>
+    <span class="sevenlights-nav-toggle-label">Menu</span>
+  </button>
+
   <ul class="sevenlights-nav-list">
     <li class="sevenlights-nav-item">
       <details class="sevenlights-dd">
         <summary class="sevenlights-dd-btn">Categories<span class="sevenlights-dd-caret" aria-hidden="true">&#9662;</span></summary>
         <ul class="sevenlights-dd-list">
           {{ range .Site.Params.siteCategories }}
-            <li><a href="/categories/{{ .term }}/">{{ .label }}</a></li>
+            {{ $catpages := where $allstories "Params.categories" "intersect" .names }}
+            <li><a href="/categories/{{ .term }}/">{{ .label }}{{ if $catpages }}<span class="sevenlights-dd-count">{{ len $catpages }}</span>{{ end }}</a></li>
           {{ end }}
         </ul>
       </details>
@@ -34,23 +46,67 @@
 </nav>
 
 <script>
+  /* One controller for every .sevenlights-nav on the page (the partial can be
+     rendered more than once). Guard keeps double-attached listeners out. */
   (function () {
-    var dds = document.querySelectorAll('.sevenlights-dd');
-    dds.forEach(function (d) {
-      d.querySelector('summary').addEventListener('click', function (e) {
-        // Suppress the native <details> toggle: without preventDefault the
-        // browser toggles again after this handler and the menu snaps shut.
-        e.preventDefault();
-        var wasOpen = d.open;
-        dds.forEach(function (o) { o.open = false; });
-        d.open = !wasOpen;
+    if (window.__sevenlightsNav) return;
+    window.__sevenlightsNav = true;
+
+    var desktop = window.matchMedia('(min-width: 641px)');
+
+    document.querySelectorAll('.sevenlights-nav').forEach(function (nav) {
+      var dds = nav.querySelectorAll('.sevenlights-dd');
+      var toggle = nav.querySelector('.sevenlights-nav-toggle');
+
+      function closeAll() { dds.forEach(function (o) { o.open = false; }); }
+
+      dds.forEach(function (d) {
+        d.querySelector('summary').addEventListener('click', function (e) {
+          // Suppress the native <details> toggle: without preventDefault the
+          // browser toggles again after this handler and the menu snaps shut.
+          e.preventDefault();
+          var wasOpen = d.open;
+          closeAll();
+          d.open = !wasOpen;
+        });
       });
-    });
-    document.addEventListener('click', function (e) {
-      if (!e.target.closest('.sevenlights-dd')) dds.forEach(function (o) { o.open = false; });
-    });
-    document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') dds.forEach(function (o) { o.open = false; });
+
+      // Hover-open on desktop only; on touch the tap handler above is enough.
+      nav.querySelectorAll('.sevenlights-nav-item').forEach(function (li) {
+        var d = li.querySelector('.sevenlights-dd');
+        if (!d) return;
+        var t;
+        li.addEventListener('pointerenter', function (e) {
+          if (!desktop.matches || e.pointerType !== 'mouse') return;
+          clearTimeout(t); closeAll(); d.open = true;
+        });
+        li.addEventListener('pointerleave', function (e) {
+          if (!desktop.matches || e.pointerType !== 'mouse') return;
+          t = setTimeout(function () { d.open = false; }, 180);
+        });
+      });
+
+      // Hamburger: reveals the whole nav as one panel on narrow screens.
+      if (toggle) {
+        toggle.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var open = nav.classList.toggle('is-open');
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+          toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+          if (!open) closeAll();
+        });
+      }
+
+      // Close on outside click / Escape / navigating away.
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest('.sevenlights-nav')) { nav.classList.remove('is-open'); closeAll(); }
+      });
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') { nav.classList.remove('is-open'); closeAll(); }
+      });
+      nav.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function () { nav.classList.remove('is-open'); closeAll(); });
+      });
     });
   })();
 </script>
