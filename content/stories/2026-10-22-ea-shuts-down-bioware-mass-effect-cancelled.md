@@ -9,13 +9,13 @@ description = "EA has shut down BioWare, the studio behind Mass Effect, and the 
 author = "Seven Lights"
 categories = ["Technology"]
 tags = ["ea", "bioware", "mass-effect", "game-industry", "layoffs"]
-image = "https://cdn.mos.cms.futurecdn.net/rTWQm3qqzypmSzDmjqtm3j.jpg"
-image_alt = "Cinematic 3D render of a stern male soldier in dark futuristic armor with an N7 chest logo, standing before a glowing planet at night"
+image = "/images/stories/ea-shuts-down-bioware-mass-effect-cancelled.webp"
+image_alt = "A dark sci-fi spaceship interior with a glowing holographic table, two chairs, and a shaft of light from the ceiling"
 +++
 
-![Cinematic 3D render of a stern male soldier in dark futuristic armor with an N7 chest logo, standing before a glowing planet at night](https://cdn.mos.cms.futurecdn.net/rTWQm3qqzypmSzDmjqtm3j.jpg)
+![A dark sci-fi spaceship interior with a glowing holographic table, two chairs, and a shaft of light from the ceiling](/images/stories/ea-shuts-down-bioware-mass-effect-cancelled.webp)
 
-*Image: Space.com.*
+
 
 Electronic Arts has shut down BioWare, and the next Mass Effect game has been cancelled, Space.com reported. Ars Technica reported on the closure of the RPG studio after more than three decades.
 

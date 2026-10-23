@@ -9,13 +9,13 @@ description = "Mark Zuckerberg weighed leaving California over Proposition 40, a
 author = "Seven Lights"
 categories = ["Business"]
 tags = ["meta", "zuckerberg", "california", "wealth-tax", "prop-40"]
-image = "https://i.insider.com/6ad9f9ae2a1b5bc156b1ae58?width=700"
-image_alt = "Mark Zuckerberg in glasses and a black T-shirt reading 'Building Is My Love Language', speaking and gesturing on stage before a Meta yeti mascot graphic"
+image = "/images/stories/meta-stock-split-keeps-zuckerberg-california.webp"
+image_alt = "A sunset view of a modern glass office campus with olive trees and palm silhouettes, no people"
 +++
 
-![Mark Zuckerberg in glasses and a black T-shirt reading 'Building Is My Love Language', speaking and gesturing on stage before a Meta yeti mascot graphic](https://i.insider.com/6ad9f9ae2a1b5bc156b1ae58?width=700)
+![A sunset view of a modern glass office campus with olive trees and palm silhouettes, no people](/images/stories/meta-stock-split-keeps-zuckerberg-california.webp)
 
-*Image: Business Insider.*
+
 
 Meta's board struck a stock-split deal that will keep founder and chief executive Mark Zuckerberg in California, Forbes reported. The billionaire had considered leaving the state over a proposed wealth tax that could have forced him to sell shares and weaken his voting control of Meta, the outlet reported.
 

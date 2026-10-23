@@ -9,13 +9,13 @@ description = "Barclays is cutting roughly 5,000 jobs, around 5% of its global w
 author = "Seven Lights"
 categories = ["Business"]
 tags = ["barclays", "banking", "ai", "jobs", "uk", "earnings"]
-image = "https://www.cityam.com/wp-content/uploads/2024/06/Barclays-1200-x-800-1.jpeg?w=824&h=463&crop=1"
-image_alt = "Barclays has been blasted for financial crime failings"
+image = "/images/stories/barclays-cut-5000-jobs-ai.webp"
+image_alt = "A large open-plan trading floor with rows of empty desks and dark monitors, no people, cold even light"
 +++
 
-![Barclays has been blasted for financial crime failings](https://www.cityam.com/wp-content/uploads/2024/06/Barclays-1200-x-800-1.jpeg?w=824&h=463&crop=1)
+![A large open-plan trading floor with rows of empty desks and dark monitors, no people, cold even light](/images/stories/barclays-cut-5000-jobs-ai.webp)
 
-*Image: City A.M..*
+
 
 Update (Oct. 22, 2026): CNBC reported the reductions as part of an AI efficiency push at the bank, and Bloomberg added the Barclays job-cuts news to its Opening Trade market briefing video for Oct. 22. The new reporting contained no additional detail beyond the job-cut figures and third-quarter results already covered here.
 

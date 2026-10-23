@@ -9,19 +9,23 @@ description = "Billboard says New Feeling is the first authorized book from all 
 author = "Seven Lights"
 categories = ["Pop Culture"]
 tags = ["talking heads", "coffee table book", "new feeling", "music books", "rock history"]
-image = "https://www.rollingstone.com/wp-content/uploads/2026/10/talking-heads-release-book.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900"
-image_alt = "Four adults, three men and one woman, pose in a row before a black SiriusXM Talking Heads Radio step-and-repeat backdrop in a studio"
+image = "/images/stories/talking-heads-coffee-table-book-reunion.webp"
+image_alt = "A mid-century living room with a green sofa, a coffee table holding an open book, and a sideboard stereo with speakers"
 +++
 
-![Four adults, three men and one woman, pose in a row before a black SiriusXM Talking Heads Radio step-and-repeat backdrop in a studio](https://www.rollingstone.com/wp-content/uploads/2026/10/talking-heads-release-book.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900)
+![A mid-century living room with a green sofa, a coffee table holding an open book, and a sideboard stereo with speakers](/images/stories/talking-heads-coffee-table-book-reunion.webp)
 
-*Image: Rolling Stone.*
 
-Talking Heads are preparing "New Feeling," a career-spanning coffee-table book, Billboard reported. The outlet says it will be the first authorized book from all four members of the group: David Byrne, Jerry Harrison, Chris Frantz and Tina Weymouth.
 
-Rolling Stone reports the book is due in May and will feature handwritten lyrics, original album sketches, and private photos. Billboard puts the release date at next May.
+Talking Heads — David Byrne, Jerry Harrison, Chris Frantz and Tina Weymouth — are preparing “New Feeling,” a career-spanning coffee-table book, Billboard reported. Rolling Stone also reported on the project, and both outlets place its release in May: Rolling Stone reports the book is due in May, while Billboard puts the release date at next May.
 
-A photo caption published with Billboard's report shows the four band members attending SiriusXM's "Front Row with Talking Heads," hosted by Este Haim, at SiriusXM Studios in New York City on September 28, 2026.
+According to Billboard, “New Feeling” will be the first authorized book from all four members of the group. Billboard’s summary line for its announcement reads: “The first authorized book from all four members of the group is due out next May.” The outlet’s report carries the headline “Talking Heads Prepping Career-Spanning Coffee Table Book ‘New Feeling’” and describes the band as “legendary,” writing that its members “are preparing to chronicle their wild, wild life in music.”
+
+Rolling Stone reports the book will feature handwritten lyrics, original album sketches, and private photos. Rolling Stone’s summary line for its report reads: “New Feeling, due in May, will feature handwritten lyrics, original album sketches, and private photos.” The title “New Feeling” appears in Billboard’s headline and in Rolling Stone’s summary line, and Rolling Stone’s headline for its report — “Talking Heads Reunite for Coffee-Table Book” — frames the project as a reunion of the group.
+
+The reporting was accompanied by images of the four members appearing together in New York this September. A photo caption published with Billboard’s report identifies the people in the accompanying image as “(L-R) David Byrne, Jerry Harrison, Chris Frantz and Tina Weymouth of Talking Heads,” and says the four attended SiriusXM’s “Front Row with Talking Heads,” hosted by Este Haim, at SiriusXM Studios on September 28, 2026, with the photograph credited to Cindy Ord/Getty Images for SiriusXM.
+
+The image published with Rolling Stone’s report shows the three men and one woman posing in a row before a black step-and-repeat backdrop reading “SiriusXM Talking Heads Radio” in a studio. The SiriusXM appearance, reported alongside Billboard’s announcement of the book, shows all four members of the group together ahead of the book’s announced May release.
 
 ## Sources
 

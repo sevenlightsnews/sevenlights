@@ -9,13 +9,13 @@ description = "Republican Roger Marshall and Democratic pastor Adam Hamilton fac
 author = "Seven Lights"
 categories = ["US"]
 tags = ["kansas", "senate race", "roger marshall", "adam hamilton", "debate"]
-image = "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:best/rockcms/2026-10/261015-Roger-Marshall-Adam-Hamilton-ch-1211-27fbf8.jpg"
-image_alt = "Side-by-side composite portrait of two men in suit jackets against blurred indoor backgrounds, with no text or logos"
+image = "/images/stories/marshall-hamilton-kansas-senate-debate-takeaways.webp"
+image_alt = "An empty debate hall with two wooden lecterns on a raised stage and rows of vacant folding chairs"
 +++
 
-![Side-by-side composite portrait of two men in suit jackets against blurred indoor backgrounds, with no text or logos](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:best/rockcms/2026-10/261015-Roger-Marshall-Adam-Hamilton-ch-1211-27fbf8.jpg)
+![An empty debate hall with two wooden lecterns on a raised stage and rows of vacant folding chairs](/images/stories/marshall-hamilton-kansas-senate-debate-takeaways.webp)
 
-*Image: NBC News.*
+
 
 Sen. Roger Marshall (R-Kansas) faced Democrat Adam Hamilton, a pastor, in their final debate Wednesday night, amid signs that the race is tighter than Republicans had anticipated, The Hill reported.
 

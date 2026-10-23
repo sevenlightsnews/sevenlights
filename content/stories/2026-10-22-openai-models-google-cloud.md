@@ -9,11 +9,11 @@ description = "OpenAI and Google announced that OpenAI's models will be availabl
 author = "Seven Lights"
 categories = ["AI"]
 tags = ["openai", "google-cloud", "microsoft", "enterprise", "ai-models"]
-image = "https://sevenlights.org/images/news-placeholder.webp"
-image_alt = "Seven Lights placeholder graphic"
+image = "/images/stories/openai-models-google-cloud.webp"
+image_alt = "A symmetrical data-center aisle with black server racks, blue-green status LEDs and reflective raised-floor tiles"
 +++
 
-![Seven Lights placeholder graphic](https://sevenlights.org/images/news-placeholder.webp)
+![A symmetrical data-center aisle with black server racks, blue-green status LEDs and reflective raised-floor tiles](/images/stories/openai-models-google-cloud.webp)
 
 OpenAI will make its models available through Google Cloud, the companies announced, The Information reported. The move lessens OpenAI's reliance on Microsoft, with which the two companies once shared exclusivity, the outlet said.
 

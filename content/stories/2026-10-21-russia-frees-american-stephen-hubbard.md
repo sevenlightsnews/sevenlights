@@ -9,13 +9,13 @@ description = "Russia released Stephen Hubbard, a 74-year-old retired American t
 author = "Seven Lights"
 categories = ["US"]
 tags = ["russia", "ukraine", "donald-trump", "hostages", "steve-witkoff"]
-image = "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:best/rockcms/2026-10/261021-3x2-hubbard-2-rs-272d1a.jpg"
-image_alt = "Portrait of a smiling older man with a gray beard and glasses, photographed outdoors in front of blurred green foliage"
+image = "/images/stories/russia-frees-american-stephen-hubbard.webp"
+image_alt = "A man in a long coat walking away across a wet gray tarmac toward a parked private jet"
 +++
 
-![Portrait of a smiling older man with a gray beard and glasses, photographed outdoors in front of blurred green foliage](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:best/rockcms/2026-10/261021-3x2-hubbard-2-rs-272d1a.jpg)
+![A man in a long coat walking away across a wet gray tarmac toward a parked private jet](/images/stories/russia-frees-american-stephen-hubbard.webp)
 
-*Image: NBC News.*
+
 
 Russia released Stephen James Hubbard, a 74-year-old retired American teacher from Michigan, on Wednesday after nearly five years in Russian custody, announcing the release at the start of a meeting between President Donald Trump's special envoy Steve Witkoff and Russian President Vladimir Putin in St Petersburg, according to NPR and NBC News.
 

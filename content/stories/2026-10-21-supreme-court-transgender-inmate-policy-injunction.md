@@ -9,13 +9,13 @@ description = "The Supreme Court denied the Trump administration's emergency app
 author = "Seven Lights"
 categories = ["US"]
 tags = ["supreme-court", "prisons", "transgender", "federal-government", "courts"]
-image = "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8126x5417+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2Fca%2F101aa09243d3b3fa4de648137a9e%2Fgettyimages-2299615293.jpg"
-image_alt = "Front view of the United States Supreme Court building in Washington, with its columns, sculpted pediment, and marble steps under a clear sky"
+image = "/images/stories/supreme-court-transgender-inmate-policy-injunction.webp"
+image_alt = "A silhouetted figure walking between towering fluted marble columns of a neoclassical courthouse facade"
 +++
 
-![Front view of the United States Supreme Court building in Washington, with its columns, sculpted pediment, and marble steps under a clear sky](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8126x5417+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2Fca%2F101aa09243d3b3fa4de648137a9e%2Fgettyimages-2299615293.jpg)
+![A silhouetted figure walking between towering fluted marble columns of a neoclassical courthouse facade](/images/stories/supreme-court-transgender-inmate-policy-injunction.webp)
 
-*Image: NPR.*
+
 
 The Supreme Court on Wednesday declined to revive a federal Bureau of Prisons policy that would have ended hormone therapy and other gender-affirming treatments for transgender inmates in federal prisons, leaving a lower court's injunction in place while litigation over the policy continues, according to NPR and NBC News.
 

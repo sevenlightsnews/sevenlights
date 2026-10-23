@@ -9,13 +9,13 @@ description = "According to Ars Technica, Xbox wants to charge 24 to 40 cents pe
 author = "Seven Lights"
 categories = ["Technology"]
 tags = ["xbox", "cloud-gaming", "game-streaming", "pricing", "microsoft"]
-image = "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg"
-image_alt = "Two hands holding a handheld gaming PC displaying an Xbox game-store interface, with a green Xbox logo in the lower-left corner"
+image = "/images/stories/xbox-hourly-pricing-game-streaming.webp"
+image_alt = "A dark teal-graded living room at night with a large TV displaying an abstract glowing gradient, a sofa and an analog clock"
 +++
 
-![Two hands holding a handheld gaming PC displaying an Xbox game-store interface, with a green Xbox logo in the lower-left corner](https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg)
+![A dark teal-graded living room at night with a large TV displaying an abstract glowing gradient, a sofa and an analog clock](/images/stories/xbox-hourly-pricing-game-streaming.webp)
 
-*Image: Ars Technica.*
+
 
 Ars Technica reported that Xbox wants to charge users 24 to 40 cents per hour to stream games they have already bought.
 

@@ -9,13 +9,13 @@ description = "Brad Lander, the Democratic congressional nominee in New York's 1
 author = "Seven Lights"
 categories = ["US"]
 tags = ["brad-lander", "israel", "west-bank", "congress", "new-york"]
-image = "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/836x627+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F13%2F662de40b41cda580069a58be1bbf%2Fimg-2213.jpg"
-image_alt = "Uniformed, helmeted soldiers walking single file along a dirt trail through dry, hilly countryside with yellow flowering bushes and electricity pylons in the background"
+image = "/images/stories/brad-lander-released-israeli-detention-west-bank.webp"
+image_alt = "A passenger jet at dusk with boarding stairs and a single silhouetted traveler pulling luggage toward the door"
 +++
 
-![Uniformed, helmeted soldiers walking single file along a dirt trail through dry, hilly countryside with yellow flowering bushes and electricity pylons in the background](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/836x627+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F13%2F662de40b41cda580069a58be1bbf%2Fimg-2213.jpg)
+![A passenger jet at dusk with boarding stairs and a single silhouetted traveler pulling luggage toward the door](/images/stories/brad-lander-released-israeli-detention-west-bank.webp)
 
-*Image: NPR.*
+
 
 Brad Lander, the Democratic nominee for Congress in New York's 10th district and a former New York City comptroller, said Wednesday that Israeli security forces detained him in the occupied West Bank while he was helping Palestinian farmers harvest olives, and that he was later released with a warning while several dozen others in the group remained detained, according to NPR and NBC News.
 

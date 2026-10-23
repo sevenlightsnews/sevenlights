@@ -9,13 +9,13 @@ description = "The final Michigan Senate debate featured heated exchanges over c
 author = "Seven Lights"
 categories = ["US"]
 tags = ["michigan", "senate race", "debate", "abdul el-sayed", "mike rogers"]
-image = "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-Abdul-El-Sayed-Mike-Rogers-ew-342p-351044.jpg"
-image_alt = "Split-screen image of two men each filmed outdoors with clip-on microphones: a bearded man in a tan jacket before a brick wall and yellow flowers, and a gray-haired man in a dark suit before trees"
+image = "/images/stories/el-sayed-rogers-michigan-senate-debate.webp"
+image_alt = "An empty debate stage with two wooden podiums and microphones, cream backdrop, and rows of dark chairs"
 +++
 
-![Split-screen image of two men each filmed outdoors with clip-on microphones: a bearded man in a tan jacket before a brick wall and yellow flowers, and a gray-haired man in a dark suit before trees](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-Abdul-El-Sayed-Mike-Rogers-ew-342p-351044.jpg)
+![An empty debate stage with two wooden podiums and microphones, cream backdrop, and rows of dark chairs](/images/stories/el-sayed-rogers-michigan-senate-debate.webp)
 
-*Image: NBC News.*
+
 
 Republican Mike Rogers and Democrat Abdul El-Sayed clashed onstage Wednesday during the second debate in the Michigan Senate race, which CBS News described as increasingly bitter.
 

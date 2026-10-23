@@ -9,13 +9,13 @@ description = "Elon Musk said a merger of Tesla and SpaceX would be a good idea,
 author = "Seven Lights"
 categories = ["US"]
 tags = ["elon-musk", "tesla", "spacex", "mergers", "business"]
-image = "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
-image_alt = "Composite image showing Elon Musk in a blue suit jacket with clasped hands beside a photo of a Tesla vehicle on display and a photo of a SpaceX rocket lifting off"
+image = "/images/stories/musk-spacex-tesla-merger-good-idea.webp"
+image_alt = "A composite panorama: a rocket on a launch-pad gantry merging into a factory assembly line with yellow robot arms and a dark sedan"
 +++
 
-![Composite image showing Elon Musk in a blue suit jacket with clasped hands beside a photo of a Tesla vehicle on display and a photo of a SpaceX rocket lifting off](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png)
+![A composite panorama: a rocket on a launch-pad gantry merging into a factory assembly line with yellow robot arms and a dark sedan](/images/stories/musk-spacex-tesla-merger-good-idea.webp)
 
-*Image: BBC News.*
+
 
 Elon Musk, chief executive of both Tesla and SpaceX, said Tuesday that bringing the two companies together would be a good idea, and he disclosed that special committees have been formed at each company to assess a potential deal, according to the BBC. Musk stressed that nothing has been agreed and there is no guarantee a merger will happen.
 

@@ -9,13 +9,13 @@ description = "Apple's first foldable iPhone, the iPhone Duo, launches Friday, O
 author = "Seven Lights"
 categories = ["Technology"]
 tags = ["apple", "iphone", "foldable-phone", "smartphones", "retail"]
-image = "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-image_alt = "Close-up of a foldable smartphone angled partly open on a reflective surface, with its polished metal hinge edge in focus and a blurred home screen visible"
+image = "/images/stories/apple-limited-iphone-duo-in-store-stock.webp"
+image_alt = "A long queue of customers seen from behind outside a glass-fronted Apple Store with lit interior at opening time"
 +++
 
-![Close-up of a foldable smartphone angled partly open on a reflective surface, with its polished metal hinge edge in focus and a blurred home screen visible](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)
+![A long queue of customers seen from behind outside a glass-fronted Apple Store with lit interior at opening time](/images/stories/apple-limited-iphone-duo-in-store-stock.webp)
 
-*Image: The Verge.*
+
 
 Apple said it will have only a limited number of its new foldable iPhone Duo phones available for walk-in customers when the device launches on Friday, October 23, according to a Reuters report cited by The Verge. Online preorders for the phone sold out quickly, with some delivery estimates extending into next year.
 

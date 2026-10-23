@@ -9,13 +9,13 @@ description = "New Emerson College Polling and The Hill numbers put the Texas Se
 author = "Seven Lights"
 categories = ["US"]
 tags = ["texas", "senate race", "polling", "james talarico", "ken paxton"]
-image = "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2c1f/live/45255f10-cd79-11f1-bc2e-018d645d8d21.jpg"
-image_alt = "Split composite of a man in a dark suit waving his hand and a man in a blue checkered jacket speaking into microphones in front of a red-and-white flag"
+image = "/images/stories/talarico-paxton-texas-senate-dead-heat.webp"
+image_alt = "A night rally crowd seen from behind holding phone flashlights, US and Texas flags flanking a lit stage"
 +++
 
-![Split composite of a man in a dark suit waving his hand and a man in a blue checkered jacket speaking into microphones in front of a red-and-white flag](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2c1f/live/45255f10-cd79-11f1-bc2e-018d645d8d21.jpg)
+![A night rally crowd seen from behind holding phone flashlights, US and Texas flags flanking a lit stage](/images/stories/talarico-paxton-texas-senate-dead-heat.webp)
 
-*Image: BBC.*
+
 
 Democrat James Talarico and Republican Ken Paxton are in a dead heat for the Senate in Texas, according to new polling of one of the cycle's most closely watched contests, The Hill reported.
 

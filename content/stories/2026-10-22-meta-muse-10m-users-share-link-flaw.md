@@ -9,13 +9,13 @@ description = "Meta says its Muse AI app has passed 10 million users, with shopp
 author = "Seven Lights"
 categories = ["AI"]
 tags = ["meta", "ai-apps", "privacy", "security", "techcrunch", "q3-earnings"]
-image = "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
-image_alt = "A close-up of a human finger pressing the Muse app icon inside a folder containing Meta apps on a smartphone screen"
+image = "/images/stories/meta-muse-10m-users-share-link-flaw.webp"
+image_alt = "A dark network graphic with a glowing white hub linked to icon nodes, orange alert nodes marked by jagged lines"
 +++
 
-![A close-up of a human finger pressing the Muse app icon inside a folder containing Meta apps on a smartphone screen](https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024)
+![A dark network graphic with a glowing white hub linked to icon nodes, orange alert nodes marked by jagged lines](/images/stories/meta-muse-10m-users-share-link-flaw.webp)
 
-*Image: TechCrunch.*
+
 
 Update (Oct. 22, 2026): In a further report on the same story, TechCrunch said Meta told investors on its Q3 earnings call that the AI app now has over 10 million users and that users are adopting Muse for shopping and personal productivity.
 

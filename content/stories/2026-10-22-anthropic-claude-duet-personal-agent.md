@@ -9,13 +9,13 @@ description = "Anthropic announced Claude Duet, a personal agent offered as a re
 author = "Seven Lights"
 categories = ["AI"]
 tags = ["anthropic", "claude-duet", "ai-agents", "waitlist", "personal-assistant"]
-image = "https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/intro-1792616502.jpg"
-image_alt = "Promotional graphic for Claude Duet: an app icon and three overlapping phone screens showing chat channels, task lists and a drafted email"
+image = "/images/stories/anthropic-claude-duet-personal-agent.webp"
+image_alt = "A desk monitor at night displaying two glowing orange spheres linked by thin light filaments against a dark backdrop"
 +++
 
-![Promotional graphic for Claude Duet: an app icon and three overlapping phone screens showing chat channels, task lists and a drafted email](https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/intro-1792616502.jpg)
+![A desk monitor at night displaying two glowing orange spheres linked by thin light filaments against a dark backdrop](/images/stories/anthropic-claude-duet-personal-agent.webp)
 
-*Image: Engadget.*
+
 
 Anthropic on Wednesday announced Claude Duet, a personal agent offered as part of a new "research" preview, Engadget reported, which described the launch as Anthropic's answer to Meta Muse and OpenAI Dots.
 
