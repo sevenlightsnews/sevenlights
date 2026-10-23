@@ -115,8 +115,6 @@ lastmod = {now.strftime('%Y-%m-%dT%H:%M:%S')}Z
 draft = false
 +++
 
-Seven Lights traffic, counted at the Cloudflare edge (the network that serves this site). Numbers are requests and distinct client IPs, not analytics cookies — no visitor tracking happens on this site. Blocked scanner requests are automated probes for non-existent pages (WordPress login files, config files, etc.) that Cloudflare rejects before they reach the site.
-
 Data lags about one day; "Last 24 hours" covers the most recent complete day. The site launched on October 21, 2026, so the 30-day figures currently cover the same span as the 7-day figures until more history accumulates.
 
 {table("Last 24 hours", s1, b1)}
