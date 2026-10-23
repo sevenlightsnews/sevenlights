@@ -1,0 +1,5 @@
+{{/* Rendered date+time line. Build-time value is the fallback; the clock
+     partial refreshes it to the reader's local date/time live. */}}
+<p class="sevenlights-dateline" data-build="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{ now | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
+</p>

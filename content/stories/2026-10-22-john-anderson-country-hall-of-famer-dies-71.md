@@ -1,6 +1,7 @@
 +++
 title = "Country Music Hall of Famer John Anderson, Singer of 'Swingin'' and 'Seminole Wind,' Dies at 71"
 date = 2026-10-22T06:20:00-04:00
+refs = 3
 lastmod = 2026-10-22T06:20:00-04:00
 draft = false
 slug = "john-anderson-country-hall-of-famer-dies-71"

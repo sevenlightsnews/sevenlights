@@ -1,6 +1,7 @@
 +++
 title = "Meta Says Its Muse AI App Has Over 10 Million Users as It Pauses Share-Link Feature"
 date = 2026-10-22T06:18:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:21:00-04:00
 draft = false
 slug = "meta-muse-10m-users-share-link-flaw"

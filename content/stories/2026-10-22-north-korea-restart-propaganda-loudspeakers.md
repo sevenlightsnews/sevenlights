@@ -1,6 +1,7 @@
 +++
 title = "North Korea Prepares to Restart Propaganda Loudspeakers as Ties With South Deteriorate"
 date = 2026-10-22T06:16:00-04:00
+refs = 3
 lastmod = 2026-10-22T06:16:00-04:00
 draft = false
 slug = "north-korea-restart-propaganda-loudspeakers"

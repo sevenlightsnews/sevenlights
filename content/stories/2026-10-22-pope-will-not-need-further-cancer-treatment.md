@@ -1,6 +1,7 @@
 +++
 title = "Pope will not need further cancer treatment, doctors say"
 date = 2026-10-22T09:24:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:24:00-04:00
 draft = false
 slug = "pope-will-not-need-further-cancer-treatment"

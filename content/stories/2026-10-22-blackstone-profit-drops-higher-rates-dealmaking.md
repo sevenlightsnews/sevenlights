@@ -1,6 +1,7 @@
 +++
 title = "Blackstone Profit Drops 9.2% as Higher Rates Curb Dealmaking"
 date = 2026-10-22T09:22:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:22:00-04:00
 draft = false
 slug = "blackstone-profit-drops-higher-rates-dealmaking"

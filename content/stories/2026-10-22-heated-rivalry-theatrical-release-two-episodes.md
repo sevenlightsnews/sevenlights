@@ -1,6 +1,7 @@
 +++
 title = "'Heated Rivalry' to Release in Movie Theaters, Two Episodes at a Time"
 date = 2026-10-22T09:23:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:23:00-04:00
 draft = false
 slug = "heated-rivalry-theatrical-release-two-episodes"

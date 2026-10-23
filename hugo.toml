@@ -11,6 +11,41 @@ pagerSize = 20
 stories = "/:year/:month/:day/:slug/"
 
 [[menus.main]]
+name = "Global News"
+url = "/categories/global/"
+weight = 1
+
+[[menus.main]]
+name = "US News"
+url = "/categories/us/"
+weight = 2
+
+[[menus.main]]
+name = "Politics"
+url = "/categories/politics/"
+weight = 3
+
+[[menus.main]]
+name = "Business"
+url = "/categories/business/"
+weight = 4
+
+[[menus.main]]
+name = "Technology"
+url = "/categories/technology/"
+weight = 5
+
+[[menus.main]]
+name = "Sports"
+url = "/categories/sports/"
+weight = 6
+
+[[menus.main]]
+name = "Entertainment"
+url = "/categories/entertainment/"
+weight = 7
+
+[[menus.main]]
 name = "About"
 url = "/about/"
 weight = 10
@@ -21,6 +56,47 @@ home = ["HTML","RSS"]
 [params]
 description = "Independent news and analysis."
 mainSections = ["stories"]
+
+# The seven site categories (front-page order). `term` is the taxonomy slug
+# (URL /categories/<term>/). `names` are the front-matter `categories` values
+# that belong to this category — legacy labels (AI, Pop Culture) are kept on
+# old stories but displayed under the new seven-category structure.
+# Front page shows the top story per category: the day's story with the
+# highest `refs` (source-link count) in front matter.
+[[params.siteCategories]]
+term = "global"
+label = "Global News"
+names = ["Global"]
+
+[[params.siteCategories]]
+term = "us"
+label = "US News"
+names = ["US"]
+
+[[params.siteCategories]]
+term = "politics"
+label = "Politics"
+names = ["Politics"]
+
+[[params.siteCategories]]
+term = "business"
+label = "Business"
+names = ["Business"]
+
+[[params.siteCategories]]
+term = "technology"
+label = "Technology"
+names = ["Technology", "AI"]
+
+[[params.siteCategories]]
+term = "sports"
+label = "Sports"
+names = ["Sports"]
+
+[[params.siteCategories]]
+term = "entertainment"
+label = "Entertainment"
+names = ["Entertainment", "Pop Culture"]
 
 [params.ananke]
 custom_css = ["custom.css"]

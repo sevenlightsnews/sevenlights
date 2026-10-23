@@ -1,6 +1,7 @@
 +++
 title = "Vance Says He Is 'Disgusted' by Republicans Criticizing Ramaswamy Ad Featuring Acton's Mother"
 date = 2026-10-22T06:17:00-04:00
+refs = 3
 lastmod = 2026-10-22T06:17:00-04:00
 draft = false
 slug = "vance-defends-ramaswamy-ad-acton-mother"

@@ -1,6 +1,7 @@
 +++
 title = "Myanmar's Ousted Leader Aung San Suu Kyi Seen in Rare Photos After Receiving Gift From King Charles"
 date = 2026-10-22T06:15:00-04:00
+refs = 3
 lastmod = 2026-10-22T06:15:00-04:00
 draft = false
 slug = "aung-san-suu-kyi-rare-photos-king-charles-gift"

@@ -1,6 +1,7 @@
 +++
 title = "Claude Duet"
 date = 2026-10-22T09:21:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:21:00-04:00
 draft = false
 slug = "anthropic-claude-duet-personal-agent"

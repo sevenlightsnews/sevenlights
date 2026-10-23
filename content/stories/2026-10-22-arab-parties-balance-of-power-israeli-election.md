@@ -1,6 +1,7 @@
 +++
 title = "How Arab parties could hold critical balance of power in Israeli election"
 date = 2026-10-22T09:20:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "arab-parties-balance-of-power-israeli-election"

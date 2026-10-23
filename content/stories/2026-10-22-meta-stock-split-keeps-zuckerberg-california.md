@@ -1,6 +1,7 @@
 +++
 title = "Meta Stock Split Deal Will Keep Mark Zuckerberg In California Amid Billionaire Tax Threat"
 date = 2026-10-22T09:22:00-04:00
+refs = 5
 lastmod = 2026-10-22T09:22:00-04:00
 draft = false
 slug = "meta-stock-split-keeps-zuckerberg-california"

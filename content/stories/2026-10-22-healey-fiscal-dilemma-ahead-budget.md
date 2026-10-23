@@ -1,6 +1,7 @@
 +++
 title = "Healey’s fiscal ‘dilemma’ ahead of the Budget"
 date = 2026-10-22T09:22:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:22:00-04:00
 draft = false
 slug = "healey-fiscal-dilemma-ahead-budget"

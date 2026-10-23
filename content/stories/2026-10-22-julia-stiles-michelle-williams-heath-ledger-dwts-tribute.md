@@ -1,6 +1,7 @@
 +++
 title = "Julia Stiles Asked Michelle Williams to Approve Heath Ledger 'DWTS' Tribute"
 date = 2026-10-22T09:23:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:23:00-04:00
 draft = false
 slug = "julia-stiles-michelle-williams-heath-ledger-dwts-tribute"

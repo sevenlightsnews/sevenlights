@@ -1,6 +1,7 @@
 +++
 title = "TV Festival Unveils Dates, Venues & Advisory Chair for First-Ever Greater Manchester Edition"
 date = 2026-10-22T09:23:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:23:00-04:00
 draft = false
 slug = "greater-manchester-tv-festival-dates-venues"

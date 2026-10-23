@@ -1,6 +1,7 @@
 +++
 title = "Abdul El-Sayed and Mike Rogers clash in final Michigan Senate debate"
 date = 2026-10-22T09:20:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "el-sayed-rogers-michigan-senate-debate"

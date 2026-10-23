@@ -1,6 +1,12 @@
 {{/* Site-owned homepage for Seven Lights.
      Replaces Ananke's home.html and its homepage header block only.
-     Story pages, section pages, navigation, footer and metadata stay Ananke. */}}
+     Story pages, section pages, navigation, footer and metadata stay Ananke.
+
+     Front page (editor rules, 2026-10-22):
+       - the day's date and time (server-rendered at build, refreshed live by JS)
+       - exactly one top story per category: today's story with the highest
+         `refs` front-matter value (source-link count); falls back to the
+         newest story in the category when today has none. */}}
 
 {{ define "header" }}
   <header class="sevenlights-hero">
@@ -22,6 +28,7 @@
         {{ with .Params.description | default .Site.Params.description }}
           <p class="sevenlights-hero-tagline">{{ . }}</p>
         {{ end }}
+        {{ partials.Include "sevenlights-dateline.html" . }}
       </div>
     </div>
   </header>
@@ -33,13 +40,39 @@
       <div class="sevenlights-home-intro nested-links">{{ . }}</div>
     {{ end }}
 
-    {{/* All published stories, newest first. To add pagination later, swap
-       $stories for a paginated slice and render Hugo's pagination.html. */}}
-    {{ $stories := where site.RegularPages "Section" "in" (site.Params.mainSections | default (slice "stories")) }}
-    <section class="sevenlights-story-list" aria-label="Latest stories">
-      {{ range $stories }}
-        {{ partials.Include "sevenlights-story-row.html" . }}
+    {{ $today := now.Format "2006-01-02" }}
+    {{ $allstories := where site.RegularPages "Section" "stories" }}
+    {{ range $c := site.Params.siteCategories }}
+      {{ $catpages := where $allstories "Params.categories" "intersect" $c.names }}
+      {{ $todays := slice }}
+      {{ range $p := $catpages }}
+        {{ if eq ($p.Date.Format "2006-01-02") $today }}{{ $todays = $todays | append $p }}{{ end }}
       {{ end }}
-    </section>
+      {{ $top := false }}
+      {{ if $todays }}
+        {{/* Top story = the day's most-referenced story (refs = source links). */}}
+        {{ $top = index (sort $todays "Params.refs" "desc") 0 }}
+      {{ else if $catpages }}
+        {{ $top = index $catpages 0 }}
+      {{ end }}
+      <section class="sevenlights-catblock" aria-label="{{ $c.label }}">
+        <h2 class="sevenlights-cathead">
+          <a class="sevenlights-catlink" href="/categories/{{ $c.term }}/">{{ $c.label }}</a>
+          <span class="sevenlights-catcount">
+            {{ if $todays }}Today: {{ len $todays }} {{ if eq (len $todays) 1 }}story{{ else }}stories{{ end }}{{ end }}
+          </span>
+        </h2>
+        {{ if $top }}
+          {{ partials.Include "sevenlights-story-row.html" $top }}
+          <p class="sevenlights-catmore">
+            <a href="/categories/{{ $c.term }}/">More {{ $c.label }} &amp; past days &rarr;</a>
+          </p>
+        {{ else }}
+          <p class="sevenlights-empty">No stories yet — the next edition publishes daily at 6am ET.
+            <a href="/categories/{{ $c.term }}/">Open {{ $c.label }} &rarr;</a></p>
+        {{ end }}
+      </section>
+    {{ end }}
   </div>
+  {{ partials.Include "sevenlights-clock.html" . }}
 {{ end }}

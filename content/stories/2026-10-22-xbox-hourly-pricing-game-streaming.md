@@ -1,6 +1,7 @@
 +++
 title = "Xbox Wants You to Pay 24 to 40 Cents per Hour to Stream Games You Already Bought"
 date = 2026-10-22T09:21:00-04:00
+refs = 1
 lastmod = 2026-10-22T09:21:00-04:00
 draft = false
 slug = "xbox-hourly-pricing-game-streaming"

@@ -1,0 +1,20 @@
+{{/* Live dateline clock: replaces every .sevenlights-dateline text with the
+     reader's current local date and time; ticks every 30 seconds. */}}
+<script>
+(function () {
+  function fmt() {
+    var d = new Date();
+    var date = d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    var time = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+    var tz = '';
+    try { tz = ' ' + Intl.DateTimeFormat().resolvedOptions().timeZone.split('/').pop().replace(/_/g, ' '); } catch (e) {}
+    return date + ' \u2014 ' + time + tz;
+  }
+  function update() {
+    var els = document.querySelectorAll('.sevenlights-dateline');
+    for (var i = 0; i < els.length; i++) { els[i].textContent = fmt(); }
+  }
+  update();
+  setInterval(update, 30000);
+})();
+</script>

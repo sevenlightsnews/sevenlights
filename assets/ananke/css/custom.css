@@ -183,3 +183,90 @@
   }
   .sevenlights-story-title { font-size: 1.15rem; }
 }
+
+/* ---------- Seven Lights relaunch (2026-10-22) ---------- */
+
+/* Dateline (front page + category pages) */
+.sevenlights-dateline {
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  color: #f2e8d5;
+}
+
+/* Nav must wrap now that it carries seven categories */
+.sevenlights-nav-list { flex-wrap: wrap; }
+
+/* Front page: one block per category */
+.sevenlights-catblock {
+  margin: 0 0 2.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e4ddd0;
+}
+.sevenlights-cathead {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.sevenlights-catlink {
+  color: #1a1a1a;
+  text-decoration: none;
+  border-bottom: 2px solid #b58a3c;
+}
+.sevenlights-catlink:hover { color: #7a5c1e; }
+.sevenlights-catcount {
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  color: #777;
+}
+.sevenlights-catmore { margin: 0.5rem 0 0; }
+.sevenlights-catmore a { font-size: 0.9rem; }
+.sevenlights-empty { color: #666; font-style: italic; }
+
+/* Category pages */
+.sevenlights-category { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 0; }
+.sevenlights-category-header { margin-bottom: 1rem; }
+.sevenlights-category-header .sevenlights-dateline { color: #555; }
+.sevenlights-category-title { margin: 0 0 0.25rem; font-size: 1.8rem; }
+.sevenlights-daynav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0 0 1.5rem;
+  padding: 0.5rem 0.75rem;
+  background: #f4efe6;
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+.sevenlights-daynav-label { color: #666; margin-right: 0.25rem; }
+.sevenlights-daynav-link { white-space: nowrap; }
+.sevenlights-daygroup { margin-bottom: 2rem; scroll-margin-top: 1rem; }
+.sevenlights-dayhead {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0 0 0.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid #b58a3c;
+  font-size: 1.05rem;
+}
+.sevenlights-today-tag {
+  color: #7a5c1e;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.8rem;
+}
+.sevenlights-daycount {
+  margin-left: auto;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #777;
+}
+.sevenlights-story-readtime { color: #777; }

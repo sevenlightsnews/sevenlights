@@ -1,6 +1,7 @@
 +++
 title = "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor's race: Poll"
 date = 2026-10-22T09:20:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "talarico-paxton-texas-senate-dead-heat"

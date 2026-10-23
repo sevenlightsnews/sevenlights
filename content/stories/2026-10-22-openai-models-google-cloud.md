@@ -1,6 +1,7 @@
 +++
 title = "OpenAI to Bring Models to Google Cloud"
 date = 2026-10-22T09:21:00-04:00
+refs = 5
 lastmod = 2026-10-22T09:21:00-04:00
 draft = false
 slug = "openai-models-google-cloud"

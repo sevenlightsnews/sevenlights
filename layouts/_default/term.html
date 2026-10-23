@@ -1,0 +1,70 @@
+{{/* Site-owned taxonomy-term page (category pages: /categories/<term>/).
+     Hugo 0.160 resolves term pages via layouts/_default/term.html (beats
+     layouts/taxonomy/single.html and the theme's legacy taxonomy.html).
+     editor rules (2026-10-22):
+       - today's stories for this category first (max 3 per day by policy)
+       - every past day grouped underneath, newest first, with an anchor
+         nav to jump between days
+       - each story's permalink keeps the /YYYY/MM/DD/slug/ archive shape. */}}
+
+{{ define "main" }}
+  <div class="sevenlights-category">
+    <header class="sevenlights-category-header">
+      <h1 class="sevenlights-category-title">{{ .LinkTitle }}</h1>
+      {{ partials.Include "sevenlights-dateline.html" . }}
+    </header>
+
+    {{ $today := now.Format "2006-01-02" }}
+    {{/* Resolve this term's display config (legacy labels map here too). */}}
+    {{ $cat := false }}
+    {{ range $c := site.Params.siteCategories }}
+      {{ if eq $c.term $.Data.Term }}{{ $cat = $c }}{{ end }}
+    {{ end }}
+    {{ $pages := slice }}
+    {{ if $cat }}
+      {{ $pages = where (where site.RegularPages "Section" "stories") "Params.categories" "intersect" $cat.names }}
+    {{ else }}
+      {{ $pages = where .Pages "Section" "stories" }}
+    {{ end }}
+
+    {{ if not $pages }}
+      <p class="sevenlights-empty">No stories published in this category yet —
+        the next edition publishes daily at 6am ET.</p>
+    {{ end }}
+
+    {{/* Group stories by calendar day; $pages is already newest-first,
+       so $days comes out newest-day-first without extra sorting. */}}
+    {{ $days := slice }}
+    {{ range $p := $pages }}
+      {{ $d := $p.Date.Format "2006-01-02" }}
+      {{ if not (in $days $d) }}{{ $days = $days | append $d }}{{ end }}
+    {{ end }}
+
+    {{ if gt (len $days) 1 }}
+      <nav class="sevenlights-daynav" aria-label="Past days in {{ .LinkTitle }}">
+        <span class="sevenlights-daynav-label">Browse days:</span>
+        {{ range $d := $days }}
+          <a class="sevenlights-daynav-link" href="#day-{{ $d }}">{{ $d | time.Format "Jan 2" }}</a>
+        {{ end }}
+      </nav>
+    {{ end }}
+
+    {{ range $d := $days }}
+      {{ $daypages := slice }}
+      {{ range $p := $pages }}
+        {{ if eq ($p.Date.Format "2006-01-02") $d }}{{ $daypages = $daypages | append $p }}{{ end }}
+      {{ end }}
+      <section class="sevenlights-daygroup" id="day-{{ $d }}">
+        <h2 class="sevenlights-dayhead">
+          {{ if eq $d $today }}<span class="sevenlights-today-tag">Today</span> — {{ end }}
+          {{ $d | time.Format "Monday, January 2, 2006" }}
+          <span class="sevenlights-daycount">{{ len $daypages }} {{ if eq (len $daypages) 1 }}story{{ else }}stories{{ end }}</span>
+        </h2>
+        {{ range $daypages }}
+          {{ partials.Include "sevenlights-story-row.html" . }}
+        {{ end }}
+      </section>
+    {{ end }}
+  </div>
+  {{ partials.Include "sevenlights-clock.html" . }}
+{{ end }}

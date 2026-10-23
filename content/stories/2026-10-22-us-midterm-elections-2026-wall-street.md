@@ -1,6 +1,7 @@
 +++
 title = "US Midterm Elections 2026: What Results Could Mean for Wall Street"
 date = 2026-10-22T09:22:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:22:00-04:00
 draft = false
 slug = "us-midterm-elections-2026-wall-street"

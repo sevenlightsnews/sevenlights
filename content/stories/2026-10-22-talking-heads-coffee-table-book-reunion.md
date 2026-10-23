@@ -1,6 +1,7 @@
 +++
 title = "Talking Heads Reunite for Coffee-Table Book"
 date = 2026-10-22T09:23:00-04:00
+refs = 2
 lastmod = 2026-10-22T09:23:00-04:00
 draft = false
 slug = "talking-heads-coffee-table-book-reunion"

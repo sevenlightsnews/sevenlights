@@ -1,6 +1,7 @@
 +++
 title = "France reports first human case of Shamonda virus, but says there's no public health risk"
 date = 2026-10-22T09:20:00-04:00
+refs = 5
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "france-first-human-shamonda-virus-case"

@@ -1,6 +1,7 @@
 +++
 title = "Barclays to Cut About 5,000 Jobs as It Expands Use of AI"
 date = 2026-10-22T06:19:00-04:00
+refs = 6
 lastmod = 2026-10-22T09:36:00-04:00
 draft = false
 slug = "barclays-cut-5000-jobs-ai"

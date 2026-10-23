@@ -1,6 +1,7 @@
 +++
 title = "Marshall, Hamilton clash in battleground Kansas Senate debate: 4 takeaways"
 date = 2026-10-22T09:20:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "marshall-hamilton-kansas-senate-debate-takeaways"

@@ -1,6 +1,7 @@
 +++
 title = "Scientists uncover a hidden map of the brain with 539 distinct regions"
 date = 2026-10-22T09:24:00-04:00
+refs = 1
 lastmod = 2026-10-22T09:24:00-04:00
 draft = false
 slug = "hidden-brain-map-539-distinct-regions"

@@ -1,6 +1,7 @@
 +++
 title = "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine"
 date = 2026-10-22T09:20:00-04:00
+refs = 3
 lastmod = 2026-10-22T09:20:00-04:00
 draft = false
 slug = "russia-bombards-kyiv-after-agreeing-resume-talks"
