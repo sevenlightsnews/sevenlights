@@ -5,3 +5,23 @@
 <p class="sevenlights-dateline" data-build="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
   {{ now | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
 </p>
+<script>
+(function () {
+  if (window.__slDateline) { window.__slDateline(); return; }
+  function fmt() {
+    var d = new Date();
+    var date = d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    var time = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+    var tz = '';
+    try { tz = ' ' + Intl.DateTimeFormat().resolvedOptions().timeZone.split('/').pop().replace(/_/g, ' '); } catch (e) {}
+    return date + ' \u2014 ' + time + tz;
+  }
+  function update() {
+    var els = document.querySelectorAll('.sevenlights-dateline');
+    for (var i = 0; i < els.length; i++) { els[i].textContent = fmt(); }
+  }
+  window.__slDateline = update;
+  update();
+  setInterval(update, 30000);
+})();
+</script>
