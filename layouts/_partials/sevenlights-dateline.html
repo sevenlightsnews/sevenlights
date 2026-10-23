@@ -1,5 +1,7 @@
-{{/* Rendered date+time line. Build-time value is the fallback; the clock
-     partial refreshes it to the reader's local date/time live. */}}
+{{/* Date+time line. The build-time value below is ONLY the no-JS fallback: the
+     inline script rewrites every .sevenlights-dateline to the reader's current
+     local date/time the moment this element is parsed (so the hero never shows
+     a stale build stamp), then keeps ticking every 30 seconds. */}}
 <p class="sevenlights-dateline" data-build="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">
   {{ now | time.Format "Monday, January 2, 2006 — 3:04 PM MST" }}
 </p>

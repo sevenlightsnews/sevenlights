@@ -171,6 +171,14 @@
 /* ---------- Mobile ---------- */
 @media (max-width: 640px) {
   .sevenlights-hero-overlay { min-height: 128px; padding-bottom: 0.75rem; }
+  /* Masthead scales with the viewport so "Seven Lights" spans the hero width
+     instead of sitting small in the middle. Coefficient tuned by measuring the
+     rendered text box at 390px (see hugo-site-management skill). */
+  .sevenlights-hero-title {
+    font-size: clamp(2.2rem, 13.8vw, 3.6rem);
+    letter-spacing: 0;
+    line-height: 1.05;
+  }
   .sevenlights-nav-list { padding: 0.5rem 1rem 0 0; gap: 1rem; }
   .sevenlights-story-row {
     flex-direction: column;
