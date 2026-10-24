@@ -2,7 +2,7 @@
 title = "Traffic Statistics"
 description = "Seven Lights traffic, measured at the Cloudflare edge and updated daily."
 date = 2026-10-21T06:00:00-04:00
-lastmod = 2026-10-24T10:25:22Z
+lastmod = 2026-10-24T16:10:20Z
 draft = false
 +++
 
@@ -48,4 +48,4 @@ _Sep 24–Oct 23_
 | `/` (home) | 897 |
 
 
-_Last updated: 2026-10-24 10:25 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
+_Last updated: 2026-10-24 16:10 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
