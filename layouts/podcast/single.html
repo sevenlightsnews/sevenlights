@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Params.summary | default .Description }}">
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+</head>
+<body>
+  <header style="padding:1rem 0;border-bottom:1px solid #ddd;">
+    <a href="{{ "/" | relURL }}">&larr; Seven Lights</a>
+    <span style="float:right"><a href="{{ "/podcast/index.podcast.xml" | relURL }}">RSS feed</a></span>
+  </header>
+  <main style="max-width:42rem;margin:2rem auto;padding:0 1rem;">
+    <h1>{{ .Title }}</h1>
+    <p><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time> &middot; Episode runtime {{ .Params.duration_human }}</p>
+    <audio controls preload="metadata" style="width:100%;">
+      <source src="{{ .Params.audio }}" type="audio/mpeg">
+      Your browser does not support the audio element. Download the <a href="{{ .Params.audio }}">MP3</a>.
+    </audio>
+    <h2>About this episode</h2>
+    <p>{{ .Params.summary }}</p>
+    <h2>Today's stories</h2>
+    {{ .Content }}
+    <p><a href="{{ "/podcast/" | relURL }}">All episodes</a></p>
+  </main>
+  <footer style="max-width:42rem;margin:2rem auto;padding:0 1rem;color:#666;">
+    Seven Lights &middot; <a href="https://sevenlights.org">sevenlights.org</a>
+  </footer>
+</body>
+</html>

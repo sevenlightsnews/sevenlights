@@ -1,0 +1,43 @@
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Seven Lights Daily Brief</title>
+    <link>{{ .Site.BaseURL }}podcast/</link>
+    <language>en-us</language>
+    <copyright>Seven Lights</copyright>
+    <description>A daily ten-to-fifteen minute news briefing from Seven Lights: international events, technology, economics, science and public policy, read in the professional broadcast tradition. Calm, factual, no sensationalism.</description>
+    <googleplay:description>A daily ten-to-fifteen minute news briefing from Seven Lights.</googleplay:description>
+    <itunes:author>Seven Lights</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News"/>
+    <itunes:category text="Technology"/>
+    <itunes:image href="{{ "images/podcast-artwork.jpg" | absURL }}"/>
+    <image>
+      <url>{{ "images/podcast-artwork.jpg" | absURL }}</url>
+      <title>Seven Lights Daily Brief</title>
+      <link>{{ .Site.BaseURL }}podcast/</link>
+    </image>
+    <podcast:guid>sevenlights-dailybrief-org-2026</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <generator>Hugo</generator>
+    {{ range where .Site.RegularPages "Section" "podcast" }}
+    <item>
+      <title>{{ .Title | html }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="false">sevenlights-dailybrief-{{ .File.ContentBaseName }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <itunes:author>Seven Lights</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <description>{{ .Params.summary | default .Description | html }}</description>
+      <itunes:summary>{{ .Params.summary | default .Description | html }}</itunes:summary>
+      {{ with .Params.duration }}<itunes:duration>{{ . }}</itunes:duration>{{ end }}
+      {{ with .Params.audio }}<enclosure url="{{ . }}" length="11104800" type="audio/mpeg"/>{{ end }}
+    </item>
+    {{ end }}
+  </channel>
+</rss>

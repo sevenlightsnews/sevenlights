@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Description }}">
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  <link rel="alternate" type="application/rss+xml" title="Seven Lights Daily Brief (RSS)" href="{{ .RelPermalink }}podcast.xml">
+</head>
+<body>
+  <header style="padding:1rem 0;border-bottom:1px solid #ddd;">
+    <a href="{{ "/" | relURL }}">&larr; Seven Lights</a>
+    <span style="float:right"><a href="{{ .RelPermalink }}podcast.xml">RSS feed</a></span>
+  </header>
+  <main style="max-width:42rem;margin:2rem auto;padding:0 1rem;">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <h2>Episodes</h2>
+    {{ range .Pages.ByDate.Reverse }}
+    <article style="margin-bottom:1.5rem;">
+      <h3 style="margin-bottom:.25rem;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p style="margin-top:0;color:#666;">{{ .Date.Format "January 2, 2006" }} &middot; {{ .Params.duration_human }}</p>
+      <p>{{ .Params.summary }}</p>
+      <audio controls preload="none" style="width:100%;">
+        <source src="{{ .Params.audio }}" type="audio/mpeg">
+      </audio>
+    </article>
+    {{ end }}
+  </main>
+  <footer style="max-width:42rem;margin:2rem auto;padding:0 1rem;color:#666;">
+    Seven Lights &middot; <a href="https://sevenlights.org">sevenlights.org</a>
+  </footer>
+</body>
+</html>

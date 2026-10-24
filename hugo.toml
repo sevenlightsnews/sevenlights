@@ -4,6 +4,11 @@ title = "Seven Lights"
 
 theme="ananke"
 
+[outputFormats.podcast]
+mediaType = "application/rss"
+baseName = "podcast"
+isPlainText = true
+
 [pagination]
 pagerSize = 20
 
@@ -56,6 +61,11 @@ weight = 10
 name = "Traffic Statistics"
 url = "/about/traffic/"
 weight = 11
+
+[[menus.main]]
+name = "Podcast"
+url = "/podcast/"
+weight = 12
 
 [outputs]
 home = ["HTML","RSS"]
