@@ -1,4 +1,5 @@
 <rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:podcast="https://podcastindex.org/namespace/1.0"
@@ -15,14 +16,15 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="News"/>
     <itunes:category text="Technology"/>
-    <itunes:image href="{{ "images/podcast-artwork.jpg" | absURL }}"/>
+    <itunes:image href="https://media.sevenlights.org/artwork/podcast-artwork.jpg"/>
     <image>
-      <url>{{ "images/podcast-artwork.jpg" | absURL }}</url>
+      <url>https://media.sevenlights.org/artwork/podcast-artwork.jpg</url>
       <title>Seven Lights Daily Brief</title>
       <link>{{ .Site.BaseURL }}podcast/</link>
     </image>
-    <podcast:guid>sevenlights-dailybrief-org-2026</podcast:guid>
+    <podcast:guid>808d42aa-d1ce-497c-986e-0b11c4d32965</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
+    <atom:link href="https://media.sevenlights.org/podcast.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     <generator>Hugo</generator>
     {{ range where .Site.RegularPages "Section" "podcast" }}
