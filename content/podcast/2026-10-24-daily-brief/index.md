@@ -5,6 +5,7 @@ lastmod = 2026-10-24T07:00:00-04:00
 draft = false
 author = "Seven Lights"
 audio = "https://media.sevenlights.org/podcasts/2026-10-24-daily-brief.mp3"
+audio_bytes = 11104800
 duration = "694"
 duration_human = "11 min 34 s"
 explicit = false

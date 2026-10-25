@@ -36,7 +36,7 @@
       <description>{{ .Params.summary | default .Description | html }}</description>
       <itunes:summary>{{ .Params.summary | default .Description | html }}</itunes:summary>
       {{ with .Params.duration }}<itunes:duration>{{ . }}</itunes:duration>{{ end }}
-      {{ with .Params.audio }}<enclosure url="{{ . }}" length="11104800" type="audio/mpeg"/>{{ end }}
+      {{ $bytes := .Params.audio_bytes | default 11104800 }}{{ with .Params.audio }}<enclosure url="{{ . }}" length="{{ $bytes }}" type="audio/mpeg"/>{{ end }}
     </item>
     {{ end }}
   </channel>
