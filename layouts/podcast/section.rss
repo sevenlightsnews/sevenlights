@@ -12,6 +12,10 @@
     <description>A daily ten-to-fifteen minute news briefing from Seven Lights: international events, technology, economics, science and public policy, read in the professional broadcast tradition. Calm, factual, no sensationalism.</description>
     <googleplay:description>A daily ten-to-fifteen minute news briefing from Seven Lights.</googleplay:description>
     <itunes:author>Seven Lights</itunes:author>
+    <itunes:owner>
+      <itunes:name>Seven Lights</itunes:name>
+      <itunes:email>podcast@sevenlights.org</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="News"/>
