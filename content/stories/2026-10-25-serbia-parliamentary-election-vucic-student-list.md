@@ -1,7 +1,7 @@
 +++
 title = "Serbia Votes as Vucic's Party Faces Challenge From Student Movement"
 date = 2026-10-25T07:24:00-04:00
-lastmod = 2026-10-25T07:24:00-04:00
+lastmod = 2026-10-26T05:05:00-04:00
 draft = false
 slug = "serbia-parliamentary-election-vucic-student-list"
 summary = "Serbia held parliamentary elections on October 25, with Aleksandar Vucic's Progressive Party and the opposition Students' List polling neck-and-neck in the most contested vote of the populist leader's 14 years in power."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["serbia", "elections", "aleksandar-vucic", "student-protests", "balkans"]
 image = "/images/stories/serbia-parliamentary-election-vucic-student-list.webp"
 image_alt = "A long queue of people in winter coats, seen from behind, standing on a leaf-strewn sidewalk beside a columned neoclassical building facing its entrance, bare autumn trees and a vintage cast-iron street lamp under a hazy sky"
-refs = 5
+refs = 8
 +++
 
 ![A long queue of people in winter coats, seen from behind, standing on a leaf-strewn sidewalk beside a columned neoclassical building facing its entrance, bare autumn trees and a vintage cast-iron street lamp under a hazy sky](/images/stories/serbia-parliamentary-election-vucic-student-list.webp)
@@ -27,6 +27,8 @@ The youth movement has no formal leader and has put forward candidates drawn fro
 Concern for the fairness of the vote shadowed the campaign. RFE/RL found some 500,000 people registered to vote without a full address, raising fears of fraud. International and local monitors cited detentions, near-total government control over the media, and reports of surveillance and cyberattacks against activists. The observation mission for the 2023 parliamentary election noted an overwhelming ruling-party advantage from media bias and misuse of public office. Serbia is a candidate for European Union membership, and the bloc is watching the conduct of the vote closely.
 
 Turnout was expected to be high, a development that could push smaller parties below the three percent threshold required to win seats and narrow the assembly contest to the two leading camps. A victory for the Students' List would resonate beyond Serbia's borders, coming as youth-led protest movements have pressed incumbent governments elsewhere in Europe. Results were expected late Sunday.
+
+Update, October 26 — Aleksandar Vučić conceded defeat on Sunday night, in preliminary results that give the Student List a majority in the 250-seat National Assembly. Speaking at his party's headquarters in Belgrade, Mr. Vučić said a sample of returns showed the Student List taking between 135 and 140 seats against his Serbian Progressive Party's 105. "It is clear that we have lost these elections," he said. Turnout of 67.6 percent, estimated by the pollsters CeSID and Ipsos, was the highest since the breakup of Yugoslavia in 1992. Crowds filled the streets of Belgrade and other cities, and supporters embraced police officers. Radomir Saičić, a Belgrade University professor speaking for the students, said: "Tonight the voice of the people is being heard. Tonight we celebrate victory, tomorrow we build the future." The swift concession, coming six months after Viktor Orbán's defeat in Hungary, raised hopes of a democratic resurgence in central Europe.
 
 ## Sources
 

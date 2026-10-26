@@ -1,7 +1,7 @@
 +++
 title = "Ukraine Says Starlink Speed Restrictions Still in Place Despite Trump's Assurances"
 date = 2026-10-24T04:36:00-04:00
-lastmod = 2026-10-24T04:36:00-04:00
+lastmod = 2026-10-26T05:05:00-04:00
 draft = false
 slug = "starlink-starshield-throttling-ukraine"
 summary = "Ukraine said restrictions on SpaceX's military-grade Starshield terminals remain in place, with drones above 100mph still losing connectivity, despite President Trump's statement that SpaceX had reversed the speed caps."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["spacex", "starlink", "starshield", "ukraine", "drones", "musk", "trump"]
 image = "/images/stories/starlink-starshield-throttling-ukraine.webp"
 image_alt = "Small white satellite internet terminal dish on a short tripod at the edge of a dark rural field at night, distant treeline silhouette, faint orange glow on the horizon, starry sky"
-refs = 3
+refs = 6
 +++
 
 ![Small white satellite internet terminal dish on a short tripod at the edge of a dark rural field at night, distant treeline silhouette, faint orange glow on the horizon, starry sky](/images/stories/starlink-starshield-throttling-ukraine.webp)
@@ -26,8 +26,13 @@ The dispute has centred on the Starshield constellation, the secure variant of S
 
 SpaceX has not publicly detailed the restrictions, CNBC reported. The company has previously said its commercial Starlink service operates under terms of service that bar its use as a weapons system. The standoff leaves Ukrainian drone units adapting mid-campaign, with some turning to alternative links, Alperovitch told CNBC.
 
+Update, October 26 — Ukraine's defence ministry said on Saturday that speeds on the Starlink system had been fully restored after two weeks of restrictions. "We are recording speeds exceeding 400 kilometres per hour, with stable connectivity," the ministry said in a statement.
+
 ## Sources
 
 - [CNBC](https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html)
 - [WSJ Business](https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=pls_whats_news_us_business_f)
 - [Financial Times](https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1)
+- [Axios](https://www.axios.com/2026-10-24/musk-ukraine-starlink-starshield-speed)
+- [The Hill](https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/)
+- [NYT Politics](https://www.nytimes.com/2026-10-24/world/europe/ukraine-starshield-drone-speed.html)
