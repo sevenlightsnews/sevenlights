@@ -4,6 +4,13 @@ title = "Seven Lights"
 
 theme="ananke"
 
+# Search index: Hugo-native JSON output consumed by Fuse.js on /search/.
+# Generated at build time from content — no external tools, no API keys.
+[outputFormats.searchindex]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+
 [outputFormats.podcast]
 mediaType = "application/rss"
 baseName = "podcast"

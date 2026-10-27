@@ -1,0 +1,17 @@
+{{/* Search index for /search/ (Fuse.js client-side search).
+     One compact JSON object per published story. Body text is capped to the
+     first 400 characters ("x") to keep the index light; title, summary and
+     category carry the strongest signals. */}}
+{{- $pages := where site.RegularPages "Section" "stories" -}}
+{{- $out := slice -}}
+{{- range $pages -}}
+  {{- $body := substr (delimit .Plain " ") 0 400 -}}
+  {{- $out = $out | append (dict
+        "t" .Title
+        "u" .RelPermalink
+        "d" (.Date.Format "2006-01-02")
+        "c" (.Params.categories | default slice)
+        "s" (.Description | default "")
+        "x" $body) -}}
+{{- end -}}
+{{- $out | jsonify }}

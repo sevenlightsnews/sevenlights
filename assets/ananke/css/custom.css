@@ -407,3 +407,38 @@
   .sevenlights-dd-list a { padding-left: 1.6rem; }
   .sevenlights-dd-count { margin-left: 1rem; }
 }
+
+/* ---------- Search page (Hugo JSON index + Fuse.js) ---------- */
+.sevenlights-search { max-width: 46rem; margin: 0 auto; padding: 1rem 0 2rem; }
+.sevenlights-search-title { margin-bottom: 0.25rem; }
+.sevenlights-search-sub { opacity: 0.75; margin-top: 0; }
+.sevenlights-search-form { margin: 1.25rem 0 0.5rem; }
+.sevenlights-search-form input {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  font-size: 1rem;
+  color: inherit;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 0.45rem;
+}
+.sevenlights-search-form input:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.45);
+}
+.sevenlights-search-status { min-height: 1.4em; opacity: 0.8; font-size: 0.92rem; margin: 0.25rem 0 0.75rem; }
+.sevenlights-search-results { list-style: none; margin: 0; padding: 0; }
+.sevenlights-search-results li {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+.sevenlights-search-result-title { font-weight: 600; font-size: 1.05rem; }
+.sevenlights-search-result-meta { opacity: 0.7; font-size: 0.85rem; margin-top: 0.15rem; }
+.sevenlights-search-result-sum { margin: 0.4rem 0 0; font-size: 0.95rem; opacity: 0.9; }
+
+/* Search link in the nav (plain link styled like the dropdown buttons). */
+.sevenlights-nav-search { text-decoration: none; display: inline-block; }
+.sevenlights-nav-search:hover { color: #fff; }
+@media (max-width: 640px) {
+  .sevenlights-nav-search { padding: 0.5rem 1rem; }
+}

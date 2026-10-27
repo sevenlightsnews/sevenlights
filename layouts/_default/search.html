@@ -1,0 +1,92 @@
+{{/* Site-owned search page (/search/). Hugo builds a JSON index of every
+     story at deploy time (search.searchindex.json -> /search/index.json);
+     Fuse.js (vendored, static/js/fuse.min.js) does fuzzy matching entirely
+     client-side. Free, no third-party search service, no API keys. */}}
+
+{{ define "main" }}
+<div class="sevenlights-search">
+  <h1 class="sevenlights-search-title">Search Seven Lights</h1>
+  <p class="sevenlights-search-sub">Search every published story by keyword.</p>
+  <form class="sevenlights-search-form" role="search" onsubmit="return false;">
+    <input id="sl-search-input" type="search" autocomplete="off"
+           placeholder="e.g. Ukraine, tariffs, SpaceX…" aria-label="Search stories">
+  </form>
+  <div id="sl-search-status" class="sevenlights-search-status" aria-live="polite"></div>
+  <ul id="sl-search-results" class="sevenlights-search-results"></ul>
+</div>
+
+<script src="{{ "/js/fuse.min.js" | relURL }}"></script>
+<script>
+(function () {
+  var input = document.getElementById('sl-search-input');
+  var status = document.getElementById('sl-search-status');
+  var list = document.getElementById('sl-search-results');
+  var fuse = null, index = [];
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function fmtDate(d) {
+    var m = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var p = String(d).split('-');
+    return m[parseInt(p[1], 10) - 1] + ' ' + parseInt(p[2], 10) + ', ' + p[0];
+  }
+
+  function render(q, results) {
+    list.innerHTML = '';
+    if (!q) { status.textContent = ''; return; }
+    if (!results.length) { status.textContent = 'No stories matched \u201C' + q + '\u201D.'; return; }
+    status.textContent = results.length + (results.length === 1 ? ' story' : ' stories') + ' matching \u201C' + q + '\u201D.';
+    results.forEach(function (r) {
+      var it = r.item;
+      var li = document.createElement('li');
+      li.innerHTML =
+        '<a class="sevenlights-search-result-title" href="' + esc(it.u) + '">' + esc(it.t) + '</a>' +
+        '<div class="sevenlights-search-result-meta">' + esc(fmtDate(it.d)) +
+        (it.c && it.c.length ? ' &middot; ' + esc(it.c.join(', ')) : '') + '</div>' +
+        (it.s ? '<p class="sevenlights-search-result-sum">' + esc(it.s) + '</p>' : '');
+      list.appendChild(li);
+    });
+  }
+
+  function search() {
+    if (!fuse) return;
+    var q = input.value.trim();
+    if (history.replaceState) history.replaceState(null, '', q ? ('?q=' + encodeURIComponent(q)) : location.pathname);
+    if (q.length < 2) { render('', []); return; }
+    render(q, fuse.search(q).slice(0, 50));
+  }
+
+  fetch('{{ "/search/index.json" | relURL }}')
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) {
+      index = data;
+      fuse = new Fuse(index, {
+        keys: [
+          { name: 't', weight: 0.5 },
+          { name: 's', weight: 0.3 },
+          { name: 'c', weight: 0.1 },
+          { name: 'x', weight: 0.1 }
+        ],
+        threshold: 0.35,
+        ignoreLocation: true,
+        minMatchCharLength: 2
+      });
+      status.textContent = '';
+      var m = location.search.match(/[?&]q=([^&]+)/);
+      if (m) { input.value = decodeURIComponent(m[1]); }
+      search();
+      input.focus();
+    })
+    .catch(function () {
+      status.textContent = 'Search is temporarily unavailable. Please try again later.';
+    });
+
+  var t;
+  input.addEventListener('input', function () { clearTimeout(t); t = setTimeout(search, 150); });
+})();
+</script>
+{{ end }}
