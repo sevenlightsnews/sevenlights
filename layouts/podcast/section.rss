@@ -44,6 +44,7 @@
       <itunes:summary>{{ .Params.summary | default .Description | html }}</itunes:summary>
       {{ with .Params.duration }}<itunes:duration>{{ . }}</itunes:duration>{{ end }}
       {{ $bytes := .Params.audio_bytes | default 11104800 }}{{ with .Params.audio }}<enclosure url="{{ . }}" length="{{ $bytes }}" type="audio/mpeg"/>{{ end }}
+      {{ with .Params.episode_image }}<itunes:image href="{{ . }}"/>{{ end }}
     </item>
     {{ end }}
   </channel>

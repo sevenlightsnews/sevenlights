@@ -14,6 +14,7 @@
     <span style="float:right"><a href="{{ "/podcast/index.podcast.xml" | relURL }}">RSS feed</a></span>
   </header>
   <main style="max-width:42rem;margin:2rem auto;padding:0 1rem;">
+    {{ with .Params.episode_image }}<img src="{{ . }}" alt="Episode artwork" style="width:100%;max-width:42rem;border-radius:8px;margin-bottom:1rem;">{{ end }}
     <h1>{{ .Title }}</h1>
     <p><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time> &middot; Episode runtime {{ .Params.duration_human }}</p>
     <audio controls preload="metadata" style="width:100%;">

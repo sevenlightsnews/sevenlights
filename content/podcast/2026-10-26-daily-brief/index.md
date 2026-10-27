@@ -4,6 +4,7 @@ date = 2026-10-26T05:00:00-04:00
 lastmod = 2026-10-26T05:00:00-04:00
 draft = false
 author = "Seven Lights"
+episode_image = "https://media.sevenlights.org/artwork/episodes/2026-10-26-daily-brief.jpg"
 audio = "https://media.sevenlights.org/podcasts/2026-10-26-daily-brief.mp3"
 audio_bytes = 11590887
 duration = "724"
