@@ -1,7 +1,7 @@
 +++
 title = "Exiled Opposition Leader Machado Returns to Venezuela"
 date = 2026-10-26T04:40:00-04:00
-lastmod = 2026-10-26T04:40:00-04:00
+lastmod = 2026-10-27T04:46:00-04:00
 draft = false
 slug = "machado-returns-to-venezuela"
 summary = "María Corina Machado announced on Sunday that she had returned to Venezuela after nearly 10 months in exile, greeted by crowds that took eight hours to clear the road to Caracas, a homecoming the interim government and Washington had sought to prevent."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["venezuela", "maria-corina-machado", "opposition", "delcy-rodriguez", "nobel-peace-prize"]
 image = "/images/stories/machado-returns-to-venezuela.webp"
 image_alt = "A woman in a white blouse seen from behind holding a small flag as she steps from a black sedan into a dusk street packed with supporters raising phone lights, a stone church facade glowing in the background"
-refs = 5
+refs = 6
 +++
 
 ![A woman in a white blouse seen from behind holding a small flag as she steps from a black sedan into a dusk street packed with supporters raising phone lights, a stone church facade glowing in the background](/images/stories/machado-returns-to-venezuela.webp)
@@ -30,10 +30,13 @@ Her homecoming deepens the rift with the interim president, Delcy Rodríguez, an
 
 Machado's arrival revives her claim to lead an opposition scattered by exile and imprisonment. With González expected to follow, the interim authorities face a mobilised opposition on home soil for the first time since the transition began.
 
+**Update — October 27, 2026:** Machado is seeking talks with the interim government of President Delcy Rodríguez following her return, Euronews reported, and the European Union welcomed her return while calling for free and fair elections. Time reported that she remained sidelined from negotiations over the country's democratic transition as Venezuelans continued to demand elections.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return)
 - [France 24](https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile)
 - [Euronews](https://www.euronews.com/2026-10-25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile)
+- [Euronews](https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile)
 - [NYT World](https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html)
 - [BBC Top](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss)
