@@ -32,4 +32,4 @@ The BBC reported that Kyiv was hit by another round of missile strikes hours aft
 
 - [RFE/RL](https://www.rferl.org/a/us-russia-talks-witkoff-putin-ukraine/33880709.html)
 - [France 24](https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin)
-- [BBC World](https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss)

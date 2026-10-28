@@ -32,4 +32,4 @@ Survivors described the scene to local media. Nagqu resident Yixi Cuomu told Tib
 
 - [The Guardian](https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet)
 - [Euronews](https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet)
-- [BBC World](https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss)

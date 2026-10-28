@@ -32,4 +32,4 @@ CBS News video coverage of his death noted his breakout role in "M*A*S*H" and hi
 
 - [CBS News](https://www.cbsnews.com/video/tom-skerritt-dies-93/)
 - [NY Times](https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html)
-- [BBC US Canada](https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss)

@@ -31,5 +31,5 @@ The crackdown comes as Mr. Netanyahu faces a tight re-election race against Gadi
 ## Sources
 
 - [France 24](https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day)
-- [BBC World](https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss)

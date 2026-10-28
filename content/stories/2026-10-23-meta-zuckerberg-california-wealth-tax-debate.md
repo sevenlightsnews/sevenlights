@@ -30,4 +30,4 @@ Meta called the deal its "Founder Alignment Agreement," saying it was "criticall
 
 - [CNBC](https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html)
 - [IBTimes](https://www.ibtimes.com/metas-board-convinced-zuckerberg-stay-california-despite-its-wealth-tax-heres-what-he-was-3808884)
-- [BBC Business](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Business](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss)

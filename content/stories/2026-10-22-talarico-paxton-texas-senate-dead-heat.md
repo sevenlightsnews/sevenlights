@@ -27,4 +27,4 @@ Members of the Bush family have endorsed Democrat James Talarico in the Texas Se
 ## Sources
 
 - [The Hill (Home)](https://thehill.com/homenews/6163841-emerson-polling-texas-senate-race/)
-- [BBC US Canada](https://www.bbc.co.uk/news/articles/cwx29lk15nxxo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/cwx29lk15nxxo?at_medium=RSS&at_campaign=rss)

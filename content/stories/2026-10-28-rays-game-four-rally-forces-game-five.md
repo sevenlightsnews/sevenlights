@@ -32,4 +32,4 @@ For Tampa Bay, the 12th inning supplied what Sports Illustrated called "a pulse"
 
 - [Guardian Sport](https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally)
 - [Yahoo Sports](https://sports.yahoo.com/articles/brewers-aim-clinch-world-series-075545081.html)
-- [SI](https://www.si.com/mlb/2026-world-series-game-4-rays-have-a-pulse-after-crashing-brewers-world-series-party?utm_source=RSS)
+- [SI](https://www.si.com/mlb/2026-world-series-game-4-rays-have-a-pulse-after-crashing-brewers-world-series-party)

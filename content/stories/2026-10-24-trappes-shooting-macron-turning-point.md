@@ -30,5 +30,5 @@ Trappes is a rough social-housing suburb where about 40% of residents are immigr
 
 - [The Guardian](https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris)
 - [Sky News](https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320)
-- [BBC World](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
 - [Euronews](https://www.euronews.com/2026/10/23/suspect-arrested-after-1-killed-and-several-injured-in-a-shooting-in-paris-suburb)

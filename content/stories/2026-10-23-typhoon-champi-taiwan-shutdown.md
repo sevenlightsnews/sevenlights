@@ -32,4 +32,4 @@ After passing Taiwan's north-eastern tip and the Okinawa islands in southern Jap
 
 - [France 24](https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches)
 - [Euronews](https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures)
-- [BBC World](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)

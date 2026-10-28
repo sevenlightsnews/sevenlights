@@ -32,4 +32,4 @@ The typhoon's approach on Friday had shut shops, schools and offices across near
 - [Hong Kong FP](https://hongkongfp.com/2026/10/24/typhoon-champi-knocks-out-power-to-thousands-in-taiwan/)
 - [CNA](https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss)
-- [BBC Asia](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Asia](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)

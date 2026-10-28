@@ -36,5 +36,5 @@ The Economist has written that Israel's Arab parties could be the kingmakers in 
 
 ## Sources
 
-- [BBC World](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)
 - [The Economist](https://www.economist.com/middle-east-and-africa/2026/10/15/israels-arab-parties-could-be-the-kingmakers-in-its-election)

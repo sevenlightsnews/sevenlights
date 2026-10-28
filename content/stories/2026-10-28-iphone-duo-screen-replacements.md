@@ -32,4 +32,4 @@ The Duo's waitlist stretched for weeks at launch. Whether replacement demand spr
 
 - [Business Insider](https://www.businessinsider.com/apple-iphone-duo-memes-screen-crack-2026-10)
 - [WSJ Markets](https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main)
-- [BBC Business](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Business](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)

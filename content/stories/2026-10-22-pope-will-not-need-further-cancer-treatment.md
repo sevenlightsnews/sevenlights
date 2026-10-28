@@ -37,4 +37,4 @@ Leo, who enjoys playing sports including tennis and often makes use of the papal
 ## Sources
 
 - [Guardian Health](https://www.theguardian.com/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican)
-- [BBC Health](https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Health](https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss)

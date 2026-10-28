@@ -32,4 +32,4 @@ The government gave no immediate sign of concessions. Unions have called for fur
 
 - [The Guardian](https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing)
 - [France 24](https://www.france24.com/en/more-than-400-000-protest-across-france)
-- [BBC World](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss)

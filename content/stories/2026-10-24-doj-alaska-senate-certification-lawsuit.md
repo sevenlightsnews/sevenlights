@@ -35,6 +35,6 @@ The Guardian noted that Alaska has used ranked-choice voting since 2020, and tha
 - [The Hill](https://thehill.com/homenews/administration/6168997-donald-trump-justice-alaska-senate-lawsuit/)
 - [NBC News](https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229)
 - [NY Times](https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html)
-- [BBC US Canada](https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss)
 - [The Hill](https://thehill.com/homenews/campaign/6168331-justice-department-sues-to-block-alaska-results-if-sullivan-loses/)
 - [CBS Politics](https://www.cbsnews.com/video/justice-department-attempts-to-block-certification-of-alaska-senate-race-if-republican-loses-1/)

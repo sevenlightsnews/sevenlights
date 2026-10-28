@@ -37,4 +37,4 @@ Violence of this kind is rare in Jordan, a relatively stable United States ally.
 - [The Guardian](https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack)
 - [SCMP](https://www.scmp.com/news/world/middle-east/article/3372253/jordan-strikes-targets-syria-after-deadly-church-attack)
 - [NYT World](https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html)
-- [BBC Middle East](https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Middle East](https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss)

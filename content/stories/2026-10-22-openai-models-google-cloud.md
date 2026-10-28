@@ -27,5 +27,5 @@ Separately, in a report included in the same cluster, the BBC said Google report
 - [The Information](https://www.theinformation.com/briefings/openai-bring-models-google-cloud)
 - [Ars Technica](https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/)
 - [The Register](https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160)
-- [BBC](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 - [OpenAI](https://openai.com/index/openai-models-google-cloud/)

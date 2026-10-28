@@ -33,4 +33,4 @@ Arsenal remain in the Champions League, having narrowly lost its final in the sp
 - [Guardian Sport](https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report)
 - [Yahoo Sports](https://sports.yahoo.com/articles/fleetwood-knock-arsenal-one-biggest-230953576.html)
 - [Sky Sports](https://www.skysports.com/football/fleetwood-town-vs-arsenal/report/578610)
-- [BBC Sport](https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Sport](https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss)

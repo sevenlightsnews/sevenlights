@@ -35,5 +35,5 @@ Update, October 26 — Aleksandar Vučić conceded defeat on Sunday night, in pr
 - [France 24](https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement)
 - [RFE/RL](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
 - [Euronews](https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement)
-- [BBC World](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss)

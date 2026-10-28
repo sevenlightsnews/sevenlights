@@ -34,5 +34,5 @@ Polling stations were scheduled to close Tuesday evening, with exit polls and ea
 
 - [The Guardian](https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates)
 - [France 24](https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu)
-- [BBC World](https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss)

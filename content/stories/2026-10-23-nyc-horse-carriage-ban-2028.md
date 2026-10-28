@@ -32,5 +32,5 @@ President Donald Trump also weighed in on the vote, calling the end of the horse
 
 - [NBC News](https://www.nbcnews.com/nightly-news/video/nyc-passes-bill-to-ban-horse-drawn-carriages-272072773725)
 - [The Hill](https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/)
-- [BBC US Canada](https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss)
 - [CBS News](https://www.cbsnews.com/news/horse-carriage-ban-bill-nyc-council/)

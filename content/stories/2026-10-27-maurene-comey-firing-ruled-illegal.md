@@ -35,4 +35,4 @@ The ruling requires the department to restore Ms. Comey to her former position. 
 - [The Guardian](https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling)
 - [The Hill](https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/)
 - [NPR](https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal)
-- [BBC US & Canada](https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US & Canada](https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss)

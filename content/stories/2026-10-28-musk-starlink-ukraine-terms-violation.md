@@ -31,5 +31,5 @@ Ukrainian officials say connectivity problems appear resolved. Neither SpaceX no
 ## Sources
 
 - [The Verge](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service)
-- [BBC Science](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Science](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss)
 - [Gizmodo](https://gizmodo.com/musk-claims-ukraine-violated-starlink-terms-of-service-2000831354)

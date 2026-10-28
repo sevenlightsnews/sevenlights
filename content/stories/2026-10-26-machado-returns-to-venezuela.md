@@ -39,4 +39,4 @@ Machado's arrival revives her claim to lead an opposition scattered by exile and
 - [Euronews](https://www.euronews.com/2026-10-25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile)
 - [Euronews](https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile)
 - [NYT World](https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html)
-- [BBC Top](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Top](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss)

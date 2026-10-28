@@ -33,5 +33,5 @@ The venue is familiar ground: Jay-Z closed his Jay-Z 30 concert tour at SoFi ove
 - [The Guardian](https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show)
 - [NPR](https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z)
 - [CBS News](https://www.cbsnews.com/news/jay-z-super-bowl-halftime-show-headliner/)
-- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss)
 - [NBC News](https://www.nbcnews.com/pop-culture/music/jay-z-headline-super-bowl-halftime-show-rcna605847)

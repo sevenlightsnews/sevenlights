@@ -37,4 +37,4 @@ Archbishop James Golka of Denver, another participant, told his archdiocese's pu
 - [PBS NewsHour](https://www.pbs.org/newshour/politics/catholic-bishops-say-white-house-prayer-photo-with-trump-was-used-politically)
 - [CBS News](https://www.cbsnews.com/news/trump-photo-bishops-white-house-meeting/)
 - [Fox News](https://www.foxnews.com/media/white-house-defends-trump-after-archbishop-calls-prayer-moment-manipulated-ahead-midterms)
-- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss)

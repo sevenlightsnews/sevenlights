@@ -35,4 +35,4 @@ Healey has promised a Budget that keeps to Labour's commitment not to hike incom
 ## Sources
 
 - [City A.M.](https://www.cityam.com/healeys-fiscal-dilemma-ahead-of-the-budget/)
-- [BBC Business](https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Business](https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss)

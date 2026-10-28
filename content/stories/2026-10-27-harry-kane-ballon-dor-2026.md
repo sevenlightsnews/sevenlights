@@ -34,5 +34,5 @@ The Wembley Stadium arch was lit gold in Kane's honour on Monday night. For Engl
 
 - [The Guardian](https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor)
 - [Yahoo Sports](https://sports.yahoo.com/articles/every-bundesliga-ballon-dor-winner-073500545.html)
-- [BBC Sport](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Sport](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
 - [The Athletic](https://www.nytimes.com/athletic/7721009/2026/10/27/ballon-dor-harry-kane/)

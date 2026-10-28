@@ -33,7 +33,7 @@ Fan reaction to the Jay-Z announcement was immediate on social media. Bad Bunny'
 ## Sources
 
 - [The Shade Room](https://theshaderoom.com/jay-z-prompts-fan-frenzy-after-being-named-the-2027-super-bowl-halftime-show-headliner-video/)
-- [NME](https://www.nme.com/news/music/jay-z-chooses-himself-to-headline-super-bowl-halftime-show-with-u2-playing-thanksgiving-eve-game-3974358?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jay-z-chooses-himself-to-headline-super-bowl-halftime-show-with-u2-playing-thanksgiving-eve-game)
+- [NME](https://www.nme.com/news/music/jay-z-chooses-himself-to-headline-super-bowl-halftime-show-with-u2-playing-thanksgiving-eve-game-3974358)
 - [AV Club](https://www.avclub.com/jay-z-to-headline-super-bowl-halftime-show-lxi)
 - [Rolling Stone](https://www.rollingstone.com/music/music-features/jay-zs-super-bowl-halftime-show-song-artist-predictions-1235648949/)
-- [Vulture](http://www.vulture.com/article/jay-z-2027-super-bowl-halftime-show.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part)
+- [Vulture](http://www.vulture.com/article/jay-z-2027-super-bowl-halftime-show.html)

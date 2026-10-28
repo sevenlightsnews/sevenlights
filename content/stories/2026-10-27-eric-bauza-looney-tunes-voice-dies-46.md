@@ -34,4 +34,4 @@ His death ends a fifteen-year tenure in which one actor carried, at once, severa
 
 - [CBS News](https://www.cbsnews.com/news/eric-bauza-death-at-46-bugs-bunny-daffy-duck-looney-tunes/)
 - [NBC News](https://www.nbcnews.com/pop-culture/pop-culture-news/eric-bauza-voice-bugs-bunny-daffy-duck-porky-pig-dies-46-rcna605663)
-- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US & Canada](https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss)

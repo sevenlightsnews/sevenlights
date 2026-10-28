@@ -33,5 +33,5 @@ Michigan's race remained neck and neck as both parties pressed their closing arg
 ## Sources
 
 - [Guardian US](https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally)
-- [BBC US Canada](https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss)
 - [The Hill](https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/)

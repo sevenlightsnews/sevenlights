@@ -35,4 +35,4 @@ Swalwell, a seven-term lawmaker from Dublin, California, who sought the Democrat
 - [Guardian US](https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched)
 - [CBS News](https://www.cbsnews.com/video/fbi-agents-raid-billionaires-mansion-eric-swalwell-investigation/)
 - [LA Times](https://www.latimes.com/california/story/2026-10-27/beverly-hills-mansion-swalwell-raid)
-- [BBC US Canada](https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss)

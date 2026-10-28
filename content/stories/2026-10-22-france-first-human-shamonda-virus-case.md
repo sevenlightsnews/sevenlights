@@ -38,4 +38,4 @@ In cattle, the main symptoms are acute diarrhoea, fever, lethargy and a drop in 
 - [Euronews](https://www.euronews.com/2026/10/22/france-confirms-first-human-case-of-shamonda-virus-previously-found-only-in-animals)
 - [Sky News](https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss)
-- [BBC World](https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&amp;at_campaign=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss)

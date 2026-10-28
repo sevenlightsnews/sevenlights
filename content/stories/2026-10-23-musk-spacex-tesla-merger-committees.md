@@ -30,4 +30,4 @@ On Tesla's earnings call on Wednesday, Musk said he had nothing further to add a
 
 - [NPR Economy](https://www.npr.org/2026/10/22/nx-s1-6010634/elon-musk-says-space-x-and-tesla-are-considering-a-merger)
 - [CNBC](https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html)
-- [BBC Business](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&amp;at_campaign=rss)
+- [BBC Business](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
