@@ -266,7 +266,6 @@
   line-height: 1.4;
 }
 .sevenlights-titlelink:hover { color: #7a5c1e; text-decoration: underline; }
-.sevenlights-titlelink-icon { font-size: 0.85rem; opacity: 0.6; flex: none; }
 
 /* Category pages */
 .sevenlights-category { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 0; }

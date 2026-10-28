@@ -49,7 +49,6 @@
             {{ range (sort $todays "Params.refs" "desc") }}
               <li class="sevenlights-titleitem">
                 <a class="sevenlights-titlelink" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <span class="sevenlights-titlelink-icon" aria-hidden="true">&#128279;</span>
               </li>
             {{ end }}
           </ul>
