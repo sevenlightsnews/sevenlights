@@ -47,6 +47,7 @@
       Your browser does not support the audio element. Download the <a href="{{ .Params.audio }}">MP3</a>.
     </audio>
     <p style="margin-top:.75rem;"><a href="https://podcasts.apple.com/us/podcast/seven-lights-daily-brief/id6826963027" rel="nofollow">Subscribe on Apple Podcasts</a> &middot; <a href="https://media.sevenlights.org/podcast.xml">RSS feed</a> &middot; <a href="https://open.spotify.com">Spotify</a></p>
+    {{ partial "social/share.html" . }}
     <h2>About this episode</h2>
     <p>{{ .Params.summary }}</p>
     <h2>Today's stories</h2>

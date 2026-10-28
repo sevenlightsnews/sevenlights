@@ -1,0 +1,59 @@
+{{- /* Zero-tracking share bar. Plain share-intent URLs only: no third-party
+     scripts, no pixels, no cookies, no UTM parameters. Instagram and TikTok
+     have no web share endpoint, so they are covered by the native Share
+     button (mobile OS share sheet) and Copy link. */ -}}
+{{- if not .Params.disable_share -}}
+{{- $title := .Title -}}
+{{- $url := .Permalink -}}
+{{- $summary := .Summary | transform.Plainify | truncate 200 -}}
+<div class="sl-share" id="sharing">
+  <span class="sl-share-label">Share</span>
+  <a class="sl-share-btn x" title="Share on X" aria-label="Share on X" target="_blank" rel="noopener noreferrer"
+     href="https://x.com/intent/post?text={{ $title | urlquery }}&amp;url={{ $url | urlquery }}">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 13.02H16.17l-5.214-8.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  </a>
+  <a class="sl-share-btn fb" title="Share on Facebook" aria-label="Share on Facebook" target="_blank" rel="noopener noreferrer"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ $url | urlquery }}">
+    {{- with resources.Get "ananke/socials/facebook.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn threads" title="Share on Threads" aria-label="Share on Threads" target="_blank" rel="noopener noreferrer"
+     href="https://www.threads.net/intent/post?text={{ ($title | printf "%s %s" $summary) | urlquery }}&amp;url={{ $url | urlquery }}">
+    {{- with resources.Get "ananke/socials/threads.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn bluesky" title="Share on Bluesky" aria-label="Share on Bluesky" target="_blank" rel="noopener noreferrer"
+     href="https://bsky.app/intent/compose?text={{ ($title | printf "%s %s" $summary) | urlquery }}&amp;url={{ $url | urlquery }}">
+    {{- with resources.Get "ananke/socials/bluesky.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn reddit" title="Share on Reddit" aria-label="Share on Reddit" target="_blank" rel="noopener noreferrer"
+     href="https://www.reddit.com/submit?url={{ $url | urlquery }}&amp;title={{ $title | urlquery }}">
+    {{- with resources.Get "ananke/socials/reddit.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn tg" title="Share on Telegram" aria-label="Share on Telegram" target="_blank" rel="noopener noreferrer"
+     href="https://t.me/share/url?url={{ $url | urlquery }}&amp;text={{ $title | urlquery }}">
+    {{- with resources.Get "ananke/socials/telegram.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn wa" title="Share on WhatsApp" aria-label="Share on WhatsApp" target="_blank" rel="noopener noreferrer"
+     href="https://api.whatsapp.com/send?text={{ ($title | printf "%s %s" $url) | urlquery }}">
+    {{- with resources.Get "ananke/socials/whatsapp.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn mastodon" title="Share on Mastodon" aria-label="Share on Mastodon" target="_blank" rel="noopener noreferrer"
+     href="https://mastodon.social/share?text={{ ($title | printf "%s %s" $url) | urlquery }}">
+    {{- with resources.Get "ananke/socials/mastodon.svg" }}{{ .Content | safe.HTML }}{{ end -}}
+  </a>
+  <a class="sl-share-btn li" title="Share on LinkedIn" aria-label="Share on LinkedIn" target="_blank" rel="noopener noreferrer"
+     href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url | urlquery }}">
+    <svg viewBox="0 0 448 512" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.73V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/></svg>
+  </a>
+  <a class="sl-share-btn mail" title="Share by email" aria-label="Share by email"
+     href="mailto:?subject={{ $title | urlquery }}&amp;body={{ $url | urlquery }}">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M1.5 5.5A2.5 2.5 0 0 1 4 3h16a2.5 2.5 0 0 1 2.5 2.5v13A2.5 2.5 0 0 1 20 21H4a2.5 2.5 0 0 1-2.5-2.5zm2.6-1L12 11.4l7.9-6.9H4.1zM20 19a1 1 0 0 0 1-1V7.9l-7.6 6.6a1 1 0 0 1-1.2 0L4.6 7.9V18a1 1 0 0 0 1 1z"/></svg>
+  </a>
+  <button type="button" class="sl-share-btn copy" data-copy-url="{{ $url }}" title="Copy link — paste into Instagram, TikTok, or any app" aria-label="Copy link">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M10.59 13.41a1 1 0 0 0 1.42 0l4-4a4 4 0 0 0-5.66-5.66l-2 2a1 1 0 1 0 1.42 1.42l2-2a2 2 0 1 1 2.83 2.83l-4 4a1 1 0 0 0 0 1.41zM13.41 10.59a1 1 0 0 0-1.42 0l-4 4a4 4 0 0 0 5.66 5.66l2-2a1 1 0 1 0-1.42-1.42l-2 2a2 2 0 1 1-2.83-2.83l4-4a1 1 0 0 0 0-1.41z"/></svg>
+  </button>
+  <button type="button" class="sl-share-btn native" data-share-title="{{ $title }}" data-share-url="{{ $url }}" title="Share" aria-label="Share">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 2.5 8 6.6l1.4 1.4 2-2v8.9h1.2V6l2 2L16 6.6zM5.5 13H4a1 1 0 0 0-1 1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6a1 1 0 0 0-1-1h-1.5v1.5H20V20H4v-5.5h1.5z"/></svg>
+  </button>
+</div>
+<script src="/js/share.js" defer></script>
+{{- end -}}
