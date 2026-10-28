@@ -245,6 +245,29 @@
 .sevenlights-catmore a { font-size: 0.9rem; }
 .sevenlights-empty { color: #666; font-style: italic; }
 
+/* Front page: today's stories as plain title links (no images/summaries) */
+.sevenlights-titlelist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sevenlights-titleitem {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid #efe9dd;
+}
+.sevenlights-titleitem:last-child { border-bottom: 0; }
+.sevenlights-titlelink {
+  color: #1a1a1a;
+  text-decoration: none;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+.sevenlights-titlelink:hover { color: #7a5c1e; text-decoration: underline; }
+.sevenlights-titlelink-icon { font-size: 0.85rem; opacity: 0.6; flex: none; }
+
 /* Category pages */
 .sevenlights-category { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 0; }
 .sevenlights-category-header { margin-bottom: 1rem; }

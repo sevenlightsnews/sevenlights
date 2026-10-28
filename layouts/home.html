@@ -2,11 +2,11 @@
      Replaces Ananke's home.html and its homepage header block only.
      Story pages, section pages, navigation, footer and metadata stay Ananke.
 
-     Front page (editor rules, 2026-10-22):
+     Front page (editor rules, 2026-10-22; layout updated 2026-10-28):
        - the day's date and time (server-rendered at build, refreshed live by JS)
-       - exactly one top story per category: today's story with the highest
-         `refs` front-matter value (source-link count); falls back to the
-         newest story in the category when today has none. */}}
+       - every category lists ALL of today's stories as plain title links —
+         no images, no summaries, no story counts. Order: highest `refs`
+         front-matter value (source-link count) first, newest first on ties. */}}
 
 {{ define "header" }}
   <header class="sevenlights-hero">
@@ -40,27 +40,21 @@
       {{ range $p := $catpages }}
         {{ if eq ($p.Date.Format "2006-01-02") $today }}{{ $todays = $todays | append $p }}{{ end }}
       {{ end }}
-      {{ $top := false }}
-      {{ if $todays }}
-        {{/* Top story = the day's most-referenced story (refs = source links). */}}
-        {{ $top = index (sort $todays "Params.refs" "desc") 0 }}
-      {{ else if $catpages }}
-        {{ $top = index $catpages 0 }}
-      {{ end }}
       <section class="sevenlights-catblock" aria-label="{{ $c.label }}">
         <h2 class="sevenlights-cathead">
           <a class="sevenlights-catlink" href="/categories/{{ $c.term }}/">{{ $c.label }}</a>
-          <span class="sevenlights-catcount">
-            {{ if $todays }}Today: {{ len $todays }} {{ if eq (len $todays) 1 }}story{{ else }}stories{{ end }} &middot; {{ end }}{{ len $catpages }} published
-          </span>
         </h2>
-        {{ if $top }}
-          {{ partials.Include "sevenlights-story-row.html" $top }}
-          <p class="sevenlights-catmore">
-            <a href="/categories/{{ $c.term }}/">More {{ $c.label }} &amp; past days &rarr;</a>
-          </p>
+        {{ if $todays }}
+          <ul class="sevenlights-titlelist">
+            {{ range (sort $todays "Params.refs" "desc") }}
+              <li class="sevenlights-titleitem">
+                <a class="sevenlights-titlelink" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span class="sevenlights-titlelink-icon" aria-hidden="true">&#128279;</span>
+              </li>
+            {{ end }}
+          </ul>
         {{ else }}
-          <p class="sevenlights-empty">No stories yet — the next edition publishes daily at 6am ET.
+          <p class="sevenlights-empty">No stories today — the next edition publishes daily at 6am ET.
             <a href="/categories/{{ $c.term }}/">Open {{ $c.label }} &rarr;</a></p>
         {{ end }}
       </section>
