@@ -1,7 +1,7 @@
 +++
 title = "Grand Jury Declines to Indict Cassidy Hutchinson Over Jan. 6 Testimony"
 date = 2026-10-28T04:45:00-04:00
-lastmod = 2026-10-28T04:45:00-04:00
+lastmod = 2026-10-29T03:42:00-04:00
 draft = false
 slug = "grand-jury-declines-hutchinson-indictment"
 summary = "A Washington federal grand jury refused to indict Cassidy Hutchinson, former White House aide whose 2022 testimony about Jan. 6 drew Trump allies' ire, a rebuff to the Justice Department's effort to prosecute her."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["Cassidy Hutchinson", "January 6", "grand jury", "Justice Department"]
 image = "/images/stories/grand-jury-declines-hutchinson-indictment.webp"
 image_alt = "An empty marble corridor of a federal courthouse at dawn, with closed bronze-framed doors, a leather briefcase on a bench and long window shadows."
-refs = 4
+refs = 5
 +++
 
 ![An empty marble corridor of a federal courthouse at dawn, with closed bronze-framed doors, a leather briefcase on a bench and long window shadows.](/images/stories/grand-jury-declines-hutchinson-indictment.webp)
@@ -28,9 +28,12 @@ The refusal is a setback for the department as it pursues cases against figures 
 
 No charges were returned, and the Civil Rights Division declined comment. A conviction would have required proving she lied to Congress; prosecutors had not publicly identified which portions of her testimony they considered false.
 
+Update, Oct. 29: The New York Times reported that the Civil Rights Division, led by Harmeet K. Dhillon, conducted the investigation in a break from precedent; the U.S. attorney's office in Washington, currently led by Jeanine Pirro, typically handles inquiries into alleged lying to Congress. The Times noted that Ms. Pirro's office has struggled to secure indictments against figures the president views as enemies, with several high-profile cases faltering after evidence proved thinner than initially believed.
+
 ## Sources
 
-- [Axios](https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony)
+- [Axios](https://www.axios.com/2026-10-27/cassidy-hutchinson-indictment-jan-6-testimony)
 - [The Hill](https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/)
 - [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4782163/grand-jury-cassidy-hutchinson-jan-6-testimony/)
 - [CBS Politics](https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/)
+- [NBC Politics](https://www.nbcnews.com/politics/justice-department/grand-jury-declines-indict-former-trump-aide-cassidy-hutchinson-jan-6-rcna603233)

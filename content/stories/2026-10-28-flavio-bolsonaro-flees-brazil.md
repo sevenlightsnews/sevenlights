@@ -1,7 +1,7 @@
 +++
 title = "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat"
 date = 2026-10-28T04:45:00-04:00
-lastmod = 2026-10-28T04:45:00-04:00
+lastmod = 2026-10-29T03:38:00-04:00
 draft = false
 slug = "flavio-bolsonaro-flees-brazil"
 summary = "Flávio Bolsonaro, the senator and presidential candidate who lost Sunday's runoff to Luiz Inácio Lula da Silva, left Brazil before a deadline to surrender his passports, according to Brazilian and Argentine reports, and intends to seek political asylum in the United States."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["Brazil", "Flavio Bolsonaro", "Lula", "asylum", "money laundering"]
 image = "/images/stories/flavio-bolsonaro-flees-brazil.webp"
 image_alt = "A private jet parked on a rain-slicked airport apron at dusk, boarding stairs folded against its fuselage and runway lights reflected in the tarmac."
-refs = 5
+refs = 9
 +++
 
 ![A private jet parked on a rain-slicked airport apron at dusk, boarding stairs folded against its fuselage and runway lights reflected in the tarmac.](/images/stories/flavio-bolsonaro-flees-brazil.webp)
@@ -26,10 +26,18 @@ The Supreme Court cited the risk of flight and Bolsonaro's "significant financia
 
 Bolsonaro's candidacy had been cleared only in September and his defeat on Sunday capped a turbulent campaign. His departure appeared to catch his own aides by surprise, and President Lula's government has offered no public comment on the senator's whereabouts beyond noting that the investigations remain open.
 
+Update, Oct. 29: Mr. Bolsonaro arrived at Miami-Opa Locka Executive Airport on Wednesday and, hours later, posted an open letter on X declaring himself "the elected president." He deleted that version and replaced it with a letter calling himself the rightful "leader" of Brazil. "I want to say, not only to my 60 million voters but to the Brazilian people, that I am the leader and that the criminals who stole Brazil's election are part of a criminal organisation that has established a tyranny," he wrote. He thanked Argentina's president, Javier Milei, "for his courage, sense of justice and legality," and President Trump "and the wonderful American people for welcoming me"; Mr. Trump granted him and his family entry visas. Asked about the letter at Joint Base Andrews, Mr. Trump declined to comment and reiterated his view that it was "a very strange election."
+
+Mr. Bolsonaro grounded his rejection of the result on a two-hour voting extension granted by a Supreme Court justice appointed by Mr. Lula; fewer than 35,000 votes, some 0.03 per cent of the total, were cast in that period, according to an analysis by Insper professor Pedro Burgos. His own campaign had also sought an extension for rain-hit polls in conservative southern states. He lost by about 4.5 million votes. "I did not flee Brazil," he wrote. "I left Brazil, but I did not abandon the Brazilian people." Electoral authority chief Kassio Nunes Marques said the vote took place "in full compliance with legal and constitutional requirements," and Mr. Bolsonaro's own party recognised the result on Monday. President Lula called it "shameful" that the senator had not stayed in Brazil to prove his innocence.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)
 - [SCMP](https://www.scmp.com/news/world/americas/article/3372350/brazil-wonders-where-earth-flavio-bolsonaro)
-- [Time](https://time.com/article/2026/10/27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/)
-- [NYT World](https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html)
-- [Euronews](https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat)
+- [Time](https://time.com/article/2026-10-27/brazil-flavio-bolsonaro-money-laundering-supreme-court-lula/)
+- [NYT World](https://www.nytimes.com/2026-10-27/world/americas/brazil-flavio-bolsonaro-flees-election.html)
+- [Euronews](https://www.euronews.com/2026-10-27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat)
+- [The Guardian](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)
+- [SCMP](https://www.scmp.com/news/world/united-states-canada/article/3372478/defeated-brazilian-presidential-candidate-flavio-bolsonaro-and-his-family-land-miami)
+- [France 24](https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us)
+- [Euronews](https://www.euronews.com/2026-10-29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us)
