@@ -1,7 +1,7 @@
 +++
 title = "Report Says Peltola Campaign Sought Namesake to Split Sullivan's Vote in Alaska"
 date = 2026-10-29T03:44:00-04:00
-lastmod = 2026-10-29T03:44:00-04:00
+lastmod = 2026-10-30T03:57:00-04:00
 draft = false
 slug = "peltola-campaign-second-sullivan-report"
 summary = "The New York Times reported that Democrat Mary Peltola's campaign worked to recruit a second candidate named Dan Sullivan to divide the Republican vote in Alaska's Senate race. The Peltola campaign denied involvement; President Trump demanded her disqualification."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["Alaska", "Mary Peltola", "Dan Sullivan", "Senate", "midterms", "spoiler"]
 image = "/images/stories/peltola-campaign-second-sullivan-report.webp"
 image_alt = "A small campaign office at dusk, folding tables with stacks of unstamped flyers, a warm desk lamp, snow falling past a frosted window."
-refs = 5
+refs = 8
 +++
 
 ![A small campaign office at dusk, folding tables with stacks of unstamped flyers, a warm desk lamp, snow falling past a frosted window.](/images/stories/peltola-campaign-second-sullivan-report.webp)
@@ -28,6 +28,8 @@ President Trump shared a link to the Times report on Truth Social, calling it pr
 
 The Alaska race is among the handful Democrats need to win to take the Senate, where Republicans hold 53 seats to 47. Recent polls have shown Ms. Peltola, a former member of the House, in the lead. The election is held November 3.
 
+Update, October 30, 2026: Republican Gov. Mike Dunleavy ordered an investigation into Ms. Peltola's Senate campaign after revelations that her campaign appeared to be involved in recruiting a candidate with the same name as Senator Sullivan, PBS NewsHour and The Guardian reported. The Washington Examiner reported that national Democrats were largely staying silent, leaving the Democratic hopeful with few public defenders as scrutiny mounted. Mr. Dunleavy's order opens a state probe into the ballot affair described above; the scope and duration of the investigation were not detailed.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate)
@@ -35,3 +37,6 @@ The Alaska race is among the handful Democrats need to win to take the Senate, w
 - [The Hill](https://thehill.com/homenews/campaign/6179351-gop-blasts-peltola-alaska-election-report/)
 - [NBC Politics](https://www.nbcnews.com/nightly-news/video/bombshell-report-rocks-alaska-senate-race-272433221936)
 - [NYT Politics](https://www.nytimes.com/2026-10-28/us/politics/trump-peltola-sullivan-alaska-senate.html)
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/alaskas-governor-orders-a-probe-into-peltolas-senate-campaign-over-spoiler-candidate-controversy)
+- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4784856/national-democrats-mary-peltola-fend-for-herself/)
+- [Fox News](https://www.foxnews.com/politics/alaskas-governor-orders-investigation-nyt-report-alleged-dem-linked-senate-election-scheme)
