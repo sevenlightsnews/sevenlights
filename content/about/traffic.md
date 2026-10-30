@@ -2,7 +2,7 @@
 title = "Traffic Statistics"
 description = "Seven Lights traffic, measured at the Cloudflare edge and updated daily."
 date = 2026-10-21T06:00:00-04:00
-lastmod = 2026-10-30T08:13:34Z
+lastmod = 2026-10-30T16:10:37Z
 draft = false
 +++
 
@@ -24,7 +24,7 @@ _Oct 23–Oct 29_
 
 | Metric | Count |
 |---|---|
-| Requests | 27,013 |
+| Requests | 27,015 |
 | Unique IPs (daily avg) | 458 |
 | Data served | 1.3 GB |
 | Served from cache | 82% |
@@ -51,4 +51,4 @@ _Sep 30–Oct 29_
 | `/podcast/` | 150 |
 | `/about/traffic/` | 130 |
 
-_Last updated: 2026-10-30 08:13 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
+_Last updated: 2026-10-30 16:10 UTC. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
