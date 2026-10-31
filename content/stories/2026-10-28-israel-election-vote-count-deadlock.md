@@ -1,7 +1,7 @@
 +++
 title = "No Camp Wins Majority as Israel's Vote Count Grinds On"
 date = 2026-10-28T04:45:00-04:00
-lastmod = 2026-10-29T03:40:00-04:00
+lastmod = 2026-10-31T03:50:00-04:00
 draft = false
 slug = "israel-election-vote-count-deadlock"
 summary = "Partial results in Israel's election left Prime Minister Benjamin Netanyahu's camp and the opposition of Gadi Eisenkot short of a 61-seat majority, with the count continuing and Arab parties holding the balance."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["Israel", "election", "Netanyahu", "Eisenkot", "Knesset"]
 image = "/images/stories/israel-election-vote-count-deadlock.webp"
 image_alt = "A quiet polling hall after voting, with closed ballot boxes on tables, trays of blank paper ballots and empty booths under tall windows."
-refs = 7
+refs = 11
 +++
 
 ![A quiet polling hall after voting, with closed ballot boxes on tables, trays of blank paper ballots and empty booths under tall windows.](/images/stories/israel-election-vote-count-deadlock.webp)
@@ -34,6 +34,8 @@ Addressing Likud members after 3 a.m., Mr. Netanyahu called for "a strong, right
 
 The BBC set out the likely courses: a national unity government, an Eisenkot coalition dependent on the Arab parties — the United Arab List, at about seven seats, has offered to join an opposition government, while the 12-seat Joint List would support one from outside — defections of right-wing opposition figures such as Naftali Bennett and Avigdor Lieberman to Mr. Netanyahu, or new elections, which the BBC assessed as the most probable outcome.
 
+Update, Oct. 31: Final results have confirmed the projections, with no clear winner. Mr. Netanyahu's party and its allies won 53 seats in the 120-seat Knesset, short of the majority needed to form a government, while the main opposition bloc led by Mr. Eisenkot won 48, The New York Times reported. A BBC analysis from Jerusalem called the deadlock "a sign of the country's deep divisions," tracing them from the judicial reforms that drew mass demonstrations to the war in Gaza, and reported that President Isaac Herzog — who called the election a "badge of honour" for Israeli society — will open a series of consultations with party leaders next week before tasking a candidate with government formation. France 24 reported the wartime election had left neither side a clear path to power, and the Economist judged the result, for Mr. Netanyahu's opponents at least, a matter of unfinished business rather than defeat.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news)
@@ -43,3 +45,7 @@ The BBC set out the likely courses: a national unity government, an Eisenkot coa
 - [SCMP](https://www.scmp.com/news/world/middle-east/article/3372487/netanyahu-set-remain-caretaker-pm-after-inconclusive-israel-election)
 - [BBC World](https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss)
 - [France 24](https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises)
+- [France 24](https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner)
+- [NYT](https://www.nytimes.com/2026-10-29/world/middleeast/israel-election-results-netanyahu-eisenkot.html)
+- [BBC](https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&amp;at_campaign=rss)
+- [The Economist](https://www.economist.com/podcasts/2026-10-28/bye-bye-bibi-israels-election-results)

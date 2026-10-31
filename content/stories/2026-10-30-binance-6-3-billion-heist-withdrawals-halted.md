@@ -1,7 +1,7 @@
 +++
 title = "Binance Halts Withdrawals After Record $6.3 Billion Crypto Heist"
 date = 2026-10-30T03:47:00-04:00
-lastmod = 2026-10-30T03:47:00-04:00
+lastmod = 2026-10-31T03:52:00-04:00
 draft = false
 slug = "binance-6-3-billion-heist-withdrawals-halted"
 summary = "Binance suspended withdrawals after a theft of about $6.3 billion, the largest crypto heist on record, its founder said. Digital assets fell across the market as news of the loss spread."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["Binance", "crypto", "hack", "cryptocurrency", "Bitcoin"]
 image = "/images/stories/binance-6-3-billion-heist-withdrawals-halted.webp"
 image_alt = "A darkened trading desk at night, eight monitors glowing with green and red candlestick charts, a lone figure seen from behind with hands on head, lit only by the screens."
-refs = 5
+refs = 11
 +++
 
 ![A darkened trading desk at night, eight monitors glowing with green and red candlestick charts, a lone figure seen from behind with hands on head, lit only by the screens.](/images/stories/binance-6-3-billion-heist-withdrawals-halted.webp)
@@ -26,6 +26,8 @@ Details of how the funds were taken, and where they went, had not been made publ
 
 The sum exceeds any previous loss in the industry's chronicle of breaches and exchange failures. Investigators, auditors and regulators were expected to spend days establishing the method of the theft and the path of the funds. Until that accounting is complete, the exchange's customers can move nothing out.
 
+Update, Oct. 31: Blockchain-intelligence firms identified North Korea as the likely culprit. TRM, a crypto analysis firm, attributed the attack "with high confidence" to TraderTraitor, North Korea's elite hacking unit, and the research outfits Elliptic and Chainalysis reached the same conclusion, NPR and The Guardian reported. "This is almost certainly the largest theft of any kind in history," said Tom Robinson, chief scientist at Elliptic. Binance said an initial investigation suggested the breach may have begun with a hacked laptop belonging to one of its engineers, which let an attacker gain access to its systems and make unauthorised withdrawals. The exchange said it would cover customer losses, and about $3 billion of the affected assets had been located, with the stablecoin issuers Circle and Tether freezing funds. Binance said it planned to resume withdrawals over the weekend.
+
 ## Sources
 
 - [Financial Times](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1)
@@ -33,3 +35,9 @@ The sum exceeds any previous loss in the industry's chronicle of breaches and ex
 - [Forbes](https://www.forbes.com/sites/antoniopequenoiv/2026/10/30/binance-says-63-billion-impacted-in-record-crypto-hack-suspends-withdrawals/)
 - [Fortune](https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/)
 - [Bloomberg](https://www.bloomberg.com/news/videos/2026-10-30/insight-with-haslinda-amin-10-30-2026-video)
+- [The Guardian](https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)
+- [NPR](https://www.npr.org/2026-10-30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
+- [The Wall Street Journal](https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main)
+- [BBC](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss)
+- [CNBC](https://www.cnbc.com/2026-10-29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html)
+- [Forbes](https://www.forbes.com/sites/antoniopequenoiv/2026-10-30/binance-says-it-plans-to-resume-withdrawals-this-weekend-after-63-billion-hack/)
