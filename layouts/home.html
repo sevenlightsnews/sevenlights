@@ -2,11 +2,13 @@
      Replaces Ananke's home.html and its homepage header block only.
      Story pages, section pages, navigation, footer and metadata stay Ananke.
 
-     Front page (editor rules, 2026-10-22; layout updated 2026-10-28):
+     Front page (editor rules, 2026-10-22; layout updated 2026-10-28;
+     thumbnails re-added at the editor's request 2026-10-31):
        - the day's date and time (server-rendered at build, refreshed live by JS)
-       - every category lists ALL of today's stories as plain title links —
-         no images, no summaries, no story counts. Order: highest `refs`
-         front-matter value (source-link count) first, newest first on ties. */}}
+       - every category lists ALL of today's stories as a thumbnail (the story's
+         own `image` front-matter) beside the title link — no summaries, no
+         story counts. Order: highest `refs` front-matter value (source-link
+         count) first, newest first on ties. */}}
 
 {{ define "header" }}
   <header class="sevenlights-hero">
@@ -47,8 +49,14 @@
         {{ if $todays }}
           <ul class="sevenlights-titlelist">
             {{ range (sort $todays "Params.refs" "desc") }}
+              {{ $story := . }}
               <li class="sevenlights-titleitem">
-                <a class="sevenlights-titlelink" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ with $story.Params.image }}
+                  <a class="sevenlights-thumblink" href="{{ $story.RelPermalink }}" tabindex="-1" aria-hidden="true">
+                    <img class="sevenlights-thumb" src="{{ . }}" width="160" height="67" alt="" loading="lazy" decoding="async">
+                  </a>
+                {{ end }}
+                <a class="sevenlights-titlelink" href="{{ $story.RelPermalink }}">{{ $story.Title }}</a>
               </li>
             {{ end }}
           </ul>
