@@ -30,6 +30,8 @@ Democrats in the state voiced alarm. Michigan state senator Mallory McMorrow tol
 
 Voters in Michigan go to the polls on Tuesday. Stevens has not said whether she will appear at any campaign event before the election, and El-Sayed continued to hold rallies across the state.
 
+**Update, Nov. 1 (afternoon):** Stevens endorsed Rogers on Sunday, appearing beside him at Perfecting Church in Detroit two days before the election, where she praised his support for Black-owned businesses. In a video posted on X, she said El-Sayed had told her she was no longer welcome in his campaign. "And he's right, and that's why I am endorsing Mike Rogers for the United States Senate today," she said. A campaign account for Senate Majority Leader Chuck Schumer called the move a "despicable betrayal," while the Michigan Democratic Party said it "stands united and fully behind Abdul El-Sayed." Stevens's chief of staff of eight years, Justin German, and her communications director, Logan Basch, left her office after the endorsement, CNN reported; German then released a statement on behalf of the staff endorsing El-Sayed, saying, "We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers." El-Sayed, in his first public comments since the endorsement, told reporters, "At the end of the day, I actually don't think about Haley Stevens." President Trump praised Stevens's reversal.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events)

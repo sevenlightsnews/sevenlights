@@ -30,6 +30,8 @@ The subpoenas and the injunction request came four days before the midterm elect
 
 **Update, Nov. 1:** The FBI has begun contacting donors to Mr. Sullivan to ask about potential deception, the New York Post reported. Agents reached donors in at least two remote Alaskan communities and a couple in Massachusetts; an Anchorage-based agent visited a boat dealership in Petersburg, a fishing community accessible only by air or water, and left a card for a donor's brother-in-law. The BBC reported that the justice department's subpoenas target Democratic officials allegedly connected to the recruitment effort and that no charges had been filed as of Friday evening, with a civil and a criminal investigation under way.
 
+**Update, Nov. 1 (afternoon):** A federal judge dismissed the Trump administration's lawsuit seeking to block certification of Alaska's Senate results if Mr. Sullivan loses. U.S. District Judge Sharon Gleason ruled Sunday that the justice department lacked standing because it had not shown how a court could remedy the "voter confusion" it alleged, halting its push for expedited discovery against the Peltola campaign and the Democratic Senatorial Campaign Committee. The department said it planned to appeal: "Alaskan voters deserve a fair election, not to be misled in an attempt to rig outcomes," a spokesperson said. Mr. Sullivan said in an interview with CNN on Sunday morning that he would accept the results of his re-election contest.
+
 ## Sources
 
 - [The Hill](https://thehill.com/homenews/campaign/6183444-doj-subpoenas-peltola-alleged-ballot-stacking/)
