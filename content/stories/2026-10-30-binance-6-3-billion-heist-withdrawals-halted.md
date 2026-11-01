@@ -1,7 +1,7 @@
 +++
 title = "Binance Halts Withdrawals After Record $6.3 Billion Crypto Heist"
 date = 2026-10-30T03:47:00-04:00
-lastmod = 2026-10-31T03:52:00-04:00
+lastmod = 2026-11-01T04:01:43-05:00
 draft = false
 slug = "binance-6-3-billion-heist-withdrawals-halted"
 summary = "Binance suspended withdrawals after a theft of about $6.3 billion, the largest crypto heist on record, its founder said. Digital assets fell across the market as news of the loss spread."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["Binance", "crypto", "hack", "cryptocurrency", "Bitcoin"]
 image = "/images/stories/binance-6-3-billion-heist-withdrawals-halted.webp"
 image_alt = "A darkened trading desk at night, eight monitors glowing with green and red candlestick charts, a lone figure seen from behind with hands on head, lit only by the screens."
-refs = 11
+refs = 16
 +++
 
 ![A darkened trading desk at night, eight monitors glowing with green and red candlestick charts, a lone figure seen from behind with hands on head, lit only by the screens.](/images/stories/binance-6-3-billion-heist-withdrawals-halted.webp)
@@ -28,6 +28,8 @@ The sum exceeds any previous loss in the industry's chronicle of breaches and ex
 
 Update, Oct. 31: Blockchain-intelligence firms identified North Korea as the likely culprit. TRM, a crypto analysis firm, attributed the attack "with high confidence" to TraderTraitor, North Korea's elite hacking unit, and the research outfits Elliptic and Chainalysis reached the same conclusion, NPR and The Guardian reported. "This is almost certainly the largest theft of any kind in history," said Tom Robinson, chief scientist at Elliptic. Binance said an initial investigation suggested the breach may have begun with a hacked laptop belonging to one of its engineers, which let an attacker gain access to its systems and make unauthorised withdrawals. The exchange said it would cover customer losses, and about $3 billion of the affected assets had been located, with the stablecoin issuers Circle and Tether freezing funds. Binance said it planned to resume withdrawals over the weekend.
 
+**Update, Nov. 1:** Binance said in a security update on Saturday that it had replenished 90 per cent of the stolen assets and was committed to covering the remaining 10 per cent. About $3 billion of the funds has been frozen, and more than $2.5 billion of the $6.3 billion was taken in a single transaction. The company said an engineer's compromised laptop and "additional points of breach" gave the attackers access to internal systems, where Binance's own systems were made to sign the transactions. Tom Robinson of Elliptic called it "almost certainly the largest theft of any kind in history"; TRM Labs, Elliptic and Chainalysis attributed the attack to TraderTraitor, North Korea's elite hacking unit. North Korea has a history of crypto theft, including the raid on a Dubai-based exchange worth about $1.5 billion last year, the FBI said.
+
 ## Sources
 
 - [Financial Times](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1)
@@ -41,3 +43,8 @@ Update, Oct. 31: Blockchain-intelligence firms identified North Korea as the lik
 - [BBC](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss)
 - [CNBC](https://www.cnbc.com/2026-10-29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html)
 - [Forbes](https://www.forbes.com/sites/antoniopequenoiv/2026-10-30/binance-says-it-plans-to-resume-withdrawals-this-weekend-after-63-billion-hack/)
+- [Guardian Business](https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe)
+- [CNBC](https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html)
+- [Bloomberg Tech](https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack)
+- [NYT Business](https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html)
+- [WSJ Markets](https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main)

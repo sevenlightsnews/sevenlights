@@ -1,7 +1,7 @@
 +++
 title = "Justice Department Issues Subpoenas in Alaska Senate Race"
 date = 2026-10-31T03:36:00-04:00
-lastmod = 2026-10-31T03:36:00-04:00
+lastmod = 2026-11-01T04:01:20-05:00
 draft = false
 slug = "doj-subpoenas-alaska-senate-ballots"
 summary = "Federal prosecutors issued dozens of subpoenas and asked a court to segregate ballots in Alaska's Senate race after reports that Democratic operatives recruited a candidate sharing the incumbent Republican senator's name."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["Alaska", "Senate", "midterms", "Justice Department", "Peltola", "Sullivan"]
 image = "/images/stories/doj-subpoenas-alaska-senate-ballots.webp"
 image_alt = "A curtained voting booth and a plain ballot drop box on a table beside a window in an empty community hall at twilight, with snow-dusted spruce trees and dark mountains beyond the glass."
-refs = 4
+refs = 6
 +++
 
 ![A curtained voting booth and a plain ballot drop box on a table beside a window in an empty community hall at twilight, with snow-dusted spruce trees and dark mountains beyond the glass.](/images/stories/doj-subpoenas-alaska-senate-ballots.webp)
@@ -28,9 +28,13 @@ Ms. Peltola, a former congresswoman seeking to flip the seat, said Thursday that
 
 The subpoenas and the injunction request came four days before the midterm elections, in one of the closest contests determining control of the Senate. The department said it was not escalating the case; the investigation had run "quietly for several months," Mr. Heyman said.
 
+**Update, Nov. 1:** The FBI has begun contacting donors to Mr. Sullivan to ask about potential deception, the New York Post reported. Agents reached donors in at least two remote Alaskan communities and a couple in Massachusetts; an Anchorage-based agent visited a boat dealership in Petersburg, a fishing community accessible only by air or water, and left a card for a donor's brother-in-law. The BBC reported that the justice department's subpoenas target Democratic officials allegedly connected to the recruitment effort and that no charges had been filed as of Friday evening, with a civil and a criminal investigation under way.
+
 ## Sources
 
 - [The Hill](https://thehill.com/homenews/campaign/6183444-doj-subpoenas-peltola-alleged-ballot-stacking/)
 - [NPR](https://www.npr.org/2026-10-30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans)
 - [CBS News](https://www.cbsnews.com/news/alaska-us-attorney-senate-race-two-dan-sullivans/)
 - [NBC News](https://www.nbcnews.com/politics/2026-election/doj-requests-separating-alaska-ballots-rank-dan-j-sullivan-senate-race-rcna606646)
+- [NY Post](https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/)
+- [BBC US Canada](https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss)

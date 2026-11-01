@@ -1,7 +1,7 @@
 +++
 title = "Evacuees From Russian-Occupied Oleshky Cross Into Ukrainian-Held Territory"
 date = 2026-10-31T16:30:00-04:00
-lastmod = 2026-10-31T16:30:00-04:00
+lastmod = 2026-11-01T04:01:20-05:00
 draft = false
 slug = "oleshky-evacuees-cross-into-ukrainian-held-territory"
 summary = "Residents of the Russian-occupied city of Oleshky crossed into Ukrainian-held territory Saturday after a rare truce brokered by US First Lady Melania Trump, the most significant halt in fighting since the full-scale invasion began in 2022."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["Ukraine", "Russia", "evacuation", "ceasefire", "Oleshky", "Melania Trump"]
 image = "/images/stories/oleshky-evacuees-cross-into-ukrainian-held-territory.webp"
 image_alt = "A long convoy of white buses with headlights on moves along a dust-colored highway at dusk toward a line of low trees, a green road sign above the lanes, open fields on either side under an overcast sky."
-refs = 7
+refs = 8
 +++
 
 ![A long convoy of white buses with headlights on moves along a dust-colored highway at dusk toward a line of low trees, a green road sign above the lanes, open fields on either side under an overcast sky.](/images/stories/oleshky-evacuees-cross-into-ukrainian-held-territory.webp)
@@ -28,6 +28,8 @@ Oleshky, across the Dnieper from Kherson, has been under Russian control since 2
 
 The ceasefire, announced by Mrs. Trump last week to permit evacuations and humanitarian deliveries, is due to end Sunday evening. Whether the operation will continue beyond the truce had not been announced.
 
+**Update, Nov. 1:** Ukrainian officials said an estimated 2,000 residents had remained in Oleshky and were offered the choice of travelling to Ukrainian- or Russian-held territory or staying in the city with replenished food and medical supplies. The crossing took place under restrictions that did not permit disclosure of the number of evacuees or the location of the border crossing; organizers said the limits were imposed to safeguard those who stayed behind and to protect future missions. Evacuees travelled by bus and plane through Russia and Belarus, and President Volodymyr Zelenskyy thanked the United States and Melania Trump for mediation.
+
 ## Sources
 
 - [SCMP](https://www.scmp.com/news/world/russia-central-asia/article/3372828/russia-occupied-oleshky-evacuees-arrive-belarus-ukraine-next)
@@ -37,3 +39,4 @@ The ceasefire, announced by Mrs. Trump last week to permit evacuations and human
 - [ABC Australia](https://www.abc.net.au/news/2026-11-01/evacuees-from-russian-occupied-oleshky-arrive-in-ukraine/107332470)
 - [Euronews](https://www.euronews.com/2026/10/30/residents-leave-russian-occupied-oleshky-amid-local-ceasefire)
 - [BBC](https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&amp;at_campaign=rss)
+- [Al Jazeera](https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss)
