@@ -1,7 +1,7 @@
 +++
 title = "FBI Attributes Binance Heist of $6.3 Billion to North Korea"
 date = 2026-11-01T16:30:00-05:00
-lastmod = 2026-11-01T16:30:00-05:00
+lastmod = 2026-11-02T03:40:00-05:00
 draft = false
 slug = "binance-hack-fbi-north-korea"
 summary = "The FBI blamed North Korea for the $6.3 billion theft from crypto exchange Binance, the largest cyber heist on record, as the company reported $3.64 billion of customer outflows after resuming withdrawals."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["Binance", "cryptocurrency", "cybercrime", "North Korea", "FBI"]
 image = "/images/stories/binance-hack-fbi-north-korea.webp"
 image_alt = "A dim data-center hall with rows of server racks glowing with cool blue indicator lights, an empty office chair facing dark monitors in the foreground"
-refs = 5
+refs = 7
 +++
 
 ![A dim data-center hall with rows of server racks glowing with cool blue indicator lights, an empty office chair facing dark monitors in the foreground](/images/stories/binance-hack-fbi-north-korea.webp)
@@ -28,6 +28,8 @@ Binance, the world's largest crypto exchange, was founded by Mr Zhao, a Chinese-
 
 The bureau's attribution sharpens the diplomatic dimension of the loss, which rivals any state-sponsored theft on record. Binance said its tracing efforts continued with law enforcement and industry partners, and that the suspended-asset figure could change as the investigation proceeded.
 
+Update, November 2: Binance recorded $3.64 billion in net outflows after reopening withdrawals on Sunday, processing $4.65 billion in withdrawals against $1.01 billion in deposits between 6 a.m. and 3:30 p.m. UTC on November 1, CNBC reported. The net movement equalled 2.1 percent of the exchange's $171 billion in total assets, based on its proof-of-reserves data of October 28. Binance said it had covered about 95 percent of the impacted amount and that withdrawals were stabilising after an initial spike. The founder, Changpeng Zhao, said most outflows came within the first hours, writing on X that "98% choose to stay!" and that "Trust isn't earned by what you say in good times. It's earned by what you do in hard times." Bloomberg reported that North Korea's hackers are supercharging crypto heists with artificial-intelligence skills.
+
 ## Sources
 
 - [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack)
@@ -35,3 +37,5 @@ The bureau's attribution sharpens the diplomatic dimension of the loss, which ri
 - [NPR](https://www.npr.org/2026-10-30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 - [The New York Times](https://www.nytimes.com/2026-10-30/technology/binance-hack-ai-north-korea.html)
 - [The Wall Street Journal](https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main)
+- [Bloomberg Tech](https://www.bloomberg.com/news/articles/2026-11-02/north-korea-s-hackers-supercharge-crypto-heists-with-ai-skills)
+- [CNBC](https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html)
