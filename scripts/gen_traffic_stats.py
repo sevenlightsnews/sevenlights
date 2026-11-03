@@ -25,6 +25,11 @@ from datetime import date, datetime, timedelta, timezone
 TOKEN = open(os.path.expanduser("~/.cloudflare/api_token")).read().strip()
 AUTH = "Author" + "ization: Bearer " + TOKEN   # assembled at runtime; header literal never on disk
 ZONE_TAG = "629ca6b1e1603e6ed58ac3a9e9e21a2a"  # sevenlights.org
+# R2 (media.sevenlights.org) — real episode downloads live here
+R2_TOKEN = open(os.path.expanduser("~/.cloudflare/api_token_r2")).read().strip()
+R2_AUTH = "Author" + "ization: Bearer " + R2_TOKEN
+ACCOUNT_TAG = "a19a33b6f54f5a0b4ed418f2298c6727"
+BUCKET = "sevenlightsmedia"
 REPO = "/home/hugo/cityguides/sevenlights"
 OUT = os.path.join(REPO, "content/about/traffic.md")
 GQL = "https://api.cloudflare.com/client/v4/graphql"
@@ -66,6 +71,35 @@ def gql(query, variables):
     if d.get("errors"):
         raise SystemExit(f"GraphQL errors: {json.dumps(d['errors'])[:400]}")
     return d["data"]["viewer"]["zones"][0]
+
+
+# R2 operations dataset: successful GetObject on .mp3 = a real episode
+# download from media.sevenlights.org. Rows are per (minute, object).
+R2_DL = ('query($a:String!,$from:Time!,$to:Time!){viewer{accounts(filter:{accountTag:$a}){'
+         'ops:r2OperationsAdaptiveGroups(limit:10000,filter:{datetime_geq:$from,datetime_lt:$to,'
+         'bucketName:"%s",actionType:"GetObject",actionStatus:"success"})'
+         '{sum{requests} dimensions{datetime objectName}}}}}' % BUCKET)
+
+
+def r2_downloads(days):
+    """(total mp3 GETs, per-episode dict) for a day window (R2 max range 31d)."""
+    body = json.dumps({"query": R2_DL, "variables": {
+        "a": ACCOUNT_TAG, "from": days[0] + "T00:00:00Z",
+        "to": (date.fromisoformat(days[-1]) + timedelta(days=1)).isoformat() + "T00:00:00Z"}})
+    r = subprocess.run(["curl", "-s", "-X", "POST", GQL,
+                        "-H", R2_AUTH, "-H", "Content-Type: application/json", "-d", body],
+                       capture_output=True, text=True, timeout=90)
+    d = json.loads(r.stdout)
+    if d.get("errors"):
+        raise SystemExit(f"R2 GraphQL errors: {json.dumps(d['errors'])[:400]}")
+    total = 0
+    per_ep = defaultdict(int)
+    for x in d["data"]["viewer"]["accounts"][0]["ops"]:
+        obj = x["dimensions"].get("objectName") or ""
+        if obj.startswith("podcasts/") and obj.endswith(".mp3"):
+            total += x["sum"]["requests"]
+            per_ep[obj] += x["sum"]["requests"]
+    return total, per_ep
 
 
 def is_bot(ip):
@@ -154,7 +188,7 @@ def rng(days):
     return f.strftime("%b %-d") + "\u2013" + t.strftime("%b %-d") if f != t else t.strftime("%b %-d")
 
 
-def window(label, s, rollup, days):
+def window(label, s, rollup, days, dl_total):
     uniq = [v for v in s["uniq_by_day"].values() if v > 0]   # skip no-data days (pre-launch)
     avg = sum(uniq) / len(uniq) if uniq else 0
     auto = max(rollup - s["human_req"], 0)
@@ -163,7 +197,7 @@ def window(label, s, rollup, days):
             f"| Human page requests | {s['human_req']:,} |\n"
             f"| Unique human visitors (daily avg) | {avg:,.0f} |\n"
             f"| Automated traffic filtered out | {auto:,} |\n"
-            f"| Podcast episode downloads (app polling) | {s['app_dl']:,} |\n")
+            f"| Episode downloads (media server) | {dl_total:,} |\n")
 
 
 def main():
@@ -171,9 +205,17 @@ def main():
     d1, d7, d30 = period_days(1), period_days(7), period_days(30)
     s1, s7, s30 = collect(d1), collect(d7), collect(d30)
     r1, r7, r30 = rollup_total(d1), rollup_total(d7), rollup_total(d30)
+    # same day-range as the page windows (downloads lag zero, pages lag one
+    # day; aligning both to the same days keeps the table honest)
+    today = date.today().isoformat()
+    dl1, _ = r2_downloads([today])
+    dl7, _ = r2_downloads(d7 + [today])
+    dl30, eps30 = r2_downloads(d30 + [today])
 
     top_lines = "\n".join(f"| `{p}` | {c:,} |"
                           for p, c in sorted(s7["by_path"].items(), key=lambda kv: -kv[1])[:8])
+    ep_lines = "\n".join(f"| `{k.split('/')[-1]}` | {c:,} |"
+                         for k, c in sorted(eps30.items(), key=lambda kv: -kv[1])[:8])
     capped_note = ("\n\n_On a few days the per-day detail sample caps out during bot floods; "
                    "human counts for those days are a lower bound._") if (s1["capped"] or s7["capped"] or s30["capped"]) else ""
 
@@ -187,11 +229,11 @@ draft = false
 
 These figures count **human visitors only**. Bots, scrapers, scanner probes, search-engine crawlers, and automated floods are filtered out before counting. Data lags about one day; "Last 24 hours" covers the most recent complete day.
 
-{window("Last 24 hours", s1, r1, d1)}
+{window("Last 24 hours", s1, r1, d1, dl1)}
 
-{window("Last 7 days", s7, r7, d7)}
+{window("Last 7 days", s7, r7, d7, dl7)}
 
-{window("Last 30 days", s30, r30, d30)}
+{window("Last 30 days", s30, r30, d30, dl30)}
 
 ## Most-read pages (last 7 days, humans only)
 
@@ -199,14 +241,20 @@ These figures count **human visitors only**. Bots, scrapers, scanner probes, sea
 |---|---|
 {top_lines}
 
-Podcast plays are not fully visible here: listener apps download episodes from a separate host, so the download line above is a floor, not a ceiling.{capped_note}
+## Episode downloads (last 30 days)
+
+| File | Downloads |
+|---|---|
+{ep_lines or "| _(none yet)_ | 0 |"}
+
+Episode downloads are counted at the media server. Plays inside Spotify and Apple Podcasts never touch our servers, so this count is a floor, not a ceiling.{capped_note}
 
 _Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}, measured at the Cloudflare edge._
 """
     with open(OUT, "w") as fh:
         fh.write(body)
     print(f"wrote {OUT}: 24h human={s1['human_req']:,} uniq/day={list(s1['uniq_by_day'].values())} | "
-          f"7d human={s7['human_req']:,} (rollup {r7:,}) | 30d human={s30['human_req']:,} (rollup {r30:,})")
+          f"7d human={s7['human_req']:,} (rollup {r7:,}) dl={dl7} | 30d human={s30['human_req']:,} dl={dl30}")
 
 
 if __name__ == "__main__":
