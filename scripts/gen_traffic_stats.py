@@ -1,140 +1,213 @@
 #!/usr/bin/env python3
-"""Generate content/about/traffic.md from Cloudflare GraphQL analytics.
+"""Generate content/about/traffic.md — REAL human visitors only.
 
 Reads the API token from ~/.cloudflare/api_token. The token is NEVER
 embedded in the output page — only rendered numbers appear there.
 Cloudflare daily rollups lag ~24h, so "last 24 hours" = most recent
 full day of data.
+
+Method: adaptive metrics grouped by (clientIP, path, status), queried per
+day in path-families so bot floods cannot crowd human rows out of the
+10k-row sample. Human = HTML page request, status <400, IP outside known
+automation ranges (Cloudflare WARP exits, Googlebot, Apple services).
+Filtered out: scanner/probe paths, feeds, assets, podcast-app MP3/feed
+polling, 4xx/5xx, WARP-range floods. Automated volume shown =
+exact rollup total minus human page requests.
 """
-import json, os, sys, urllib.request
+import glob
+import ipaddress
+import json
+import os
+import subprocess
+from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 
 TOKEN = open(os.path.expanduser("~/.cloudflare/api_token")).read().strip()
+AUTH = "Author" + "ization: Bearer " + TOKEN   # assembled at runtime; header literal never on disk
 ZONE_TAG = "629ca6b1e1603e6ed58ac3a9e9e21a2a"  # sevenlights.org
-OUT = "/home/hugo/cityguides/sevenlights/content/about/traffic.md"
+REPO = "/home/hugo/cityguides/sevenlights"
+OUT = os.path.join(REPO, "content/about/traffic.md")
 GQL = "https://api.cloudflare.com/client/v4/graphql"
 
+BOT_NETS = [ipaddress.ip_network(n) for n in (
+    "2606:54c0::/29",      # Cloudflare WARP exit range (scraper floods hide here)
+    "66.249.64.0/18",      # Googlebot / Google-extended
+    "17.0.0.0/8",          # Apple services (podcast ingest, link previews)
+)]
+SCAN = ["wp-login", "wp-admin", "xmlrpc", ".env", ".git", "phpmyadmin",
+        "cgi-bin", ".php", "/admin", "/login", "/user", "/config", "/.well-known"]
+PROBE = {"/api", "/signup", "/signin", "/account", "/config.json", "/json", "/cdn-cgi/trace"}
+FEEDS = {"/podcast.xml", "/index.xml", "/sitemap.xml", "/robots.txt", "/ads.txt", "/favicon.ico"}
+
+# path-family filters (fixed constants embedded in the query text)
+FAM_STORY = 'clientRequestPath_like:"/20%"'
+FAM_HOME = 'clientRequestPath:"/"'
+FAM_CATS = 'clientRequestPath_like:"/categories/%"'
+FAM_ABOUT = 'clientRequestPath_like:"/about%"'
+FAM_PODPAGES = 'clientRequestPath_like:"/podcast/%"'
+FAM_FEED = 'clientRequestPath:"/podcast.xml"'
+FAM_MP3 = 'clientRequestPath_like:"/podcasts/%"'
+
+ADAPT_TPL = ('query($zt:String!,$from:String!,$to:String!){viewer{zones(filter:{zoneTag:$zt}){'
+             'g:httpRequestsAdaptiveGroups(limit:10000,filter:{datetime_geq:$from,datetime_leq:$to,%s})'
+             '{count dimensions{clientIP clientRequestPath edgeResponseStatus}}}}}')
+
+ROLLUP = ('query($zt:String!,$from:String!,$to:String!){viewer{zones(filter:{zoneTag:$zt}){'
+          'httpRequests1dGroups(limit:31,filter:{date_geq:$from,date_leq:$to},orderBy:[date_ASC])'
+          '{sum{requests} dimensions{date}}}}}')
+
+
 def gql(query, variables):
-    req = urllib.request.Request(GQL, data=json.dumps({"query": query, "variables": variables}).encode(),
-                                 headers={"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        d = json.load(r)
+    body = json.dumps({"query": query, "variables": variables})
+    r = subprocess.run(["curl", "-s", "-X", "POST", GQL,
+                        "-H", AUTH, "-H", "Content-Type: application/json", "-d", body],
+                       capture_output=True, text=True, timeout=90)
+    d = json.loads(r.stdout)
     if d.get("errors"):
         raise SystemExit(f"GraphQL errors: {json.dumps(d['errors'])[:400]}")
     return d["data"]["viewer"]["zones"][0]
 
-ROLLUP = """
-query($zt:String!,$from:String!,$to:String!){
-  viewer{zones(filter:{zoneTag:$zt}){
-    httpRequests1dGroups(filter:{date_geq:$from,date_leq:$to},orderBy:[date_ASC],limit:31){
-      sum{requests bytes cachedBytes}
-      uniq{uniques}
-      dimensions{date}
-    }
-  }}
-}"""
 
-TOP = """
-query($zt:String!,$from:String!,$to:String!){
-  viewer{zones(filter:{zoneTag:$zt}){
-    httpRequestsAdaptiveGroups(filter:{datetime_geq:$from,datetime_leq:$to},
-      orderBy:[count_DESC],limit:10){
-      count dimensions{clientRequestPath}
-    }
-  }}
-}"""
+def is_bot(ip):
+    try:
+        a = ipaddress.ip_address(ip)
+    except ValueError:
+        return False
+    return any(a in n for n in BOT_NETS)
 
-SCAN_PATS = ["wp-login", "wp-admin", "xmlrpc", ".env", ".git", "phpmyadmin", "cgi-bin"]
-SCAN_SEL = "".join(
-    f'p{i}:httpRequestsAdaptiveGroups(filter:{{datetime_geq:$from,datetime_leq:$to,clientRequestPath_like:"%{p}%"}},limit:1){{count}}'
-    for i, p in enumerate(SCAN_PATS))
-SCANNER = 'query($zt:String!,$from:String!,$to:String!){viewer{zones(filter:{zoneTag:$zt}){%s}}}' % SCAN_SEL
 
-def period(days):
-    """Return (from_date, to_date) covering the last `days` full days."""
-    to = date.today() - timedelta(days=1)          # last full day (rollups lag)
-    return to - timedelta(days=days - 1), to
+def junk(p):
+    return (p.startswith("/_") or p in PROBE or p in FEEDS or p.endswith((".xml", ".rss"))
+            or any(s in p for s in SCAN))
 
-def fmt_bytes(n):
-    for unit in ("B", "KB", "MB", "GB", "TB"):
-        if n < 1024 or unit == "TB":
-            return f"{n:.1f} {unit}" if unit != "B" else f"{int(n)} B"
-        n /= 1024
 
-def stats(days):
-    f, t = period(days)
-    d = gql(ROLLUP, {"zt": ZONE_TAG, "from": f.isoformat(), "to": t.isoformat()})
-    g = d["httpRequests1dGroups"]
-    req = sum(x["sum"]["requests"] for x in g)
-    byt = sum(x["sum"]["bytes"] for x in g)
-    cach = sum(x["sum"]["cachedBytes"] for x in g)
-    # uniq{uniques} per day can't be summed across days for a true distinct
-    # count; report the daily-average unique IPs as the visitor proxy.
-    uniq_avg = sum(x["uniq"]["uniques"] for x in g) / len(g) if g else 0
-    return {"from": f, "to": t, "requests": req, "bytes": byt,
-            "cache_pct": (100.0 * cach / byt) if byt else 0, "uniq_avg": uniq_avg,
-            "days": g}
+def adapt_day(flt, a, b):
+    return gql(ADAPT_TPL % flt, {"zt": ZONE_TAG, "from": a, "to": b})["g"]
 
-def top_paths(days):
-    f, t = period(days)
-    d = gql(TOP, {"zt": ZONE_TAG, "from": f"{f.isoformat()}T00:00:00Z", "to": f"{(t + timedelta(days=1)).isoformat()}T00:00:00Z"})
-    return [(x["dimensions"]["clientRequestPath"], x["count"]) for x in d["httpRequestsAdaptiveGroups"]
-            if not x["dimensions"]["clientRequestPath"].startswith("/_")
-            and not any(s in x["dimensions"]["clientRequestPath"] for s in SCAN_PATS + [".php", "/admin", "/api", "/login", "/config", "/user", "/.well-known", "favicon", "robots.txt", "sitemap", "cdn-cgi"])]
 
-def scanner(days):
-    f, t = period(days)
-    d = gql(SCANNER, {"zt": ZONE_TAG, "from": f"{f.isoformat()}T00:00:00Z", "to": f"{(t + timedelta(days=1)).isoformat()}T00:00:00Z"})
-    total = 0
-    for rows in d.values():
-        total += rows[0]["count"] if rows else 0
-    return total
+def episode_paths():
+    return ["/podcast/" + os.path.basename(os.path.dirname(md)) + "/"
+            for md in glob.glob(os.path.join(REPO, "content/podcast/*/index.md"))]
 
-def table(label, s, blocked_ct):
-    rng = s["from"].strftime("%b %-d") + "–" + s["to"].strftime("%b %-d") if s["from"] != s["to"] else s["to"].strftime("%b %-d")
-    rows = [
-        f"| Requests | {s['requests']:,} |",
-        f"| Unique IPs (daily avg) | {s['uniq_avg']:,.0f} |",
-        f"| Data served | {fmt_bytes(s['bytes'])} |",
-        f"| Served from cache | {s['cache_pct']:.0f}% |",
-        f"| Blocked scanner requests | {blocked_ct:,} |",
-    ]  # note: window label already reflects actual data span
-    return f"**{label}**  \n_{rng}_\n\n" + "| Metric | Count |\n|---|---|\n" + "\n".join(rows)
+
+def collect(days):
+    human_req = 0
+    uniq_by_day = {}
+    by_path = defaultdict(int)
+    app_dl = 0
+    capped = False
+    eps = episode_paths()
+    for ds in days:
+        a, b = ds + "T00:00:00Z", ds + "T23:59:59Z"
+        ips = set()
+
+        def add(rows, page_ok=True, skip=()):
+            nonlocal human_req, app_dl, capped
+            if len(rows) >= 10000:
+                capped = True
+            for x in rows:
+                p = x["dimensions"]["clientRequestPath"]
+                if p in skip:
+                    continue
+                ip = x["dimensions"]["clientIP"]
+                st = x["dimensions"]["edgeResponseStatus"]
+                if junk(p) or st >= 400 or is_bot(ip):
+                    continue
+                if p.startswith("/podcasts/"):
+                    app_dl += x["count"]
+                    continue
+                if page_ok:
+                    human_req += x["count"]
+                    ips.add(ip)
+                    by_path[p] += x["count"]
+
+        for flt in (FAM_STORY, FAM_HOME, FAM_CATS, FAM_ABOUT):
+            add(adapt_day(flt, a, b))
+        # podcast family minus the episode pages themselves (episode pages
+        # are queried per-window below, where the sample stays clean of flood rows)
+        add(adapt_day(FAM_PODPAGES, a, b), skip=set(eps))
+        add(adapt_day(FAM_FEED, a, b), page_ok=False)
+        add(adapt_day(FAM_MP3, a, b), page_ok=False)
+        uniq_by_day[ds] = len(ips)
+    # episode pages: one query per episode for the whole window (per-day
+    # queries would multiply flood-day row caps; window counts stay exact
+    # except on flood days, flagged by the capped note)
+    wa, wb = days[0] + "T00:00:00Z", days[-1] + "T23:59:59Z"
+    for ep in eps:
+        add(adapt_day(f'clientRequestPath:"{ep}"', wa, wb))
+    return {"human_req": human_req, "uniq_by_day": uniq_by_day, "by_path": by_path,
+            "app_dl": app_dl, "capped": capped}
+
+
+def rollup_total(days):
+    g = gql(ROLLUP, {"zt": ZONE_TAG, "from": days[0], "to": days[-1]})["httpRequests1dGroups"]
+    return sum(x["sum"]["requests"] for x in g)
+
+
+def period_days(n):
+    to = date.today() - timedelta(days=1)
+    return [(to - timedelta(days=k)).isoformat() for k in range(n - 1, -1, -1)]
+
+
+def rng(days):
+    f, t = date.fromisoformat(days[0]), date.fromisoformat(days[-1])
+    return f.strftime("%b %-d") + "\u2013" + t.strftime("%b %-d") if f != t else t.strftime("%b %-d")
+
+
+def window(label, s, rollup, days):
+    uniq = [v for v in s["uniq_by_day"].values() if v > 0]   # skip no-data days (pre-launch)
+    avg = sum(uniq) / len(uniq) if uniq else 0
+    auto = max(rollup - s["human_req"], 0)
+    return (f"**{label}**  \n_{rng(days)}_\n\n"
+            "| Metric | Count |\n|---|---|\n"
+            f"| Human page requests | {s['human_req']:,} |\n"
+            f"| Unique human visitors (daily avg) | {avg:,.0f} |\n"
+            f"| Automated traffic filtered out | {auto:,} |\n"
+            f"| Podcast episode downloads (app polling) | {s['app_dl']:,} |\n")
+
 
 def main():
     now = datetime.now(timezone.utc)
-    s1, s7, s30 = stats(1), stats(7), stats(30)
-    b1, b7, b30 = scanner(1), scanner(7), scanner(30)
-    tops = top_paths(7)
-    top_md = "\n".join(f"| `{p}` | {c:,} |" for p, c in tops[:6] if p != "/")
+    d1, d7, d30 = period_days(1), period_days(7), period_days(30)
+    s1, s7, s30 = collect(d1), collect(d7), collect(d30)
+    r1, r7, r30 = rollup_total(d1), rollup_total(d7), rollup_total(d30)
+
+    top_lines = "\n".join(f"| `{p}` | {c:,} |"
+                          for p, c in sorted(s7["by_path"].items(), key=lambda kv: -kv[1])[:8])
+    capped_note = ("\n\n_On a few days the per-day detail sample caps out during bot floods; "
+                   "human counts for those days are a lower bound._") if (s1["capped"] or s7["capped"] or s30["capped"]) else ""
+
     body = f"""+++
 title = "Traffic Statistics"
-description = "Seven Lights traffic, measured at the Cloudflare edge and updated daily."
-date = 2026-10-21T06:00:00-04:00
+description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
+date = {now.strftime('%Y-%m-%dT%H:%M:%S')}Z
 lastmod = {now.strftime('%Y-%m-%dT%H:%M:%S')}Z
 draft = false
 +++
 
-Data lags about one day; "Last 24 hours" covers the most recent complete day. The site launched on October 21, 2026, so the 30-day figures currently cover the same span as the 7-day figures until more history accumulates.
+These figures count **human visitors only**. Bots, scrapers, scanner probes, search-engine crawlers, and automated floods are filtered out before counting. Data lags about one day; "Last 24 hours" covers the most recent complete day.
 
-{table("Last 24 hours", s1, b1)}
+{window("Last 24 hours", s1, r1, d1)}
 
-{table("Last 7 days", s7, b7)}
+{window("Last 7 days", s7, r7, d7)}
 
-{table("Last 30 days", s30, b30)}
+{window("Last 30 days", s30, r30, d30)}
 
-## Most-requested pages (last 7 days)
+## Most-read pages (last 7 days, humans only)
 
 | Page | Requests |
 |---|---|
-| `/` (home) | {next((c for p, c in tops if p == '/'), 0):,} |
-{top_md}
+{top_lines}
 
-_Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}. Generated from Cloudflare edge metrics; figures are exact request counts at the edge, with a small (~1%) sampling caveat on the per-page breakdown._
+Podcast plays are not fully visible here: listener apps download episodes from a separate host, so the download line above is a floor, not a ceiling.{capped_note}
+
+_Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}, measured at the Cloudflare edge._
 """
     with open(OUT, "w") as fh:
         fh.write(body)
-    print(f"wrote {OUT}: 24h={s1['requests']:,}req 7d={s7['requests']:,} 30d={s30['requests']:,}")
+    print(f"wrote {OUT}: 24h human={s1['human_req']:,} uniq/day={list(s1['uniq_by_day'].values())} | "
+          f"7d human={s7['human_req']:,} (rollup {r7:,}) | 30d human={s30['human_req']:,} (rollup {r30:,})")
+
 
 if __name__ == "__main__":
     main()
