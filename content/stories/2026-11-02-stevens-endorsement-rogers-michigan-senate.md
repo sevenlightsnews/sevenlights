@@ -1,7 +1,7 @@
 +++
 title = "Stevens Endorses Rogers for Senate Two Days Before the Vote"
 date = 2026-11-02T03:40:00-05:00
-lastmod = 2026-11-02T03:40:00-05:00
+lastmod = 2026-11-03T03:40:00-05:00
 draft = false
 slug = "stevens-endorsement-rogers-michigan-senate"
 summary = "Representative Haley Stevens endorsed Republican Mike Rogers for the Michigan Senate seat two days before the midterms, after the El-Sayed campaign said she was no longer welcome; the state party and fellow Democrats rejected the move."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["Michigan", "Senate", "midterms", "Haley Stevens", "Mike Rogers", "Abdul El-Sayed"]
 image = "/images/stories/stevens-endorsement-rogers-michigan-senate.webp"
 image_alt = "The interior of a church seen from the rear, congregants standing with their backs to the camera, a wooden pulpit and pipe organ at the front, stained-glass windows glowing in warm light"
-refs = 5
+refs = 7
 +++
 
 ![The interior of a church seen from the rear, congregants standing with their backs to the camera, a wooden pulpit and pipe organ at the front, stained-glass windows glowing in warm light](/images/stories/stevens-endorsement-rogers-michigan-senate.webp)
@@ -28,10 +28,14 @@ The race may decide control of the Senate. Mr Rogers and Mr El-Sayed have courte
 
 Mr Rogers appeared with Ms Stevens without addressing the split. Ms Stevens said her decision was final.
 
+**Update, November 3, 2026:** Senator Chuck Schumer called Ms Stevens's endorsement "a despicable betrayal," and Representative Rashida Tlaib, also of Michigan, called the move "unforgivable." Ms Stevens addressed her critics on Monday in a lengthy X post titled "The Decisions We Make," rebutting suggestions that her fiancé had influenced her choice. Mr Turkish said last week he would not support Mr El-Sayed because of his stance on Israel.
+
 ## Sources
 
 - [Axios](https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate)
 - [Guardian US](https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate)
 - [The Hill](https://thehill.com/homenews/campaign/6186945-mi-democrats-reject-stevens-endorsement/)
 - [NPR Politics](https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers)
-- [Politico](https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698)
+- [Politico](https://www.politico.com/news/2026-11-01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698)
+- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4788993/haley-stevens-sexism-el-sayed-mike-rogers-endorsement/)
+- [Daily Signal](https://www.dailysignal.com/2026-11-02/despicable-betrayal-rep-haley-stevens-el-sayed-rogers/)
