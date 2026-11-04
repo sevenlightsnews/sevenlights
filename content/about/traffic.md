@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-04T11:28:43Z
-lastmod = 2026-11-04T11:28:43Z
+date = 2026-11-04T17:10:26Z
+lastmod = 2026-11-04T17:10:26Z
 draft = false
 +++
 
@@ -16,7 +16,7 @@ _Nov 3_
 | Human page requests | 604 |
 | Unique human visitors (daily avg) | 164 |
 | Automated traffic filtered out | 6,269 |
-| Episode downloads (media server) | 0 |
+| Episode downloads (media server) | 1 |
 
 
 **Last 7 days**  
@@ -24,10 +24,10 @@ _Oct 28–Nov 3_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 3,445 |
+| Human page requests | 3,435 |
 | Unique human visitors (daily avg) | 204 |
-| Automated traffic filtered out | 757,515 |
-| Episode downloads (media server) | 14 |
+| Automated traffic filtered out | 757,526 |
+| Episode downloads (media server) | 15 |
 
 
 **Last 30 days**  
@@ -35,10 +35,10 @@ _Oct 5–Nov 3_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 5,945 |
+| Human page requests | 5,948 |
 | Unique human visitors (daily avg) | 162 |
-| Automated traffic filtered out | 780,246 |
-| Episode downloads (media server) | 20 |
+| Automated traffic filtered out | 780,242 |
+| Episode downloads (media server) | 21 |
 
 
 ## Most-read pages (last 7 days, humans only)
@@ -46,7 +46,7 @@ _Oct 5–Nov 3_
 | Page | Requests |
 |---|---|
 | `/` | 904 |
-| `/podcast/2026-11-01-daily-brief/` | 367 |
+| `/podcast/2026-11-01-daily-brief/` | 357 |
 | `/podcast/` | 98 |
 | `/about/traffic/` | 83 |
 | `/podcast/2026-11-02-daily-brief/` | 53 |
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-04 11:28 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-04 17:10 UTC, measured at the Cloudflare edge._
