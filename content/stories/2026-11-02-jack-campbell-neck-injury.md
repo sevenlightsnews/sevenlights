@@ -1,7 +1,7 @@
 +++
 title = "Lions Linebacker Campbell Hospitalized After Neck Injury"
 date = 2026-11-02T03:40:00-05:00
-lastmod = 2026-11-02T03:40:00-05:00
+lastmod = 2026-11-05T03:50:00-05:00
 draft = false
 slug = "jack-campbell-neck-injury"
 summary = "Detroit Lions linebacker Jack Campbell, 26, was hospitalized overnight after a neck injury on a tackle Sunday against Minnesota, lying motionless for minutes before being stretchered from the field."
@@ -11,7 +11,7 @@ categories = ["Sports"]
 tags = ["NFL", "Detroit Lions", "Jack Campbell", "injury"]
 image = "/images/stories/jack-campbell-neck-injury.webp"
 image_alt = "An orange-padded medical stretcher on a wheeled cart at a football sideline at night, players and floodlit stands blurred behind"
-refs = 4
+refs = 7
 +++
 
 ![An orange-padded medical stretcher on a wheeled cart at a football sideline at night, players and floodlit stands blurred behind](/images/stories/jack-campbell-neck-injury.webp)
@@ -30,9 +30,14 @@ Campbell, a 6-foot-3, 240-pounder from Iowa, is in his fourth season and was a f
 
 Detroit went on to beat the Vikings 19-15 and closes the week with a nationally televised game on Thursday.
 
+**Update, November 5, 2026:** Mr Campbell said on Wednesday that he had "full movement" in his lower body and was continuing to make progress in his upper body. "I know there's still work ahead, but I remain very optimistic. I'm taking things one day at a time, staying positive, and focusing on getting better," he said in a statement. "My faith in God has never been stronger." He thanked the athletic trainers who responded on the field and the medical team at Henry Ford Hospital, where he was taken after being treated for nine minutes during Sunday's win over Minnesota. Mr Campbell, named an All-Pro last season, signed a four-year, $81m contract extension with the Lions in May that carries him through 2030.
+
 ## Sources
 
 - [Guardian Sport](https://www.theguardian.com/sport/2026/nov/01/lions-shaken-after-all-pro-linebacker-jack-campbell-taken-to-hospital-with-scary-neck-injury)
 - [BBC Sport](https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o?at_medium=RSS&amp;at_campaign=rss)
 - [The Athletic](https://www.nytimes.com/athletic/7745170/2026/11/01/jack-campbell-injury-carted-off-lions-vikings/)
 - [CBS Sports](https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/)
+- [Guardian Sport](https://www.theguardian.com/sport/2026/nov/04/jack-campbell-injury-update-nfl)
+- [ProFootballTalk](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jack-campbell-i-have-full-movement-in-my-lower-body-and-am-making-progress-with-movement-in-my-upper-body)
+- [The Athletic](https://www.nytimes.com/athletic/7753601/2026/11/04/jack-campbell-injury-update-lions-statement/)
