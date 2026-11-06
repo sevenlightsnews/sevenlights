@@ -1,0 +1,72 @@
+{{/* /latest/ — the day's publishing activity (editor request, 2026-11-05).
+     Two blocks, both driven by front-matter date/lastmod only — no cron changes:
+       NEW TODAY    stories published today (Date == today), refs desc, newest first.
+       UPDATED      stories whose lastmod is later than their date (follow-up notes
+                    appended by the pipeline), most recently updated first.
+     Style follows the front page: thumbnail + title rows, compact spacing. */}}
+
+{{ define "main" }}
+  <div class="sevenlights-home">
+    <h1 class="sevenlights-latest-h">Latest</h1>
+    <p class="sevenlights-latest-sub">
+      Everything published today, plus stories updated since first publication.
+      Past editions: <a href="/editions/">daily editions archive</a>.
+    </p>
+
+    {{ $today := now.Format "2006-01-02" }}
+    {{ $allstories := where site.RegularPages "Section" "stories" }}
+
+    {{ $new := slice }}
+    {{ $updated := slice }}
+    {{ range $p := $allstories }}
+      {{ if eq ($p.Date.Format "2006-01-02") $today }}
+        {{ $new = $new | append $p }}
+      {{ else if ne $p.Lastmod.Unix $p.Date.Unix }}
+        {{ $updated = $updated | append $p }}
+      {{ end }}
+    {{ end }}
+
+    <section class="sevenlights-catblock" aria-label="New today">
+      <h2 class="sevenlights-cathead">New today — {{ $today }}</h2>
+      {{ if $new }}
+        <ul class="sevenlights-titlelist">
+          {{ range (sort (sort $new ".Lastmod" "desc") "Params.refs" "desc") }}
+            {{ $story := . }}
+            <li class="sevenlights-titleitem">
+              {{ with $story.Params.image }}
+                <a class="sevenlights-thumblink" href="{{ $story.RelPermalink }}" tabindex="-1" aria-hidden="true">
+                  <img class="sevenlights-thumb" src="{{ . }}" width="160" height="67" alt="" loading="lazy" decoding="async">
+                </a>
+              {{ end }}
+              <a class="sevenlights-titlelink" href="{{ $story.RelPermalink }}">{{ $story.Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <p class="sevenlights-empty">Nothing published today yet — the next edition publishes daily at 6am ET.</p>
+      {{ end }}
+    </section>
+
+    <section class="sevenlights-catblock" aria-label="Updated stories">
+      <h2 class="sevenlights-cathead">Updated stories</h2>
+      {{ if $updated }}
+        <ul class="sevenlights-titlelist">
+          {{ range (first 30 (sort $updated ".Lastmod" "desc")) }}
+            {{ $story := . }}
+            <li class="sevenlights-titleitem">
+              {{ with $story.Params.image }}
+                <a class="sevenlights-thumblink" href="{{ $story.RelPermalink }}" tabindex="-1" aria-hidden="true">
+                  <img class="sevenlights-thumb" src="{{ . }}" width="160" height="67" alt="" loading="lazy" decoding="async">
+                </a>
+              {{ end }}
+              <a class="sevenlights-titlelink" href="{{ $story.RelPermalink }}">{{ $story.Title }}</a>
+              <span class="sevenlights-updated-meta">First reported {{ $story.Date.Format "Jan 2" }} &middot; updated {{ $story.Lastmod.Format "Jan 2" }}</span>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <p class="sevenlights-empty">No stories have been updated since publication.</p>
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

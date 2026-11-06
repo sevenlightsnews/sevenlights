@@ -74,6 +74,11 @@ name = "Podcast"
 url = "/podcast/"
 weight = 12
 
+[[menus.main]]
+name = "Daily Editions"
+url = "/editions/"
+weight = 13
+
 [outputs]
 home = ["HTML","RSS"]
 

@@ -3,12 +3,14 @@
      Story pages, section pages, navigation, footer and metadata stay Ananke.
 
      Front page (editor rules, 2026-10-22; layout updated 2026-10-28;
-     thumbnails re-added at the editor's request 2026-10-31):
+     thumbnails re-added at the editor's request 2026-10-31; follow-up
+     "Updated" stories included at the editor's request 2026-11-05):
        - the day's date and time (server-rendered at build, refreshed live by JS)
        - every category lists ALL of today's stories as a thumbnail (the story's
          own `image` front-matter) beside the title link — no summaries, no
-         story counts. Order: highest `refs` front-matter value (source-link
-         count) first, newest first on ties. */}}
+         story counts — PLUS stories whose follow-up notes were updated within
+         the last 48 hours, marked with an "Updated" pill. Order: highest `refs`
+         front-matter value (source-link count) first, newest first on ties. */}}
 
 {{ define "header" }}
   <header class="sevenlights-hero">
@@ -35,12 +37,15 @@
     {{ end }}
 
     {{ $today := now.Format "2006-01-02" }}
+    {{ $since := now.AddDate 0 0 -2 }}
     {{ $allstories := where site.RegularPages "Section" "stories" }}
     {{ range $c := site.Params.siteCategories }}
       {{ $catpages := where $allstories "Params.categories" "intersect" $c.names }}
       {{ $todays := slice }}
       {{ range $p := $catpages }}
-        {{ if eq ($p.Date.Format "2006-01-02") $today }}{{ $todays = $todays | append $p }}{{ end }}
+        {{ $isToday := eq ($p.Date.Format "2006-01-02") $today }}
+        {{ $isRecentUpdate := and (ne $p.Lastmod.Unix $p.Date.Unix) ($p.Lastmod.After $since) }}
+        {{ if or $isToday $isRecentUpdate }}{{ $todays = $todays | append $p }}{{ end }}
       {{ end }}
       <section class="sevenlights-catblock" aria-label="{{ $c.label }}">
         <h2 class="sevenlights-cathead">
@@ -57,6 +62,7 @@
                   </a>
                 {{ end }}
                 <a class="sevenlights-titlelink" href="{{ $story.RelPermalink }}">{{ $story.Title }}</a>
+                {{ if ne $story.Lastmod.Unix $story.Date.Unix }}<span class="sevenlights-pill">Updated</span>{{ end }}
               </li>
             {{ end }}
           </ul>
