@@ -2,7 +2,7 @@
 title = "About"
 description = "What Seven Lights publishes, how stories are chosen, and the standards applied to them."
 date = 2026-10-21T14:40:00-04:00
-lastmod = 2026-10-21T14:40:00-04:00
+lastmod = 2026-11-05T18:40:00-05:00
 draft = false
 type = "page"
 +++
@@ -18,14 +18,14 @@ A story appears here only when all of the following are true:
 - At least three separate articles report it.
 - Those articles come from at least three different media companies. Two outlets owned by the same company count as one source, not two.
 - The reporting contains enough concrete detail — who, what, when, where — for a summary to be written without filling gaps.
-- A photograph supplied by one of the publishers is available and usable. A story with no usable publisher photograph is not published, even if the story is important.
+- Every published story carries an illustration generated in-house from the facts the sources report. The site does not embed or republish photographs taken by the publishers.
 - It is not a repeat of a story already published here in the previous three days.
 
-Stories are gathered by software that reads public RSS feeds from news organizations, groups the articles that cover the same event, removes duplicate coverage from the same company, and ranks what is left. The ranking is based on how widely a story is being covered, not on preference for a topic or a side. Summaries are written from the material in the linked articles. Nothing is added that the sources do not report: no extra facts, no quotations that do not appear in the sources, no predictions, no general commentary about what a development might mean.
+Stories are gathered by software that reads public RSS feeds from news organizations, groups the articles that cover the same event, removes duplicate coverage from the same company, and ranks what is left. The complete list of feeds the software reads is published on the [source feeds](/about/source-feeds/) page. The ranking is based on how widely a story is being covered, not on preference for a topic or a side. Summaries are written from the material in the linked articles. Nothing is added that the sources do not report: no extra facts, no quotations that do not appear in the sources, no predictions, no general commentary about what a development might mean.
 
 ## Checking the work
 
-Every claim in a summary is attributed to the organization that reported it, and every story links to the original articles so a reader can compare the summary against the reporting. Photographs are the publishers' own images and are credited to the publisher that supplied them.
+Every claim in a summary is attributed to the organization that reported it, and every story links to the original articles so a reader can compare the summary against the reporting. Illustrations are generated in-house from the reported facts; photographs taken by the publishers are not used.
 
 When a story changes in a material way — a court ruling, a charge filed or dropped, an agreement signed, a death, a corrected figure — the same page is updated and a dated note on that page states what changed and when. The web address of a story does not change when it is updated.
 
