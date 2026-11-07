@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-07T10:18:55Z
-lastmod = 2026-11-07T10:18:55Z
+date = 2026-11-07T17:10:29Z
+lastmod = 2026-11-07T17:10:29Z
 draft = false
 +++
 
@@ -13,10 +13,10 @@ _Nov 6_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,349 |
+| Human page requests | 2,350 |
 | Unique human visitors (daily avg) | 548 |
-| Automated traffic filtered out | 327,281 |
-| Episode downloads (media server) | 1 |
+| Automated traffic filtered out | 327,264 |
+| Episode downloads (media server) | 3 |
 
 
 **Last 7 days**  
@@ -24,10 +24,10 @@ _Oct 31–Nov 6_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 5,978 |
+| Human page requests | 5,997 |
 | Unique human visitors (daily avg) | 280 |
-| Automated traffic filtered out | 1,382,216 |
-| Episode downloads (media server) | 22 |
+| Automated traffic filtered out | 1,382,102 |
+| Episode downloads (media server) | 24 |
 
 
 **Last 30 days**  
@@ -35,10 +35,10 @@ _Oct 8–Nov 6_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 9,669 |
+| Human page requests | 9,575 |
 | Unique human visitors (daily avg) | 204 |
-| Automated traffic filtered out | 1,416,214 |
-| Episode downloads (media server) | 32 |
+| Automated traffic filtered out | 1,416,215 |
+| Episode downloads (media server) | 34 |
 
 
 ## Most-read pages (last 7 days, humans only)
@@ -46,9 +46,9 @@ _Oct 8–Nov 6_
 | Page | Requests |
 |---|---|
 | `/` | 903 |
-| `/podcast/2026-11-01-daily-brief/` | 367 |
+| `/podcast/2026-11-01-daily-brief/` | 377 |
 | `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 291 |
-| `/about/traffic/` | 84 |
+| `/about/traffic/` | 83 |
 | `/podcast/2026-11-03-daily-brief/` | 71 |
 | `/categories/global/` | 67 |
 | `/podcast/2026-11-02-daily-brief/` | 63 |
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-07 10:18 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-07 17:10 UTC, measured at the Cloudflare edge._
