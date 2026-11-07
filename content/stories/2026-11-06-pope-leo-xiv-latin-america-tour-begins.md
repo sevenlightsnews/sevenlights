@@ -1,7 +1,7 @@
 +++
 title = "Pope Leo opens 12-day Latin America tour three weeks after cancer surgery"
 date = 2026-11-06T03:00:00-05:00
-lastmod = 2026-11-06T03:00:00-05:00
+lastmod = 2026-11-07T03:30:00-05:00
 draft = false
 slug = "pope-leo-xiv-latin-america-tour-begins"
 summary = "Pope Leo XIV lands in Friday in Uruguay, the first stop of a 12-day tour of Uruguay, Argentina and Peru undertaken just three weeks after surgery for lung cancer."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["pope leo xiv", "vatican", "latin america", "uruguay", "peru"]
 image = "/images/stories/pope-leo-xiv-latin-america-tour-begins.webp"
 image_alt = "A cleric in white robes seen from behind walking toward an open-air altar before a vast crowd, morning light, mountains on the horizon"
-refs = 3
+refs = 5
 +++
 
 ![A cleric in white robes seen from behind walking toward an open-air altar before a vast crowd, morning light, mountains on the horizon](/images/stories/pope-leo-xiv-latin-america-tour-begins.webp)
@@ -28,8 +28,12 @@ In all three countries the pope is scheduled to meet survivors of clerical sexua
 
 The tour opens days after Leo presided Friday in St. Peter's Basilica over the annual memorial Mass for cardinals and bishops who died during the year, his first public act since the operation in a schedule he chose to keep intact.
 
+Update, Nov. 7 — Leo landed in Uruguay on Friday and began the tour. "I'm very happy to be here," he told reporters on the plane, saying he wanted to bring a "message of hope in today's world." Uruguay is the region's least Catholic and most secular country, and the lung cancer surgery three weeks ago had put the entire trip into question.
+
 ## Sources
 
 - [The New York Times](https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html)
 - [BBC](https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss)
-- [The Economist](https://www.economist.com/the-americas/2026/11/04/can-the-popes-tour-of-latin-america-win-back-disenchanted-youth)
+- [The Economist](https://www.economist.com/the-americas/2026-11-04/can-the-popes-tour-of-latin-america-win-back-disenchanted-youth)
+- [South China Morning Post](https://www.scmp.com/news/world/americas/article/3373618/pope-leo-uruguay-kick-south-america-tour-just-weeks-after-lung-surgery)
+- [France 24](https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay)

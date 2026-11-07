@@ -1,7 +1,7 @@
 +++
 title = "Paraguay's president resigns as bank collapse engulfs the country"
 date = 2026-11-06T03:00:00-05:00
-lastmod = 2026-11-06T03:00:00-05:00
+lastmod = 2026-11-07T03:30:00-05:00
 draft = false
 slug = "paraguay-pena-resigns-bank-collapse"
 summary = "Paraguayan President Santiago Pena resigned Thursday after the collapse of Ueno Bank froze the savings of three million people and prompted unanimous impeachment proceedings."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["paraguay", "santiago pena", "banking crisis", "ueno bank", "south america"]
 image = "/images/stories/paraguay-pena-resigns-bank-collapse.webp"
 image_alt = "A dense crowd of protesters gathered before a neoclassical parliament building at dusk, flags raised, a line of police in the foreground, faces indistinct"
-refs = 7
+refs = 11
 +++
 
 ![A dense crowd of protesters gathered before a neoclassical parliament building at dusk, flags raised, a line of police in the foreground, faces indistinct](/images/stories/paraguay-pena-resigns-bank-collapse.webp)
@@ -30,6 +30,8 @@ Mr. Pena has acknowledged a shareholding stake in Ueno Holding, saying he had ma
 
 The resignation must in theory be accepted by Congress, in which case Vice-President Pedro Alliana would take over. Mr. Alliana is also suspected of involvement in the scandal, which he denies; he has distanced himself from Mr. Pena and paused his own presidential ambitions.
 
+Update, Nov. 7 — The Senate voted unanimously Friday to remove Mr. Pena from office, and prosecutors ordered him placed under house arrest on suspicion of breach of trust and influence peddling, among other charges. The crisis has left nearly half of Paraguay's 6 million people unable to reach their savings. Vice-President Pedro Alliana was sworn in before Congress President Basilio Nunez to serve the remaining term to August 2028, promising not to "abandon" Ueno Bank depositors; he too is under investigation in connection with the scandal.
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)
@@ -39,3 +41,7 @@ The resignation must in theory be accepted by Congress, in which case Vice-Presi
 - [BBC](https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss)
 - [ABC News Australia](https://www.abc.net.au/news/2026-11-06/banking-crisis-plunges-paraguay-into-political-disarray/107355316)
+- [The Guardian](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts)
+- [France 24](https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis)
+- [CBC](https://www.cbc.ca/news/world/paraguay-ousted-president-arrest-warrant-9.7413118?cmp=rss)
+- [CNA](https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536)

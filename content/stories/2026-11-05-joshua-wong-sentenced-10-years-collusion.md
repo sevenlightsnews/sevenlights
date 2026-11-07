@@ -1,7 +1,7 @@
 +++
 title = "Hong Kong jails Joshua Wong for 10 years in second security-law case"
 date = 2026-11-05T03:50:00-05:00
-lastmod = 2026-11-05T03:50:00-05:00
+lastmod = 2026-11-07T03:30:00-05:00
 draft = false
 slug = "joshua-wong-sentenced-10-years-collusion"
 summary = "A Hong Kong court sentenced democracy activist Joshua Wong to 10 years in prison for colluding with foreign forces, his second conviction under the national security law and the heaviest term yet imposed under it."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["hong kong", "joshua wong", "national security law", "china", "human rights"]
 image = "/images/stories/joshua-wong-sentenced-10-years-collusion.webp"
 image_alt = "Security police escorting a person in a dark shirt across a government building forecourt at dusk, camera flashes bursting behind a barrier, faces not visible"
-refs = 6
+refs = 7
 +++
 
 ![Security police escorting a person in a dark shirt across a government building forecourt at dusk, camera flashes bursting behind a barrier, faces not visible](/images/stories/joshua-wong-sentenced-10-years-collusion.webp)
@@ -30,6 +30,8 @@ Mr Law said in a statement: "It's incredibly sad to see my friend Joshua Wong su
 
 The ruling closes the case over the sanctions campaign. Mr Wong will serve the new term alongside the remainder of his earlier sentence, extending an imprisonment that began when he was first jailed in 2020.
 
+Update, Nov. 7 — The United States, Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand and Britain issued a joint statement Friday saying the sentencing showed how the security law was being used to "target individuals for political expression and participation," and called for an end to prosecutions under it. A government spokesman said Saturday the statement "disregarded facts, blatantly interfered with the exercise of judicial power and maliciously slandered" the law, and urged the ten countries to cease interfering in Hong Kong affairs, "which are purely China's internal affairs."
+
 ## Sources
 
 - [The Guardian](https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case)
@@ -38,3 +40,4 @@ The ruling closes the case over the sanctions campaign. Mr Wong will serve the n
 - [BBC](https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss)
 - [The Wall Street Journal](https://www.wsj.com/world/china/hong-kong-extends-jailed-activist-joshua-wongs-prison-term-by-10-years-6a9d9370?mod=rss_worldnews)
+- [South China Morning Post](https://www.scmp.com/news/hong-kong/politics/article/3373638/hypocritical-hong-kong-hits-back-criticism-joshua-wongs-sentence)

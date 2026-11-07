@@ -1,7 +1,7 @@
 +++
 title = "Mississippi Senate race heads to extended count with Colom narrowly ahead"
 date = 2026-11-06T03:00:00-05:00
-lastmod = 2026-11-06T03:00:00-05:00
+lastmod = 2026-11-07T03:30:00-05:00
 draft = false
 slug = "mississippi-senate-race-extended-count"
 summary = "Democrat Scott Colom leads Senator Cindy Hyde-Smith by roughly 1,800 votes in Mississippi with thousands of mail and provisional ballots outstanding, setting up a tense multi-day count."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["mississippi", "senate race", "cindy hyde-smith", "scott colom", "midterm elections"]
 image = "/images/stories/mississippi-senate-race-extended-count.webp"
 image_alt = "Election workers' hands sorting stacks of paper ballots under fluorescent lights at long tables, clipboards and tally sheets, no faces visible"
-refs = 4
+refs = 6
 +++
 
 ![Election workers' hands sorting stacks of paper ballots under fluorescent lights at long tables, clipboards and tally sheets, no faces visible](/images/stories/mississippi-senate-race-extended-count.webp)
@@ -28,9 +28,13 @@ Democrats have poured resources into the state. The Democratic Senatorial Campai
 
 The outcome will not decide control of the Senate, which Democrats have already secured. It would hand them a seat in a state they have not carried for a Senate seat in more than four decades. Counties certify by Nov. 13; a legal fight over affidavit ballots could follow.
 
+Update, Nov. 7 — Colom's lead had grown to a little over 2,000 votes as of 2pm ET Friday, according to Associated Press data. The count has put the state's voter rolls under scrutiny: more than 230,000 Mississippi voters were listed as inactive before the election, up from roughly 166,000 in 2024, and those voters cast affidavit ballots that election workers must check against registration records, with some required to verify their identity at the county circuit clerk's office. The inactive total rose sharply after the March primaries, months after Secretary of State Michael Watson's office signed a $50,000 contract with the credit-reporting company Experian to help verify voter addresses. An attorney for Colom wrote to county election commissioners Thursday that the National Republican Senatorial Committee's request to separate certain ballots is illegal under state law and should not be followed.
+
 ## Sources
 
 - [The Hill](https://thehill.com/homenews/campaign/data-nerds/6201080-mississippi-alaska-senate-races-midterms-2026-live-discussion/)
 - [CBS News](https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/)
 - [Semafor](https://www.semafor.com/article/11/05/2026/democrats-flock-to-mississippi-amid-senate-vote-tally)
 - [NBC News](https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463)
+- [Axios](https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations)
+- [The Hill](https://thehill.com/homenews/campaign/6204220-mississippi-senate-race-colom-hyde-smith/)
