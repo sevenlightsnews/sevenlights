@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-10T12:27:33Z
-lastmod = 2026-11-10T12:27:33Z
+date = 2026-11-10T17:10:34Z
+lastmod = 2026-11-10T17:10:34Z
 draft = false
 +++
 
@@ -24,9 +24,9 @@ _Nov 3–Nov 9_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 10,225 |
+| Human page requests | 10,209 |
 | Unique human visitors (daily avg) | 394 |
-| Automated traffic filtered out | 1,478,041 |
+| Automated traffic filtered out | 1,478,057 |
 | Episode downloads (media server) | 30 |
 
 
@@ -45,8 +45,8 @@ _Oct 11–Nov 9_
 
 | Page | Requests |
 |---|---|
-| `/` | 821 |
-| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 388 |
+| `/` | 822 |
+| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 389 |
 | `/categories/global/` | 129 |
 | `/podcast/2026-11-09-daily-brief/` | 126 |
 | `/podcast/2026-11-07-daily-brief/` | 120 |
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-10 12:27 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-10 17:10 UTC, measured at the Cloudflare edge._
