@@ -1,7 +1,7 @@
 +++
 title = "'Godzilla Minus Zero' opens to a record $31.6 million for a foreign-language film"
 date = 2026-11-09T03:30:00-05:00
-lastmod = 2026-11-09T03:30:00-05:00
+lastmod = 2026-11-10T03:15:00-05:00
 draft = false
 slug = "godzilla-minus-zero-box-office-record"
 summary = "Godzilla Minus Zero opened to $31.6 million at North American theaters, the biggest debut ever for a live-action foreign-language film, as two international titles made the top five."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["box office", "godzilla", "gkids", "film"]
 image = "/images/stories/godzilla-minus-zero-box-office-record.webp"
 image_alt = "Moviegoers with umbrellas queued outside a grand old cinema at night, tall glowing blank poster panels in the lit case beside the entrance, warm light spilling onto rain-slick pavement with reflections"
-refs = 4
+refs = 6
 +++
 
 ![Moviegoers with umbrellas queued outside a grand old cinema at night, tall glowing blank poster panels in the lit case beside the entrance, warm light spilling onto rain-slick pavement with reflections](/images/stories/godzilla-minus-zero-box-office-record.webp)
@@ -28,9 +28,15 @@ Takashi Yamazaki directed, as he did 2023's "Godzilla Minus One," the latest fra
 
 The debut gave the franchise its largest North American opening and set a new benchmark for non-English-language releases in the United States and Canada.
 
+**Update, November 10, 2026:** Final tallies put the film's global opening at 61.9 million dollars, with 30.5 million dollars in North America and 31.4 million dollars overseas, the largest opening for any Japanese Godzilla film. The production, budgeted in the range of 20 million dollars, was thus profitable from the first weekend. The sequel holds a 90 per cent critics' rating and a 96 per cent audience score on Rotten Tomatoes and earned an A CinemaScore, indicators of the strong word of mouth that carried "Godzilla Minus One" to 114 million dollars worldwide after an 11.4 million dollar opening in 2023. Mr. Yamazaki's film is set two years after its predecessor and introduces King Ghidorah, with much of the earlier cast returning.
+
+
+
 ## Sources
 
 - [The Playlist](https://theplaylist.net/godzilla-minus-zero-record-31-6-million-box-office-20261108/)
 - [IndieWire](https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-debut-record-foreign-film-1235226132/)
 - [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/)
 - [Vulture](http://www.vulture.com/article/godzilla-minus-zero-box-office.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part)
+- [SlashFilm](https://www.slashfilm.com/2311370/godzilla-minus-zero-box-office-success-explained/)
+- [AV Club](https://www.avclub.com/weekend-box-office-godzilla-minus-zero-cat-in-the-hat)

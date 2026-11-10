@@ -1,7 +1,7 @@
 +++
 title = "Russell Brand convicted of rape and sexual assault at Southwark trial"
 date = 2026-11-06T03:00:00-05:00
-lastmod = 2026-11-06T03:00:00-05:00
+lastmod = 2026-11-10T03:15:00-05:00
 draft = false
 slug = "russell-brand-convicted-rape-sexual-assault"
 summary = "The comedian and actor Russell Brand, 51, was convicted Thursday of one count of rape and three counts of sexual assault after a three-week trial at Southwark Crown Court."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["russell brand", "uk courts", "southwark crown court", "trial", "verdict"]
 image = "/images/stories/russell-brand-convicted-rape-sexual-assault.webp"
 image_alt = "Gothic stone crown court building at dusk, journalists and camera crews gathered behind barriers on the pavement, flashes firing, faces indistinct"
-refs = 3
+refs = 7
 +++
 
 ![Gothic stone crown court building at dusk, journalists and camera crews gathered behind barriers on the pavement, flashes firing, faces indistinct](/images/stories/russell-brand-convicted-rape-sexual-assault.webp)
@@ -28,8 +28,16 @@ The Metropolitan Police said after the verdict that Brand had become the subject
 
 The convictions end a case that had shadowed Brand's public life since the 2023 reporting, during which he was dropped by professional partners and mounted a public defense of his conduct. Sentencing on Monday will fix the custodial term the judge has signaled.
 
+**Update, November 10, 2026:** Brand was sentenced Monday at Southwark Crown Court to ten years and six months in prison. Calling him "a sexual predator" who had acted with "staggering arrogance," Judge Joel Bennathan said Brand's fame had protected him until journalists from The Times, The Sunday Times and Channel 4 Dispatches exposed him in 2023. Victim impact statements were read in court; one complainant said she had been left "traumatised." Detective Superintendent Andy Furphy called the sentence a "milestone" in holding Brand accountable. Prime Minister Andy Burnham pledged better support for victims. Two further rape allegations remain under police investigation.
+
+
+
 ## Sources
 
 - [NME](https://www.nme.com/news/film/russell-brand-found-guilty-of-rape-and-sexual-assault-3975128?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=russell-brand-found-guilty-of-rape-and-sexual-assault)
 - [AV Club](https://www.avclub.com/russell-brand-trial-verdict)
 - [Vulture](http://www.vulture.com/article/russell-brand-guilty-rape-uk-trial.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part)
+- [SCMP](https://www.scmp.com/news/world/europe/article/3373841/uks-russell-brand-sentenced-10-1/2-years-jail-rape-sexual-assault)
+- [France 24](https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault)
+- [WSJ World](https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=rss_worldnews)
+- [BBC Top](https://www.bbc.co.uk/news/articles/c69vzv7llen7o?at_medium=RSS&amp;at_campaign=rss)
