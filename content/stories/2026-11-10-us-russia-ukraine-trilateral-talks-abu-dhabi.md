@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["ukraine", "russia", "peace talks", "abu dhabi", "security guarantees"]
 image = "/images/stories/us-russia-ukraine-trilateral-talks-abu-dhabi.webp"
 image_alt = "Empty modern negotiation hall at dusk with a long curved polished table, empty leather chairs, microphones and notepads, desert city skyline glowing beyond floor-to-ceiling windows, warm low light"
-refs = 5
+refs = 8
 +++
 
 ![Empty modern negotiation hall at dusk with a long curved polished table, empty leather chairs, microphones and notepads, desert city skyline glowing beyond floor-to-ceiling windows, warm low light](/images/stories/us-russia-ukraine-trilateral-talks-abu-dhabi.webp)
@@ -28,12 +28,14 @@ The talks began as Russia stepped up air attacks on Ukraine's energy system ahea
 
 Both sides have also escalated long-range drone and missile attacks against each other. No date was announced for a follow-up round or for a leaders' meeting.
 
-
-
+Update, Nov. 11, 2026: Ukrainian and Russian delegations met for a second day of US-mediated talks in Abu Dhabi on Wednesday. Washington called for a "new" security framework on the opening day, and President Zelensky said he was "happy" with the change in approach by the American mediators. Senior US officials told reporters they saw a "real shot" at serious progress toward ending the war, citing signs of growing willingness on both sides to reach a settlement, and negotiations were set to continue through Wednesday.
 
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks)
 - [France 24](https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi)
 - [RFE/RL](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
-- [Euronews](https://www.euronews.com/2026/11/10/whos-who-from-ukraine-and-russia-at-the-abu-dhabi-peace-talks)
+- [Euronews](https://www.euronews.com/2026-11-10/whos-who-from-ukraine-and-russia-at-the-abu-dhabi-peace-talks)
 - [NY Times](https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html)
+- [France 24](https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi)
+- [RFE/RL](https://www.rferl.org/a/us-ukraine-peace-abu-dhabi-talks-russia-witkoff/33894497.html)
+- [Euronews](https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day)

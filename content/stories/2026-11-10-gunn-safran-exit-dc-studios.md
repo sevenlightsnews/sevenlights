@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["dc studios", "james gunn", "peter safran", "skydance", "warner bros"]
 image = "/images/stories/gunn-safran-exit-dc-studios.webp"
 image_alt = "Editorial illustration of a single empty director's chair on a vast dark film soundstage, one overhead work light, dust motes in the beam, cable snakes fading into shadow, steel-blue and amber palette"
-refs = 5
+refs = 6
 +++
 
 ![Editorial illustration of a single empty director's chair on a vast dark film soundstage, one overhead work light, dust motes in the beam, cable snakes fading into shadow, steel-blue and amber palette](/images/stories/gunn-safran-exit-dc-studios.webp)
@@ -30,8 +30,7 @@ The succession raises the immediate question of who greenlights the DC slate. Mr
 
 Mr. Latcham's first decisions are expected to concern the release order of the two finished films and the development slate behind "The Batman Part II."
 
-
-
+Update, Nov. 11, 2026: Trade reports said the two executives were fired rather than departing by agreement. David Ellison and Skydance co-CEO Ynon Kreiz personally informed Mr. Gunn and Mr. Safran of the decision on the Warner Bros. lot, The Playlist reported, despite recent assurances that they would remain in charge after the takeover. SlashFilm reported new details of the reasons behind the reversal, and The Playlist expected Skydance to dismantle the DC universe plans the pair had laid out.
 
 ## Sources
 - [The Playlist](https://theplaylist.net/james-gunn-peter-safran-exiting-dc-studios-20261109/)
@@ -39,3 +38,4 @@ Mr. Latcham's first decisions are expected to concern the release order of the t
 - [IndieWire](https://www.indiewire.com/news/breaking-news/dc-studios-shakeup-james-gunn-peter-safran-out-jeremy-latcham-1235226240/)
 - [AV Club](https://www.avclub.com/james-gunn-peter-safran-step-down-dc-studio-heads)
 - [Vulture](http://www.vulture.com/article/dcu-james-gunn-peter-jeremy-latcham-skydance.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part)
+- [SlashFilm](https://www.slashfilm.com/2312129/james-gunn-peter-safran-dc-studios-exit-explained/)
