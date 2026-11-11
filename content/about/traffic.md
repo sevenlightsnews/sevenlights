@@ -1,43 +1,43 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-10T17:10:34Z
-lastmod = 2026-11-10T17:10:34Z
+date = 2026-11-11T09:03:41Z
+lastmod = 2026-11-11T09:03:41Z
 draft = false
 +++
 
 These figures count **human visitors only**. Bots, scrapers, scanner probes, search-engine crawlers, and automated floods are filtered out before counting. Data lags about one day; "Last 24 hours" covers the most recent complete day.
 
 **Last 24 hours**  
-_Nov 9_
+_Nov 10_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,081 |
-| Unique human visitors (daily avg) | 448 |
-| Automated traffic filtered out | 252,867 |
-| Episode downloads (media server) | 2 |
+| Human page requests | 1,605 |
+| Unique human visitors (daily avg) | 404 |
+| Automated traffic filtered out | 305,479 |
+| Episode downloads (media server) | 0 |
 
 
 **Last 7 days**  
-_Nov 3–Nov 9_
+_Nov 4–Nov 10_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 10,209 |
-| Unique human visitors (daily avg) | 394 |
-| Automated traffic filtered out | 1,478,057 |
-| Episode downloads (media server) | 30 |
+| Human page requests | 11,184 |
+| Unique human visitors (daily avg) | 429 |
+| Automated traffic filtered out | 1,777,293 |
+| Episode downloads (media server) | 28 |
 
 
 **Last 30 days**  
-_Oct 11–Nov 9_
+_Oct 12–Nov 10_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 15,479 |
-| Unique human visitors (daily avg) | 243 |
-| Automated traffic filtered out | 2,252,105 |
+| Human page requests | 17,225 |
+| Unique human visitors (daily avg) | 251 |
+| Automated traffic filtered out | 2,557,443 |
 | Episode downloads (media server) | 48 |
 
 
@@ -45,14 +45,14 @@ _Oct 11–Nov 9_
 
 | Page | Requests |
 |---|---|
-| `/` | 822 |
-| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 389 |
-| `/categories/global/` | 129 |
-| `/podcast/2026-11-09-daily-brief/` | 126 |
-| `/podcast/2026-11-07-daily-brief/` | 120 |
-| `/categories/technology/` | 102 |
-| `/categories/politics/` | 101 |
-| `/podcast/2026-11-03-daily-brief/` | 94 |
+| `/` | 872 |
+| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 394 |
+| `/podcast/2026-11-10-daily-brief/` | 181 |
+| `/categories/global/` | 146 |
+| `/podcast/2026-11-09-daily-brief/` | 133 |
+| `/podcast/2026-11-07-daily-brief/` | 123 |
+| `/categories/technology/` | 119 |
+| `/categories/politics/` | 109 |
 
 ## Episode downloads (last 30 days)
 
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-10 17:10 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-11 09:03 UTC, measured at the Cloudflare edge._
