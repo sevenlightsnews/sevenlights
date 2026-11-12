@@ -30,6 +30,8 @@ Both sides have also escalated long-range drone and missile attacks against each
 
 Update, Nov. 11, 2026: Ukrainian and Russian delegations met for a second day of US-mediated talks in Abu Dhabi on Wednesday. Washington called for a "new" security framework on the opening day, and President Zelensky said he was "happy" with the change in approach by the American mediators. Senior US officials told reporters they saw a "real shot" at serious progress toward ending the war, citing signs of growing willingness on both sides to reach a settlement, and negotiations were set to continue through Wednesday.
 
+Update, Nov. 12, 2026: The two-day talks concluded with agreement on what both sides described as the largest prisoner exchange of the war, expected to involve more than 1,000 prisoners from each side and potentially rising to 1,500, but with little progress toward a broader peace. Envoys Jared Kushner and Steve Witkoff said the exchange would "reunite families, build trust and create momentum towards peace," in Kushner's words. A senior member of Ukraine's delegation, David Arakhamia, said the Russian team had arrived with "very, very strict directives," and Russia's chief negotiator, Vladimir Medinsky, used the sessions to question Europe's security architecture. No breakthrough came on a ceasefire or the territorial disputes blocking a settlement. Kushner and Witkoff were due in Moscow on Thursday to brief President Vladimir Putin and then in Dublin for talks with President Volodymyr Zelensky.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks)
 - [France 24](https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi)
@@ -38,4 +40,7 @@ Update, Nov. 11, 2026: Ukrainian and Russian delegations met for a second day of
 - [NY Times](https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html)
 - [France 24](https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi)
 - [RFE/RL](https://www.rferl.org/a/us-ukraine-peace-abu-dhabi-talks-russia-witkoff/33894497.html)
-- [Euronews](https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day)
+- [Euronews](https://www.euronews.com/2026-11-11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day)
+- [The Guardian](https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace)
+- [Euronews](https://www.euronews.com/2026-11-12/from-abu-dhabi-to-dublin-via-moscow-peace-talks-and-a-row-over-who-speaks-for-europe)
+- [BBC](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss)

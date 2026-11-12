@@ -28,6 +28,8 @@ Scalise, the Louisiana Republican who had served as majority leader since 2023 a
 
 Jordan takes the leadership when the new Congress is sworn in in January. The conference will also elect a minority whip and policy committee officers in the coming weeks, and Democrats have yet to choose their nominee for speaker.
 
+Update, Nov. 12, 2026: Axios reported the final tally of Jordan's victory over Scalise at 106 to 73. GOP Whip Tom Emmer and Conference Chair Lisa McClain survived their re-election in the same round of ballots. Jordan pitched himself as a battle-tested fighter capable of defending President Trump against Democratic investigations and winning back the majority. "Over the next two years, House Republicans will fight for American families," Jordan said in a video introducing his candidacy. "When Democrats offer more government, we'll offer more freedom. And we will bring that fight in committee, on the floor and on the stump every single day." NPR reported that Jordan, a founding member of the Freedom Caucus with nearly 20 years in the House, has completed an insurgent-to-establishment turn.
+
 ## Sources
 - [Axios](https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise)
 - [The Guardian](https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader)
@@ -38,3 +40,6 @@ Jordan takes the leadership when the new Congress is sworn in in January. The co
 - [Fox News](https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise)
 - [CBS News](https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/)
 - [Semafor](https://www.semafor.com/article/11/10/2026/with-jordan-as-leader-house-republicans-gear-up-for-a-fight)
+- [Axios](https://www.axios.com/2026-11-11/jim-jordan-house-minority-leader-republicans)
+- [NPR](https://www.npr.org/2026-11-11/nx-s1-6037439/who-is-jim-jordan-the-house-republicans-pick-for-minority-leader)
+- [Fox News](https://www.foxnews.com/politics/longtime-gop-leader-faces-uncertain-future-jim-jordan-wins-house-leadership-fight)

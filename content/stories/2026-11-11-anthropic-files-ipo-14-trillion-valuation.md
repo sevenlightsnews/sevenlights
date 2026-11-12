@@ -28,6 +28,8 @@ The valuation's fall from the $2 trillion mark reflects a cooling in the AI trad
 
 The Chinese spying scandal enveloping Nvidia, a cornerstone company for AI investors, threatens to overshadow the industry but has not yet affected share prices other than Nvidia's, the Guardian reported. The flotation remains subject to regulatory review, and a final price will be set before trading opens.
 
+**Update, November 12:** The BBC reported that Anthropic will list on the Nasdaq under the symbol ANT on 19 November, the first fully AI-focused company to go public, with a debut valuation of about $1.3tn at the middle of the price range. Its most recent filing-period results, for the six months to the end of June, showed revenue of $16.2bn against $1.1bn in the same period a year earlier, and a pre-tax loss of $80.7bn against $12.9bn. Fiona Cincotta, a senior market analyst at City Index, told Reuters the $64bn sought was "fairly bullish" given the volatility and concerns over AI of recent weeks.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai)
 - [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record)
