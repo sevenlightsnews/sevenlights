@@ -1,4 +1,4 @@
-+++/
++++
 title = "Daily Brief: November 13, 2026"
 date = 2026-11-13T04:00:00-05:00
 author = "Seven Lights"
