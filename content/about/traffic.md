@@ -1,58 +1,58 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-12T17:10:41Z
-lastmod = 2026-11-12T17:10:41Z
+date = 2026-11-13T10:14:32Z
+lastmod = 2026-11-13T10:14:32Z
 draft = false
 +++
 
 These figures count **human visitors only**. Bots, scrapers, scanner probes, search-engine crawlers, and automated floods are filtered out before counting. Data lags about one day; "Last 24 hours" covers the most recent complete day.
 
 **Last 24 hours**  
-_Nov 11_
+_Nov 12_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,412 |
-| Unique human visitors (daily avg) | 966 |
-| Automated traffic filtered out | 297,099 |
-| Episode downloads (media server) | 2 |
+| Human page requests | 2,222 |
+| Unique human visitors (daily avg) | 915 |
+| Automated traffic filtered out | 50,938 |
+| Episode downloads (media server) | 1 |
 
 
 **Last 7 days**  
-_Nov 5–Nov 11_
+_Nov 6–Nov 12_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 13,000 |
-| Unique human visitors (daily avg) | 531 |
-| Automated traffic filtered out | 2,000,444 |
-| Episode downloads (media server) | 31 |
+| Human page requests | 14,346 |
+| Unique human visitors (daily avg) | 609 |
+| Automated traffic filtered out | 1,816,798 |
+| Episode downloads (media server) | 28 |
 
 
 **Last 30 days**  
-_Oct 13–Nov 11_
+_Oct 14–Nov 12_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 19,738 |
-| Unique human visitors (daily avg) | 285 |
-| Automated traffic filtered out | 2,854,534 |
-| Episode downloads (media server) | 52 |
+| Human page requests | 21,782 |
+| Unique human visitors (daily avg) | 312 |
+| Automated traffic filtered out | 2,905,538 |
+| Episode downloads (media server) | 53 |
 
 
 ## Most-read pages (last 7 days, humans only)
 
 | Page | Requests |
 |---|---|
-| `/` | 868 |
-| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 414 |
-| `/2026/11/05/erivo-afeni-shakur-snoop-biopic-universal/` | 248 |
-| `/podcast/2026-11-10-daily-brief/` | 217 |
-| `/2026/10/22/john-anderson-country-hall-of-famer-dies-71/` | 206 |
-| `/categories/global/` | 144 |
-| `/podcast/2026-11-09-daily-brief/` | 139 |
-| `/categories/technology/` | 130 |
+| `/` | 870 |
+| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 436 |
+| `/2026/11/05/erivo-afeni-shakur-snoop-biopic-universal/` | 252 |
+| `/podcast/2026-11-10-daily-brief/` | 221 |
+| `/2026/10/22/john-anderson-country-hall-of-famer-dies-71/` | 215 |
+| `/categories/global/` | 151 |
+| `/podcast/2026-11-11-daily-brief/` | 147 |
+| `/podcast/2026-11-09-daily-brief/` | 145 |
 
 ## Episode downloads (last 30 days)
 
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-12 17:10 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-13 10:14 UTC, measured at the Cloudflare edge._
