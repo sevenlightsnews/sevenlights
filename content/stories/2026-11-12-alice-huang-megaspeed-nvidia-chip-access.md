@@ -1,7 +1,7 @@
 +++
 title = "How a suspected Chinese spy gained access to Nvidia's chips"
 date = 2026-11-12T03:20:00-05:00
-lastmod = 2026-11-12T03:20:00-05:00
+lastmod = 2026-11-13T03:00:00-05:00
 draft = false
 slug = "alice-huang-megaspeed-nvidia-chip-access"
 summary = "Alice Huang, whom US intelligence identified as a Chinese asset, used her position at Singapore's Megaspeed and her ties to Nvidia's chief executive to move billions of dollars of chips toward China, reports say."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["nvidia", "megaspeed", "export controls", "alice huang", "china"]
 image = "/images/stories/alice-huang-megaspeed-nvidia-chip-access.webp"
 image_alt = "Aerial view of a container port at night in Southeast Asia, stacked shipping containers and gantry cranes lit by floodlights, a cargo vessel being loaded, a causeway curving toward a distant city skyline, teal and amber industrial light, photorealistic, 3:2"
-refs = 4
+refs = 8
 +++
 
 ![Aerial view of a container port at night in Southeast Asia, stacked shipping containers and gantry cranes lit by floodlights, a cargo vessel being loaded, a causeway curving toward a distant city skyline, teal and amber industrial light, photorealistic, 3:2](/images/stories/alice-huang-megaspeed-nvidia-chip-access.webp)
@@ -28,8 +28,14 @@ Singapore said it is investigating Megaspeed for "suspected breaches of our dome
 
 Nvidia has previously claimed that it found no evidence of illicit chip transfers. Secretary of State Marco Rubio sent a memo to senior officials earlier this year warning of the relationship, according to the New York Times, and Beijing's foreign ministry has rejected the claim that Huang was targeted by Chinese intelligence. It was unclear whether Wachtell's investigators would be able to interview Alice Huang.
 
+Update, Nov. 13, 2026: Bloomberg reported, citing documents it reviewed, that a Chinese company founded by Alice Huang procured smuggled AI chips installed at a Shanghai data center with links to Megaspeed, and that some of the servers were originally sold to Aperia Cloud Services, an official Nvidia cloud partner headquartered in Singapore. A CNBC investigation found that Alice Huang held interests in a network of Chinese companies connected to a data center serving Huawei, one of Nvidia's leading competitors; the private intelligence firm Tesari uncovered the connections through Chinese corporate records. At the center of the network is Shanghai Hexi, a financial firm that took a 27 percent stake in the data center developer Shanghai Century Longteng in 2021, and Century Longteng in turn held a controlling interest in Shenzhen Yifeng Technology, whose key customer was Huawei Cloud. Hexi sold its stake in 2024, but CNBC reported continuing connections through Alice Huang's husband and longtime business associate, Kang Wei, who founded Hexi, became a Century Longteng executive in 2022 and attended the signing of its Huawei agreement. Alice Huang sold a cloud business, Osmanthus, to the Chinese gaming company 7Road in 2019.
+
 ## Sources
 - [Fortune](https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/)
 - [BBC](https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss)
 - [The New York Times](https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html)
 - [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang)
+- [CNBC](https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html)
+- [International Business Times](https://www.ibtimes.com/alice-huang-china-data-center-huawei-links-3809705)
+- [Financial Times](https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1)

@@ -1,7 +1,7 @@
 +++
 title = "Russell Brand jailed for 10 years as Netflix plans documentary"
 date = 2026-11-12T03:20:00-05:00
-lastmod = 2026-11-12T03:20:00-05:00
+lastmod = 2026-11-13T03:00:00-05:00
 draft = false
 slug = "russell-brand-jailed-10-years"
 summary = "A London judge sentenced Russell Brand to ten years and six months in prison for one rape and three counts of sexual assault, calling him a 'sexual predator'; Netflix is preparing a documentary on the case."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["russell brand", "sentencing", "uk courts", "netflix", "sexual assault"]
 image = "/images/stories/russell-brand-jailed-10-years.webp"
 image_alt = "Facade of a red-brick Victorian crown court building on a grey morning, tall arched windows and stone steps, a line of press photographers with long lenses waiting behind barriers, black cabs on the wet street, bare plane trees, photorealistic, 3:2"
-refs = 3
+refs = 5
 +++
 
 ![Facade of a red-brick Victorian crown court building on a grey morning, tall arched windows and stone steps, a line of press photographers with long lenses waiting behind barriers, black cabs on the wet street, bare plane trees, photorealistic, 3:2](/images/stories/russell-brand-jailed-10-years.webp)
@@ -28,7 +28,11 @@ The case followed the 2023 investigation by Channel 4 and The Times, which promp
 
 The documentary and the account removals are the media industry's first substantial moves since the verdict. No appeal has been announced. Brand remains in custody while his legal team weighs its options.
 
+Update, Nov. 13, 2026: Six additional women accused Brand of sexual misconduct in the days after his conviction and sentencing, Deadline and Us reported. Us confirmed that Brand's marriage to Laura Gallacher played a role in Judge Joel Bennathan's assessment of whether the actor poses a future risk to women; Gallacher has stood by her husband throughout the case.
+
 ## Sources
 - [The Playlist](https://theplaylist.net/netflix-developing-russell-brand-doc-20261111/)
 - [Deadline](https://deadline.com/2026/11/meta-removes-russell-brand-instagram-rape-conviction-1237221263/)
 - [AV Club](https://www.avclub.com/russell-brand-sentenced-ten-years)
+- [Deadline](https://deadline.com/2026/11/russell-brand-accused-sexual-misconduct-six-more-women-1237222571/)
+- [Us Magazine](https://www.usmagazine.com/celebrity-news/news/russell-brand-faces-new-misconduct-claims-amid-jail-sentence/)

@@ -1,7 +1,7 @@
 +++
 title = "US seeks 'final end' to Ukraine war as trilateral talks open in Abu Dhabi"
 date = 2026-11-10T03:10:00-05:00
-lastmod = 2026-11-10T03:10:00-05:00
+lastmod = 2026-11-13T03:00:00-05:00
 draft = false
 slug = "us-russia-ukraine-trilateral-talks-abu-dhabi"
 summary = "United States, Russian and Ukrainian negotiators opened trilateral talks in Abu Dhabi this week, with Washington seeking what officials called a final end to the war."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["ukraine", "russia", "peace talks", "abu dhabi", "security guarantees"]
 image = "/images/stories/us-russia-ukraine-trilateral-talks-abu-dhabi.webp"
 image_alt = "Empty modern negotiation hall at dusk with a long curved polished table, empty leather chairs, microphones and notepads, desert city skyline glowing beyond floor-to-ceiling windows, warm low light"
-refs = 8
+refs = 16
 +++
 
 ![Empty modern negotiation hall at dusk with a long curved polished table, empty leather chairs, microphones and notepads, desert city skyline glowing beyond floor-to-ceiling windows, warm low light](/images/stories/us-russia-ukraine-trilateral-talks-abu-dhabi.webp)
@@ -32,6 +32,8 @@ Update, Nov. 11, 2026: Ukrainian and Russian delegations met for a second day of
 
 Update, Nov. 12, 2026: The two-day talks concluded with agreement on what both sides described as the largest prisoner exchange of the war, expected to involve more than 1,000 prisoners from each side and potentially rising to 1,500, but with little progress toward a broader peace. Envoys Jared Kushner and Steve Witkoff said the exchange would "reunite families, build trust and create momentum towards peace," in Kushner's words. A senior member of Ukraine's delegation, David Arakhamia, said the Russian team had arrived with "very, very strict directives," and Russia's chief negotiator, Vladimir Medinsky, used the sessions to question Europe's security architecture. No breakthrough came on a ceasefire or the territorial disputes blocking a settlement. Kushner and Witkoff were due in Moscow on Thursday to brief President Vladimir Putin and then in Dublin for talks with President Volodymyr Zelensky.
 
+Update, Nov. 13, 2026: Kushner and Witkoff held more than four hours of talks with Putin at the Kremlin on Thursday before flying to Dublin to debrief Zelensky. Putin indicated he would not water down demands to control parts of Ukraine that Russia claims to have annexed, and ruled out foreign peacekeeping troops, a deployment he said would be a "continuation of war" and that Moscow would treat as a "legitimate target." Zelensky and Kushner said afterward that Europe would join the next round of negotiations, though the Kremlin did not confirm agreement on the point. An EU official told Agence France-Presse that representatives of five European capitals and the European Commission had also met the US envoys, and European leaders gathering in Dublin were to decide on a special envoy and a common position for the talks. Zelensky said fresh restrictions on the Starshield satellite service were hampering Ukraine's ability to intercept Russian jet drones. Fighting continued: Russia said on Friday it had shot down nearly 1,200 Ukrainian drones overnight, and four people were killed in a Ukrainian drone attack on an industrial zone in Volgograd, regional governor Andrei Bocharov said.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks)
 - [France 24](https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi)
@@ -44,3 +46,8 @@ Update, Nov. 12, 2026: The two-day talks concluded with agreement on what both s
 - [The Guardian](https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace)
 - [Euronews](https://www.euronews.com/2026-11-12/from-abu-dhabi-to-dublin-via-moscow-peace-talks-and-a-row-over-who-speaks-for-europe)
 - [BBC](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss)
+- [South China Morning Post](https://www.scmp.com/news/world/russia-central-asia/article/3374265/putin-indicates-he-will-not-compromise-ukraine-meeting-us-envoys)
+- [France 24](https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks)
+- [RFE/RL](https://www.rferl.org/a/what-happened-at-the-ukraine-russia-peace-talks-not-much-/33897086.html)
+- [Euronews](https://www.euronews.com/2026/11/13/europe-today-us-envoys-meet-putin-as-europe-pushes-to-join-ukraine-talks)
+- [BBC](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss)

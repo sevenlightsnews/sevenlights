@@ -1,7 +1,7 @@
 +++
 title = "Sentinel rebukes Hegseth group at Tomb of the Unknown Soldier"
 date = 2026-11-12T03:20:00-05:00
-lastmod = 2026-11-12T03:20:00-05:00
+lastmod = 2026-11-13T03:00:00-05:00
 draft = false
 slug = "hegseth-tomb-unknown-soldier-reprimand"
 summary = "The Army sentinel at the Tomb of the Unknown Soldier loudly admonished Defense Secretary Pete Hegseth and his party on Veterans Day after the group stopped for photographs and laughter was heard."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["pete hegseth", "arlington national cemetery", "tomb of the unknown soldier", "veterans day", "pentagon"]
 image = "/images/stories/hegseth-tomb-unknown-soldier-reprimand.webp"
 image_alt = "White marble sarcophagus of the Tomb of the Unknown Soldier in winter light, an Army sentinel in dress uniform and gloves standing rigid at the rail, rows of headstones receding into fog behind, bare winter oaks, overcast grey sky, photorealistic, 3:2"
-refs = 6
+refs = 11
 +++
 
 ![White marble sarcophagus of the Tomb of the Unknown Soldier in winter light, an Army sentinel in dress uniform and gloves standing rigid at the rail, rows of headstones receding into fog behind, bare winter oaks, overcast grey sky, photorealistic, 3:2](/images/stories/hegseth-tomb-unknown-soldier-reprimand.webp)
@@ -30,6 +30,8 @@ The Pentagon gave no indication that any of the group would be disciplined, and 
 
 The incident closed a Veterans Day that began with a wreath-laying by the president at the tomb, and it was likely to shadow the secretary's next public appearance at the cemetery.
 
+Update, Nov. 13, 2026: The soldier who admonished the defense secretary's party at the tomb, Specialist Thomas Iglesias, has received the Joint Service Commendation Medal "in recognition of his actions at the Tomb of the Unknown Soldier on November 11, 2026," a Pentagon official confirmed. The Old Guard, the 3rd U.S. Infantry Regiment that has kept a continuous watch at the tomb since 1948, said in a statement that it "loves standards" and that "we carry on." Mr. Hegseth told reporters he "desperately" wanted to serve alongside the unit. Senator Tim Sheehy of Montana, an Army veteran, said on X that the regiment "is the pinnacle of professionalism." President Trump did not raise the episode in a call with the secretary.
+
 ## Sources
 - [The Hill](https://thehill.com/policy/defense/6214248-pete-hegseth-decorum-army-sentinel-veterans-day-tomb-unknown-soldier/)
 - [Los Angeles Times](https://www.latimes.com/world-nation/story/2026-11-11/hegseth-staff-reprimanded-by-guard-at-tomb-of-unknown-soldier)
@@ -37,3 +39,8 @@ The incident closed a Veterans Day that began with a wreath-laying by the presid
 - [NBC News](https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869)
 - [CBS News](https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/)
 - [BBC](https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&amp;at_campaign=rss)
+- [The Guardian](https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand)
+- [The Hill](https://thehill.com/policy/defense/6216510-hegseth-awards-sentinel-medal/)
+- [NBC News](https://www.nbcnews.com/politics/trump-administration/hegseth-awards-medal-soldier-reprimanded-arlington-national-cemetery-rcna609043)
+- [Fox News](https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief)
+- [PBS NewsHour](https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier)
