@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-14T17:10:39Z
-lastmod = 2026-11-14T17:10:39Z
+date = 2026-11-14T21:47:50Z
+lastmod = 2026-11-14T21:47:50Z
 draft = false
 +++
 
@@ -13,9 +13,9 @@ _Nov 13_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,008 |
+| Human page requests | 2,010 |
 | Unique human visitors (daily avg) | 651 |
-| Automated traffic filtered out | 66,225 |
+| Automated traffic filtered out | 66,222 |
 | Episode downloads (media server) | 4 |
 
 
@@ -24,9 +24,9 @@ _Nov 7–Nov 13_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 14,008 |
+| Human page requests | 13,998 |
 | Unique human visitors (daily avg) | 624 |
-| Automated traffic filtered out | 1,555,755 |
+| Automated traffic filtered out | 1,555,783 |
 | Episode downloads (media server) | 29 |
 
 
@@ -35,9 +35,9 @@ _Oct 15–Nov 13_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 23,905 |
-| Unique human visitors (daily avg) | 320 |
-| Automated traffic filtered out | 2,971,648 |
+| Human page requests | 24,107 |
+| Unique human visitors (daily avg) | 323 |
+| Automated traffic filtered out | 2,971,557 |
 | Episode downloads (media server) | 60 |
 
 
@@ -45,11 +45,11 @@ _Oct 15–Nov 13_
 
 | Page | Requests |
 |---|---|
-| `/` | 897 |
-| `/2026/11/05/erivo-afeni-shakur-snoop-biopic-universal/` | 250 |
+| `/` | 898 |
+| `/2026/11/05/erivo-afeni-shakur-snoop-biopic-universal/` | 240 |
 | `/podcast/2026-11-10-daily-brief/` | 229 |
 | `/2026/10/22/john-anderson-country-hall-of-famer-dies-71/` | 226 |
-| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 162 |
+| `/2026/11/05/real-madrid-verbal-agreement-jj-gabriel/` | 163 |
 | `/podcast/2026-11-11-daily-brief/` | 156 |
 | `/podcast/2026-11-09-daily-brief/` | 150 |
 | `/categories/technology/` | 141 |
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-14 17:10 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-14 21:47 UTC, measured at the Cloudflare edge._
