@@ -1,7 +1,7 @@
 +++
 title = "Maryland Democrat Moves to Unseat Party Leader Ahead of Secret Ballot"
 date = 2026-11-13T03:00:00-05:00
-lastmod = 2026-11-13T03:00:00-05:00
+lastmod = 2026-11-14T03:00:00-05:00
 draft = false
 slug = "van-hollen-challenges-schumer-senate-leadership"
 summary = "Senator Chris Van Hollen announced Thursday that he will challenge Chuck Schumer for Senate majority leader when Democrats take the chamber in January, opening a formal contest weeks before a secret ballot."
@@ -28,9 +28,11 @@ The contest sets an incumbent who has led the caucus through two election cycles
 
 The leadership vote is by secret ballot of the Democratic caucus and is expected in December, before the new Congress convenes.
 
+Update, Nov. 14: Senator-elect Peggy Flanagan of Minnesota announced Friday that she would back Mr. Van Hollen, saying "Minnesotans are demanding change. Democrats need to deliver. That starts with new voices" in leadership. Senator Bernie Sanders, an independent of Vermont who withdrew his support for Mr. Schumer on Nov. 11, endorsed Mr. Van Hollen's bid, The Hill and Fox News reported.
+
 ## Sources
-- [Axios](https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader)
-- [The New York Times](https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html)
-- [NPR](https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader)
+- [Axios](https://www.axios.com/2026-11-13/schumer-van-hollen-senate-majority-leader)
+- [The New York Times](https://www.nytimes.com/2026-11-12/us/politics/van-hollen-schumer-democrats-majority-leader.html)
 - [NBC News](https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100)
-- [CBS News](https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/)
+- [The Hill](https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/)
+- [Fox News](https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post)

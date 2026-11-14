@@ -1,7 +1,7 @@
 +++
 title = "Microsoft Mail and Teams Fail Across Regions as Servers Drop Offline"
 date = 2026-11-13T03:00:00-05:00
-lastmod = 2026-11-13T03:00:00-05:00
+lastmod = 2026-11-14T03:00:00-05:00
 draft = false
 slug = "microsoft-outlook-365-global-outage"
 summary = "Microsoft said a fault that began with Teams on Thursday morning spread to Exchange Online mailboxes across the Americas and later to every region, as a large number of servers became unexpectedly unavailable."
@@ -28,9 +28,11 @@ The company declared service restored for some mailboxes late Thursday and said 
 
 The last major failure came in September, when a fault in a core authentication configuration left mail and collaboration services down for days. Recurring outages this year have prompted business customers to ask how much dependency on a single cloud provider they should carry.
 
+Update, Nov. 14: Microsoft said it had found no evidence of malicious activity and attributed the outage to failed server health checks, according to Ars Technica. Traffic measurements by the web-monitoring firm Netcraft showed affected sites recovering after roughly 18 hours, and Microsoft said it was continuing a measured repair of affected infrastructure.
+
 ## Sources
-- [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
 - [WIRED](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
-- [TechCrunch](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/)
+- [TechCrunch](https://techcrunch.com/2026-11-12/microsofts-outlook-email-hit-by-new-outage/)
 - [SecurityWeek](https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/)
-- [Cyber Security News](https://cybersecuritynews.com/massive-microsoft-365-outage/)
+- [Ars Technica](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/)
+- [Engadget](https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/)

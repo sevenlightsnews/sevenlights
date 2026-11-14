@@ -1,7 +1,7 @@
 +++
 title = "Chip Maker's Shares Fall 16 Percent as Chief Steps Down; Finance Chief Named Interim"
 date = 2026-11-13T03:00:00-05:00
-lastmod = 2026-11-13T03:00:00-05:00
+lastmod = 2026-11-14T03:00:00-05:00
 draft = false
 slug = "jensen-huang-resigns-nvidia-ceo"
 summary = "Jensen Huang resigned as Nvidia chief executive and board member early Thursday, and the board asked finance chief Colette Kress to lead the company interim while it searches for a successor; shares fell more than 16 percent."
@@ -26,9 +26,11 @@ The resignation capped a week of disclosures. Mr. Huang co-founded the company i
 
 The board said it is searching for a permanent successor among both internal and external candidates. Ms. Kress inherits a company whose AI-driven growth has carried the broader market, and whose customers now await word on whether the transition alters its roadmap.
 
+Update, Nov. 14: Treasury Secretary Scott Bessent said the Commerce Department controlled the entity-list process and criticized delays in restricting Megaspeed, the Nvidia customer at the center of the chip-smuggling allegations, as officials defended the export-control agency, the Financial Times and Fortune reported. Fast Company reported that Mr. Huang's resignation will not end congressional scrutiny of Nvidia's customer safeguards.
+
 ## Sources
 - [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia)
 - [The Guardian](https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi)
-- [NPR](https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down)
-- [The Wall Street Journal](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=pls_whats_news_us_business_f)
-- [CNBC](https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html)
+- [CNBC](https://www.cnbc.com/2026-11-12/nvidia-kress-jones-employee-emails.html)
+- [Fortune](https://fortune.com/2026-11-13/scott-bessent-treasury-blacklist-megaspeed-howard-lutnick-nvidia-jensen-huang/)
+- [Fast Company](https://www.fastcompany.com/91642370/jensen-huangs-resignation-from-nvidia-wont-end-his-problems-with-congress)
