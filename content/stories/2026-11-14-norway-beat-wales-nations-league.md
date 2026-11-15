@@ -1,7 +1,7 @@
 +++
 title = "Norway Beats Wales 3-1 in Nations League; Wales Now Bottom of Group A4"
 date = 2026-11-14T16:00:00-05:00
-lastmod = 2026-11-14T16:00:00-05:00
+lastmod = 2026-11-15T03:40:00-05:00
 draft = false
 slug = "norway-beat-wales-nations-league"
 summary = "Antonio Nusa, Andreas Schjelderup and Erling Haaland scored as Norway beat Wales 3-1 in the Nations League, guaranteeing Wales last place in Group A4."
@@ -11,7 +11,7 @@ categories = ["Sports"]
 tags = ["nations-league", "wales", "norway", "football", "haaland"]
 image = "/images/stories/norway-beat-wales-nations-league.webp"
 image_alt = "A floodlit football stadium at night during an international match, players in dark kits and red kits contesting the ball near the penalty area, packed stands with flags, cool northern evening light, 3:2"
-refs = 4
+refs = 3
 +++
 
 ![A floodlit football stadium at night during an international match, players in dark kits and red kits contesting the ball near the penalty area, packed stands with flags, cool northern evening light, 3:2](/images/stories/norway-beat-wales-nations-league.webp)
@@ -26,8 +26,9 @@ Portugal lead the group with 12 points from four matches. Norway and Denmark hol
 
 Wales travel to Portugal in Cardiff next week for their final match. "It's one of them … a sloppy first goal," defender Ben Davies told the BBC. "We could have been a bit more clinical … we have nothing to lose [against Portugal]." Norway finish the same matchday away, and hold second place in the group on goal difference ahead of Denmark.
 
+Update, Nov. 15: Denmark beat Portugal 4-1 in Lisbon in the group's other Saturday match. Pierre-Emile Højbjerg scored from the penalty spot in the 43rd minute, Rasmus Højlund added two goals inside the opening hour and Joachim Andersen headed a fourth before Bernardo Silva's late consolation, the Guardian reported. Portugal, in their first match since Cristiano Ronaldo's retirement from international football, stay top of Group A4 on 12 points from five matches, three clear of Denmark.
+
 ## Sources
-- [The Guardian](https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live)
+- [The Guardian](https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo)
 - [Sky Sports](https://www.skysports.com/football/norway-vs-wales/report/554107)
 - [BBC Sport](https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&amp;at_campaign=rss)
-- [Yahoo Sports](https://sports.yahoo.com/articles/wales-stay-nations-league-top-205254108.html)

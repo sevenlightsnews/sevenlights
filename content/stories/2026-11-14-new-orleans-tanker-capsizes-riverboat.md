@@ -1,7 +1,7 @@
 +++
 title = "Tanker Strikes Docked Riverboat in New Orleans; 32 Hospitalized, All Aboard Accounted For"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-14T03:00:00-05:00
+lastmod = 2026-11-15T03:40:00-05:00
 draft = false
 slug = "new-orleans-tanker-capsizes-riverboat"
 summary = "The tanker Atlantic Asphalt struck and capsized the docked river cruise ship American Heritage near the Port of New Orleans on Friday, sending 32 people to hospitals; all aboard were accounted for."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["new orleans", "mississippi river", "maritime accident", "coast guard"]
 image = "/images/stories/new-orleans-tanker-capsizes-riverboat.webp"
 image_alt = "A large dark-hulled tanker beside a capsized white paddlewheel riverboat in brown river water under gray sky, small rescue boats nearby, industrial port cranes on the far bank, overcast light, photorealistic, 3:2"
-refs = 4
+refs = 5
 +++
 
 ![A large dark-hulled tanker beside a capsized white paddlewheel riverboat in brown river water under gray sky, small rescue boats nearby, industrial port cranes on the far bank, overcast light, photorealistic, 3:2](/images/stories/new-orleans-tanker-capsizes-riverboat.webp)
@@ -30,8 +30,11 @@ The Atlantic Asphalt is registered in the Marshall Islands, and public records c
 
 Investigators had not determined why the tanker struck the docked riverboat, and authorities announced no findings on mechanical failure or navigational error. The closure of the shipping corridor remained in effect Saturday as response operations continued.
 
+Update, Nov. 15: The Port of New Orleans sued hours after the collision to secure federal control of the Atlantic Asphalt, the CBC and Sky News reported. The port said the vessel is owned by a subsidiary of a Chinese company. A judge issued a warrant Friday placing the tanker under federal control for investigators. The port alleges at least $1 million in damage to the terminal. The National Transportation Safety Board recovered the tanker's voyage data recorder and expects a preliminary report within 30 days. Eight people remained hospitalized Saturday. Coast Guard officials said refloating the American Heritage, still on its side against the terminal, could take weeks.
+
 ## Sources
-- [Bloomberg](https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video)
-- [International Business Times](https://www.ibtimes.com/new-orleans-tanker-cruise-ship-collision-rescue-3809752)
-- [The Wall Street Journal](https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=pls_whats_news_us_business_f)
-- [Business Insider](https://www.businessinsider.com/new-orleans-cruise-ship-collision-tanker-search-rescue-photos-video-2026-11)
+- [CBC](https://www.cbc.ca/news/world/new-orleans-tanker-cruise-ship-chinese-ownership-sue-9.7422329?cmp=rss)
+- [Euronews](https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und)
+- [France 24](https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans)
+- [Sky News](https://news.sky.com/story/new-orleans-port-officials-sue-owner-of-tanker-that-hit-cruise-ship-13612331)
+- [BBC News](https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss)

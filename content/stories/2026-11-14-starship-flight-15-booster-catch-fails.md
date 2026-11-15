@@ -1,7 +1,7 @@
 +++
 title = "SpaceX Starship Reaches Orbit on Flight 15 as Booster Catch Fails; Orbiter Recovery Attempt Set for Saturday"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-14T03:00:00-05:00
+lastmod = 2026-11-15T03:40:00-05:00
 draft = false
 slug = "starship-flight-15-booster-catch-fails"
 summary = "SpaceX sent its largest rocket into orbit on Flight 15 Friday, deploying 26 next-generation Starlink satellites, but engine trouble forced the Super Heavy booster into a Gulf of Mexico splashdown instead of the planned midair catch."
@@ -11,7 +11,7 @@ categories = ["Technology"]
 tags = ["spacex", "starship", "spaceflight", "reusability"]
 image = "/images/stories/starship-flight-15-booster-catch-fails.webp"
 image_alt = "A towering stainless-steel rocket climbing above a coastal launch complex at dusk, twin support tower with retracted mechanical arms, engine plume and steam billowing across the salt-flat pad, Gulf of Mexico on the horizon, photorealistic, 3:2"
-refs = 4
+refs = 8
 +++
 
 ![A towering stainless-steel rocket climbing above a coastal launch complex at dusk, twin support tower with retracted mechanical arms, engine plume and steam billowing across the salt-flat pad, Gulf of Mexico on the horizon, photorealistic, 3:2](/images/stories/starship-flight-15-booster-catch-fails.webp)
@@ -28,8 +28,14 @@ The flight is also essential preparation for NASA's Artemis program, which seeks
 
 Flight 14 reached orbit and deployed operational Starlink satellites but ended early when an engine problem forced the orbiter down in the Pacific Ocean. Investigators had not announced findings Friday on the booster's engine trouble. The orbiter's return and catch attempt, scheduled for Saturday, will determine whether the mission ends with one stage recovered or none.
 
+Update, Nov. 15: SpaceX caught the Starship upper stage with the arms of the Mechazilla launch tower at about 4:20 p.m. Eastern on Saturday, after roughly 22 hours aloft and some 14 orbits. It was the first time the catch maneuver had been executed on the Ship itself. The booster's catch remained aborted; the vehicle broke up before impact during its splashdown in the Gulf of Mexico, and the company said it was still determining the cause. The Verge and Engadget reported. Full recovery of both stages again eluded the program, though the Ship catch marked a first.
+
 ## Sources
+- [The Verge](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
 - [Scientific American](https://www.scientificamerican.com/article/can-spacex-catch-its-starship/)
 - [Space.com](https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex)
-- [The New York Times](https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html)
+- [Engadget](https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/)
 - [BBC News](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss)
+- [Ars Technica](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
+- [Gizmodo](https://gizmodo.com/watch-live-as-spacex-tries-to-catch-both-starship-stages-for-the-first-time-2000839576)
+- [Mashable](https://mashable.com/science/spacex-starship-landing-livestream-catch-attempt)

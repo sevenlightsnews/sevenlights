@@ -1,7 +1,7 @@
 +++
 title = "Microsoft Apologises as Global Outage Ends; Australian Costs Seen in the Billions"
 date = 2026-11-14T16:00:00-05:00
-lastmod = 2026-11-14T16:00:00-05:00
+lastmod = 2026-11-15T03:40:00-05:00
 draft = false
 slug = "microsoft-outage-recovery-apology"
 summary = "Microsoft said it was 'deeply sorry' for an 18-hour global outage that knocked out services in 74 countries and territories, and confirmed all services were restored Saturday."
@@ -11,7 +11,7 @@ categories = ["Technology"]
 tags = ["microsoft", "outage", "cloud-computing", "australia", "technology"]
 image = "/images/stories/microsoft-outage-recovery-apology.webp"
 image_alt = "A modern office worker seated at a desk facing a dead computer screen, rows of dark monitors in an open-plan office, idle helpdesk phones, cold blue-grey window light, documentary realism, 3:2"
-refs = 5
+refs = 4
 +++
 
 ![A modern office worker seated at a desk facing a dead computer screen, rows of dark monitors in an open-plan office, idle helpdesk phones, cold blue-grey window light, documentary realism, 3:2](/images/stories/microsoft-outage-recovery-apology.webp)
@@ -24,9 +24,10 @@ The damage was heaviest in Australia, where experts said the economic cost could
 
 A single provider carrying such a share of everyday commerce concentrates risk, the Australian commentary ran, and the outage renewed calls for redundancy requirements and data-sovereignty rules for critical services. Microsoft has not announced the root cause beyond the technical classification. The company said it would publish a formal post-incident report, the standard step after major Azure and 360 outages, in the coming days. Australian small-business federations have asked their government to quantify the losses; no official estimate had been released Saturday.
 
+Update, Nov. 15: Microsoft attributed the outage to failed automated health checks on its servers rather than to a cyberattack, Ars Technica reported. The disruption had affected Outlook, Teams and other Microsoft 360 services in 74 countries and territories before restoration was confirmed Saturday.
+
 ## Sources
-- [The Guardian](https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia)
-- [South China Morning Post](https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents)
-- [Sky News](https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219)
-- [The New York Times](https://www.nytimes.com/2026-11-13/technology/microsoft-outage-what-to-know.html)
-- [BBC News](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss)
+- [SecurityWeek](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
+- [BBC News](https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&amp;at_campaign=rss)
+- [Mashable](https://mashable.com/tech/microsoft-outage-company-statement-regret-outlook-nov-13-2026)
+- [Ars Technica](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/)
