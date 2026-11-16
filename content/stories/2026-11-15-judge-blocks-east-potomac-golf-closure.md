@@ -1,7 +1,7 @@
 +++
 title = "Judge Blocks Trump Administration's Plan to Close East Potomac Golf Course"
 date = 2026-11-15T03:40:00-05:00
-lastmod = 2026-11-15T03:40:00-05:00
+lastmod = 2026-11-15T16:20:00-05:00
 draft = false
 slug = "judge-blocks-east-potomac-golf-closure"
 summary = "A federal judge in Washington issued a temporary restraining order Saturday blocking the closing of East Potomac Park and its golf course, which the administration planned to rebuild over 15 months."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["east potomac park", "courts", "national park service", "washington"]
 image = "/images/stories/judge-blocks-east-potomac-golf-closure.webp"
 image_alt = "A public golf course beside a wide river in Washington at dusk in late autumn, temporary construction fencing along a cart path, mature oaks, a flagstick on a green, the capital skyline distant across the water, overcast light, documentary realism, 3:2"
-refs = 8
+refs = 9
 +++
 
 ![A public golf course beside a wide river in Washington at dusk in late autumn, temporary construction fencing along a cart path, mature oaks, a flagstick on a green, the capital skyline distant across the water, overcast light, documentary realism, 3:2](/images/stories/judge-blocks-east-potomac-golf-closure.webp)
@@ -30,6 +30,8 @@ The Justice Department said the judge acknowledged that access may be limited wh
 
 The ruling is the latest in a series of court challenges to the administration's projects in the capital, including a White House ballroom, the renaming of the Kennedy Center and a proposed arch. The case returns before the restraining order expires on November 28.
 
+**Update, November 15, 2026:** President Trump said Sunday that the Interior Department would appeal the order. "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconstruction," Trump wrote of the renovation. The park remains open during its established hours while the order stands.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course)
 - [The Hill](https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/)
@@ -39,3 +41,4 @@ The ruling is the latest in a series of court challenges to the administration's
 - [New York Post](https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/)
 - [NPR](https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks)
 - [CBS News](https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/)
+- [The Hill](https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/)

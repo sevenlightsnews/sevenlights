@@ -1,7 +1,7 @@
 +++
 title = "FAA Halts All Departures for Hours as Air Traffic System Fails; Routers Cited"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-14T03:00:00-05:00
+lastmod = 2026-11-15T16:25:00-05:00
 draft = false
 slug = "faa-nationwide-ground-stop-routers"
 summary = "The Federal Aviation Administration grounded all United States flights for roughly four hours Friday after a communications failure at multiple air route control centers, then blamed overloaded routers in an aging system."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["faa", "air traffic control", "infrastructure", "travel"]
 image = "/images/stories/faa-nationwide-ground-stop-routers.webp"
 image_alt = "Empty departure hall at a large airport under cold fluorescent light, rows of dark flight-information screens, a handful of passengers with bags standing before a gate agent desk, quiet and still, photorealistic, 3:2"
-refs = 5
+refs = 8
 +++
 
 ![Empty departure hall at a large airport under cold fluorescent light, rows of dark flight-information screens, a handful of passengers with bags standing before a gate agent desk, quiet and still, photorealistic, 3:2](/images/stories/faa-nationwide-ground-stop-routers.webp)
@@ -30,9 +30,14 @@ Duffy used the briefing to press Congress for money to replace the control syste
 
 The FAA said late Friday that the cause remained under review. The agency declared the system operational, and carriers began working through the backlog of stranded passengers and aircraft through Saturday.
 
+**Update, November 15, 2026:** Duffy said Saturday the outage began with a maintenance error at a remote FAA facility, where an L3Harris Technologies contractor was replacing a router while switching copper wire to fiber optic cable. He said he did not believe a cyberattack was involved. The FAA said Saturday that operations were returning to normal, and several college football games kicked off hours late.
+
 ## Sources
 - [Axios](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 - [The Guardian](https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights)
 - [The Hill](https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/)
 - [PBS NewsHour](https://www.pbs.org/newshour/show/faa-issues-rare-nationwide-ground-stop-due-to-extraordinary-circumstances)
 - [Los Angeles Times](https://www.latimes.com/politics/story/2026-11-13/democrats-demand-answers-on-faa-outage-question-aging-air-traffic-control)
+- [NPR](https://www.npr.org/2026-11-14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary)
+- [CBS News](https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/)
+- [NPR](https://www.npr.org/2026-11-14/nx-s1-6041115/faa-ground-stop-college-football-delays)
