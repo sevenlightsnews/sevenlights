@@ -1,7 +1,7 @@
 +++
 title = "Lions Rout Patriots 35-10 in Munich as Maye and Hutchinson Leave Injured"
 date = 2026-11-15T16:15:00-05:00
-lastmod = 2026-11-15T16:15:00-05:00
+lastmod = 2026-11-16T03:20:00-05:00
 draft = false
 slug = "lions-patriots-munich-injuries"
 summary = "Detroit beat New England 35-10 in Munich for its fifth straight win, though Patriots quarterback Drake Maye and Lions rusher Aidan Hutchinson left with injuries."
@@ -11,7 +11,7 @@ categories = ["Sports"]
 tags = ["nfl", "detroit-lions", "new-england-patriots", "injury", "munich"]
 image = "/images/stories/lions-patriots-munich-injuries.webp"
 image_alt = "An American football match inside a European soccer stadium at night, a tackle at the goal line under floodlights, mist in the light beams, packed stands with team banners, players in silver and dark blue uniforms, motion blur, cold night atmosphere, documentary realism, 3:2"
-refs = 4
+refs = 6
 +++
 
 ![An American football match inside a European soccer stadium at night, a tackle at the goal line under floodlights, mist in the light beams, packed stands with team banners, players in silver and dark blue uniforms, motion blur, cold night atmosphere, documentary realism, 3:2](/images/stories/lions-patriots-munich-injuries.webp)
@@ -28,8 +28,12 @@ The Lions improved to 7-2 and sit atop their division. The Patriots fell to 5-5,
 
 Both teams return to the United States for further examinations this week.
 
+Update, November 16, 2026: The Patriots currently expect Maye to be out "a while," Pro Football Talk reported.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/sport/2026/nov/15/nfl-sunday-football-scores)
 - [The Athletic](https://www.nytimes.com/athletic/7783604/2026/11/15/patriots-lions-munich-nfl-week-10-result-takeaways/)
 - [Pro Football Talk](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/more-tests-coming-for-drake-maye-after-suffering-ankle-injury-vs-lions)
+- [Pro Football Talk](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-currently-expect-qb-drake-maye-to-be-out-a-while)
 - [CBS Sports](https://www.cbssports.com/nfl/news/lions-aidan-hutchinson-injury-update-patriots-germany/)
+- [CBS Sports](https://www.cbssports.com/nfl/news/drake-maye-aidan-hutchinson-injured-patriots-lions-stars-questionable/)
