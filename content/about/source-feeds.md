@@ -1,8 +1,8 @@
 +++
 title = "Source Feeds"
 description = "The complete list of public RSS feeds this site reads each day to find stories."
-date = 2026-11-06T00:20:53Z
-lastmod = 2026-11-06T00:20:53Z
+date = 2026-11-17T22:13:29Z
+lastmod = 2026-11-17T22:13:29Z
 draft = false
 +++
 
@@ -14,11 +14,10 @@ Three points a reader should know:
 - A feed is only where a story starts. A story is published here only when at least three separate articles from at least three different media companies report it, as stated on the [About page](/about/). One outlet's story, however well written, does not run.
 - The list changes over time. Feeds are added when they carry reliable, accessible reporting, and removed when they stop updating or block automated reading. Removed candidates are tested before they are ever added.
 
-## World (28 feeds)
+## World (25 feeds)
 
 - **ABC Australia** — https://www.abc.net.au/news/feed/45910/rss.xml
 - **Al Jazeera** — https://www.aljazeera.com/xml/rss/all.xml
-- **Amnesty International** — https://www.amnesty.org/en/feed/
 - **BBC Africa** — https://feeds.bbci.co.uk/news/world/africa/rss.xml
 - **BBC Asia** — https://feeds.bbci.co.uk/news/world/asia/rss.xml
 - **BBC Europe** — https://feeds.bbci.co.uk/news/world/europe/rss.xml
@@ -33,10 +32,8 @@ Three points a reader should know:
 - **France 24** — https://www.france24.com/en/rss
 - **Guardian AU** — https://www.theguardian.com/australia-news/rss
 - **Hong Kong FP** — https://hongkongfp.com/feed/
-- **NDTV** — https://feeds.feedburner.com/ndtvnews-top-stories
 - **NYT World** — https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 - **RFE/RL** — https://www.rferl.org/api/
-- **RT** — https://rt.com/rss/
 - **SCMP** — https://www.scmp.com/rss/91/feed/
 - **Sky News** — https://feeds.skynews.com/feeds/rss/home.xml
 - **Sky News World** — https://feeds.skynews.com/feeds/rss/world.xml
@@ -45,11 +42,8 @@ Three points a reader should know:
 - **Time** — https://time.com/feed/
 - **WSJ World** — https://feeds.content.dowjones.io/public/rss/RSSWorldNews
 
-## US (29 feeds)
+## US (25 feeds)
 
-- **ABC Health** — https://abcnews.go.com/abcnews/healthheadlines
-- **ABC News** — https://abcnews.go.com/abcnews/usheadlines
-- **ABC News** — https://abcnews.go.com/abcnews/internationalheadlines
 - **Axios** — https://api.axios.com/feed/
 - **BBC Politics** — https://feeds.bbci.co.uk/news/politics/rss.xml
 - **BBC US Canada** — https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
@@ -74,40 +68,33 @@ Three points a reader should know:
 - **The Hill** — https://thehill.com/feed/
 - **The Hill (Home)** — https://thehill.com/homenews/feed/
 - **The Nation** — https://www.thenation.com/subject/social-justice/feed/
-- **Vox** — https://www.vox.com/rss/world-politics/index.xml
 - **Yahoo Top** — https://news.yahoo.com/rss/topstories
 
-## Politics (21 feeds)
+## Politics (16 feeds)
 
-- **ABC News Politics** — https://abcnews.go.com/abcnews/politicsheadlines
 - **Axios** — https://api.axios.com/feed/top/
 - **BBC Politics** — https://feeds.bbci.co.uk/news/politics/rss.xml
 - **CBS Politics** — https://www.cbsnews.com/latest/rss/politics
 - **Daily Signal** — https://www.dailysignal.com/feed/
 - **Fox Politics** — https://moxie.foxnews.com/google-publisher/politics.xml
 - **Guardian US** — https://www.theguardian.com/us-news/rss
-- **National Review** — https://www.nationalreview.com/feed/
 - **NBC Politics** — https://feeds.nbcnews.com/nbcnews/public/politics
 - **NPR Politics** — https://feeds.npr.org/1014/rss.xml
 - **NYT Politics** — https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
 - **PBS NewsHour Politics** — https://www.pbs.org/newshour/feeds/rss/politics
 - **Politico** — https://rss.politico.com/politics-news.xml
-- **Politico EU** — https://www.politico.eu/feed/
-- **ProPublica** — https://www.propublica.org/feeds/propublica/main
 - **Semafor** — https://www.semafor.com/rss.xml
-- **The Atlantic** — https://www.theatlantic.com/feed/all/
 - **The Hill** — https://thehill.com/news/feed/
 - **The Hill** — https://thehill.com/feed/
 - **The Nation** — https://www.thenation.com/feed/?post_type=article
 - **Washington Examiner** — https://www.washingtonexaminer.com/feed
 
-## Business (18 feeds)
+## Business (17 feeds)
 
 - **BBC Business** — https://feeds.bbci.co.uk/news/business/rss.xml
 - **Bloomberg** — https://feeds.bloomberg.com/markets/news.rss
 - **Bloomberg Tech** — https://feeds.bloomberg.com/technology/news.rss
 - **Business Insider** — https://www.businessinsider.com/rss
-- **BusinessLine** — https://www.thehindubusinessline.com/economy/feeder/default.rss
 - **City A.M.** — https://www.cityam.com/category/economics/feed/
 - **CNBC** — https://www.cnbc.com/id/100003114/device/rss/rss.html
 - **Fast Company** — https://www.fastcompany.com/latest/rss
@@ -122,7 +109,7 @@ Three points a reader should know:
 - **WSJ Business** — https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
 - **WSJ Markets** — https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
 
-## Technology (32 feeds)
+## Technology (24 feeds)
 
 - **Ars Technica** — https://feeds.arstechnica.com/arstechnica/index
 - **Ars Technica (alt)** — https://arstechnica.com/feed/
@@ -131,22 +118,14 @@ Three points a reader should know:
 - **BleepingComputer** — https://www.bleepingcomputer.com/feed/
 - **CNET** — https://www.cnet.com/rss/news/
 - **Cyber Security News** — https://cybersecuritynews.com/feed
-- **Cybersecurity Dive** — https://www.cybersecuritydive.com/feeds/news/
 - **Engadget** — https://www.engadget.com/rss.xml
 - **Gizmodo** — https://gizmodo.com/feed
 - **Mashable** — https://mashable.com/feeds/rss/all
 - **NASA** — https://www.nasa.gov/news-release/feed/
 - **NASA** — https://www.nasa.gov/rss/dyn/breaking_news.rss
-- **Nature** — https://www.nature.com/nature.rss
-- **New Scientist** — https://www.newscientist.com/feed/
-- **News Medical** — https://www.news-medical.net/syndication.axd?format=rss
 - **NYT Science** — https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
-- **Phys.org** — https://phys.org/rss-feed/
 - **Product Hunt** — https://www.producthunt.com/feed
-- **Quanta** — https://www.quantamagazine.org/feed/
 - **SciAm** — https://www.scientificamerican.com/platform/syndication/rss/
-- **Science** — https://www.science.org/rss/news_current.xml
-- **Science News** — https://www.sciencenews.org/feed
 - **ScienceDaily All** — https://www.sciencedaily.com/rss/all.xml
 - **SecurityWeek** — https://www.securityweek.com/feed
 - **Space.com** — https://www.space.com/feeds.xml
@@ -157,12 +136,9 @@ Three points a reader should know:
 - **The Verge** — https://www.theverge.com/rss/index.xml
 - **WIRED** — https://www.wired.com/feed/rss
 
-## Artificial Intelligence (8 feeds)
+## Artificial Intelligence (5 feeds)
 
 - **Ars Technica AI** — https://arstechnica.com/ai/feed/
-- **Google Research** — https://googleresearch.blogspot.com/atom.xml
-- **MIT News AI** — http://news.mit.edu/rss/topic/artificial-intelligence2
-- **MIT Tech Review** — https://www.technologyreview.com/feed/
 - **TechCrunch AI** — https://techcrunch.com/category/artificial-intelligence/feed/
 - **The Information** — https://www.theinformation.com/feed
 - **The Verge (AI)** — https://www.theverge.com/rss/index.xml
@@ -183,16 +159,14 @@ Three points a reader should know:
 - **The Athletic** — https://www.nytimes.com/athletic/rss/news/
 - **Yahoo Sports** — https://sports.yahoo.com/rss/
 
-## Entertainment (17 feeds)
+## Entertainment (15 feeds)
 
 - **AV Club** — https://www.avclub.com/rss
 - **Billboard** — https://www.billboard.com/feed/
 - **Deadline** — https://deadline.com/feed/
-- **E! Online** — https://www.eonline.com/syndication/feeds/rssfeeds/topstories
 - **Hollywood Life** — https://hollywoodlife.com/feed/
 - **Hollywood Reporter** — https://www.hollywoodreporter.com/feed/
 - **IndieWire** — https://www.indiewire.com/feed/
-- **New Yorker Culture** — http://www.newyorker.com/feed/culture
 - **NME** — https://www.nme.com/feed
 - **Rolling Stone** — https://www.rollingstone.com/music/music-news/feed/
 - **Rolling Stone Movies** — https://www.rollingstone.com/movies/feed/
@@ -203,15 +177,13 @@ Three points a reader should know:
 - **Variety** — https://variety.com/feed/
 - **Vulture** — http://feeds.feedburner.com/nymag/vulture
 
-## Health (8 feeds)
+## Health (6 feeds)
 
 - **BBC Health** — https://feeds.bbci.co.uk/news/health/rss.xml
 - **Guardian Health** — https://www.theguardian.com/society/health/rss
-- **Nature Medicine** — https://www.nature.com/nm/rss
-- **NIH** — https://www.nia.nih.gov/news/rss.xml
 - **NPR Health** — http://www.npr.org/rss/rss.php?id=1128
 - **Science Daily Health** — https://www.sciencedaily.com/rss/health_medicine.xml
 - **ScienceDaily Brain** — https://www.sciencedaily.com/rss/mind_brain.xml
 - **STAT News** — https://www.statnews.com/feed/
 
-*173 feeds from 109 distinct publishers across 9 sections. This page is regenerated from the live feed configuration; it was last generated on November 6, 2026.*
+*145 feeds from 86 distinct publishers across 9 sections. This page is regenerated from the live feed configuration; it was last generated on November 17, 2026.*
