@@ -19,6 +19,7 @@ import ipaddress
 import json
 import os
 import subprocess
+import time
 from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 
@@ -62,14 +63,32 @@ ROLLUP = ('query($zt:String!,$from:String!,$to:String!){viewer{zones(filter:{zon
           '{sum{requests} dimensions{date}}}}}')
 
 
+def _gql_post(auth, body, label):
+    """POST with retry: Cloudflare Analytics GraphQL throws transient
+    INTERNAL_SERVER_ERROR (observed 2026-11-17 ray a5c05ed7ffd751aa-AMS);
+    a single 500 used to fail the whole daily refresh. 4 tries, 20s backoff."""
+    last = ""
+    for attempt in range(1, 5):
+        r = subprocess.run(["curl", "-s", "-X", "POST", GQL,
+                            "-H", auth, "-H", "Content-Type: application/json",
+                            "-d", body],
+                           capture_output=True, text=True, timeout=90)
+        try:
+            d = json.loads(r.stdout)
+        except (json.JSONDecodeError, TypeError):
+            last = f"non-JSON response (rc={r.returncode})"
+        else:
+            if not d.get("errors"):
+                return d
+            last = json.dumps(d["errors"])[:400]
+        if attempt < 4:
+            time.sleep(20 * attempt)
+    raise SystemExit(f"{label} GraphQL errors after 4 tries: {last}")
+
+
 def gql(query, variables):
     body = json.dumps({"query": query, "variables": variables})
-    r = subprocess.run(["curl", "-s", "-X", "POST", GQL,
-                        "-H", AUTH, "-H", "Content-Type: application/json", "-d", body],
-                       capture_output=True, text=True, timeout=90)
-    d = json.loads(r.stdout)
-    if d.get("errors"):
-        raise SystemExit(f"GraphQL errors: {json.dumps(d['errors'])[:400]}")
+    d = _gql_post(AUTH, body, "site")
     return d["data"]["viewer"]["zones"][0]
 
 
@@ -86,12 +105,7 @@ def r2_downloads(days):
     body = json.dumps({"query": R2_DL, "variables": {
         "a": ACCOUNT_TAG, "from": days[0] + "T00:00:00Z",
         "to": (date.fromisoformat(days[-1]) + timedelta(days=1)).isoformat() + "T00:00:00Z"}})
-    r = subprocess.run(["curl", "-s", "-X", "POST", GQL,
-                        "-H", R2_AUTH, "-H", "Content-Type: application/json", "-d", body],
-                       capture_output=True, text=True, timeout=90)
-    d = json.loads(r.stdout)
-    if d.get("errors"):
-        raise SystemExit(f"R2 GraphQL errors: {json.dumps(d['errors'])[:400]}")
+    d = _gql_post(R2_AUTH, body, "R2")
     total = 0
     per_ep = defaultdict(int)
     for x in d["data"]["viewer"]["accounts"][0]["ops"]:
