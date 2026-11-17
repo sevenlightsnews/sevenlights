@@ -1,7 +1,7 @@
 +++
 title = "Depp's 'Ebenezer' Opens at No. 1 With $19 Million"
 date = 2026-11-15T16:15:00-05:00
-lastmod = 2026-11-15T16:15:00-05:00
+lastmod = 2026-11-17T03:30:00-05:00
 draft = false
 slug = "ebenezer-box-office-debut"
 summary = "Johnny Depp's Dickens adaptation 'Ebenezer' opened atop the North American box office with $19 million, a shade under tracking, for a $42 million global debut."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["box-office", "johnny-depp", "paramount", "christmas", "film"]
 image = "/images/stories/ebenezer-box-office-debut.webp"
 image_alt = "A cinema entrance on a Victorian-style street at dusk under falling snow, a queue of moviegoers in winter coats holding tickets beneath a blank marquee panel, gaslight glow and fog, warm lit windows, no readable text, muted teal and amber palette, documentary realism, 3:2"
-refs = 4
+refs = 7
 +++
 
 ![A cinema entrance on a Victorian-style street at dusk under falling snow, a queue of moviegoers in winter coats holding tickets beneath a blank marquee panel, gaslight glow and fog, warm lit windows, no readable text, muted teal and amber palette, documentary realism, 3:2](/images/stories/ebenezer-box-office-debut.webp)
@@ -26,8 +26,13 @@ The weekend's other wide release faltered. "How to Rob a Bank" opened to $5 mill
 
 Distributors now turn to the holiday corridor, the season's most reliable traffic. Paramount counted on the Dickens title to anchor its fourth quarter after a thin slate, and the coming two weekends will show whether the picture earns its cost the way holiday pictures traditionally do, slowly and at length.
 
+Update, November 17, 2026: The film opened at No. 1 at the North American box office with $19 million, giving Johnny Depp his first US number one in nearly a decade. "Godzilla Minus Zero" fell 60 per cent in its second weekend, and "How to Rob a Bank" finished fifth with $5.175 million.
+
 ## Sources
 - [Variety](https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/)
 - [Deadline](https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/)
 - [IndieWire](https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/)
 - [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-opening-how-to-rob-bank-1236755417/)
+- [The Playlist](https://theplaylist.net/ebenezer-gives-johnny-depp-his-first-no-1-at-the-box-office-in-almost-a-decade-20261116/)
+- [AV Club](https://www.avclub.com/weekend-box-office-ebenezer-godzilla-minus-zero)
+- [SlashFilm](https://www.slashfilm.com/2318286/ebenezer-box-office-johnny-depp-hollywood-future-meaning/)

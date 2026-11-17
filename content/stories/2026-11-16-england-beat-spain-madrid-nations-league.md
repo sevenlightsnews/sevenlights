@@ -1,7 +1,7 @@
 +++
 title = "England End Spain's 43-Match Unbeaten Run in Madrid to Top Nations League Group"
 date = 2026-11-16T03:20:00-05:00
-lastmod = 2026-11-16T03:20:00-05:00
+lastmod = 2026-11-17T03:30:00-05:00
 draft = false
 slug = "england-beat-spain-madrid-nations-league"
 summary = "England beat Spain 3-2 in a Nations League group decider in Madrid on Sunday, holding a ten-man lead after Elliot Anderson's red card to end Spain's run of 43 matches unbeaten."
@@ -11,7 +11,7 @@ categories = ["Sports"]
 tags = ["soccer", "nations-league", "england", "spain"]
 image = "/images/stories/england-beat-spain-madrid-nations-league.webp"
 image_alt = "Soccer players in white away kits embracing at center of a floodlit stadium pitch at night, a vast crowd in red blurred in the background of a Madrid stadium, goalkeeper sprawled on the grass, night match atmosphere, photorealistic, 3:2"
-refs = 6
+refs = 8
 +++
 
 ![Soccer players in white away kits embracing at center of a floodlit stadium pitch at night, a vast crowd in red blurred in the background of a Madrid stadium, goalkeeper sprawled on the grass, night match atmosphere, photorealistic, 3:2](/images/stories/england-beat-spain-madrid-nations-league.webp)
@@ -26,6 +26,8 @@ Thomas Tuchel called it "a very complete performance and the best I've had so fa
 
 Spain had been beaten only once in the 43 matches, on penalties against Portugal in last year's Nations League final. England advance to the quarter-finals as group winners, leapfrogging Spain in the table.
 
+Update, November 17, 2026: Tuchel said England should target the trophy itself. "We want to win it. But first of all, we need to win the quarter-final," he said, calling the competition "the best preparation" for the European Championship, which England will co-host in 2028. The win secured seeded status for the quarter-final draw on Friday. The defender Ezri Konsa echoed the ambition: "The Nations League is a trophy and silverware going into the Euros would be massive for us." England led 3-0 before Elliot Anderson's sending-off in the 63rd minute for conceding the penalty that began Spain's comeback.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report)
 - [The Guardian](https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league)
@@ -33,3 +35,5 @@ Spain had been beaten only once in the 43 matches, on penalties against Portugal
 - [The Athletic](https://www.nytimes.com/athletic/live-blogs/spain-vs-england-live-updates-nations-league-score-result/i289mCCdfGEb/)
 - [Yahoo Sports](https://sports.yahoo.com/articles/thomas-tuchel-slams-double-punishment-071517317.html)
 - [Sky Sports](https://www.skysports.com/football/spain-vs-england/report/554117)
+- [The Guardian](https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel)
+- [The Athletic](https://www.nytimes.com/athletic/7786836/2026-11-16/thomas-tuchel-england-nations-league-euros/)

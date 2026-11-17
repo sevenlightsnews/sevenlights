@@ -1,7 +1,7 @@
 +++
 title = "Huang's Departure Blows a Hole in AI Startup Funding, Investors Say"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-14T03:00:00-05:00
+lastmod = 2026-11-17T03:30:00-05:00
 draft = false
 slug = "huang-departure-ai-startup-funding"
 summary = "Venture investors and founders say Jensen Huang's resignation as Nvidia's chief executive has removed the ecosystem's biggest backer, threatening the check size and valuations that underpinned years of AI startup financing."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["nvidia", "venture capital", "ai startups", "funding"]
 image = "/images/stories/huang-departure-ai-startup-funding.webp"
 image_alt = "Interior of a server hall with rows of rack-mounted computing hardware glowing with status lights, cables routed overhead, a lone engineer walking the aisle with a laptop, cool blue industrial lighting, deep perspective, photorealistic, 3:2"
-refs = 4
+refs = 12
 +++
 
 ![Interior of a server hall with rows of rack-mounted computing hardware glowing with status lights, cables routed overhead, a lone engineer walking the aisle with a laptop, cool blue industrial lighting, deep perspective, photorealistic, 3:2](/images/stories/huang-departure-ai-startup-funding.webp)
@@ -30,8 +30,18 @@ Huang stepped down after reports of multiple extramarital affairs, including one
 
 Few investors believe the pullback will halt the broader AI boom. But with traditional venture firms expected to think twice without Nvidia's anchor checks, the financing that carried hundreds of startups through the data center build-out is entering its most uncertain stretch.
 
+Update, November 17, 2026: Trump said Monday he saw no reason to oppose Huang's return. "He's a very successful person. He's a very smart person. I don't see a problem with it," Trump said. "Maybe we learned a lesson" about how fast loyalties can shift. A petition on Change.org, "Stand With Jensen," has collected more than 180,000 signatures, and Musk and the Hollywood figures Sylvester Stallone and Jerry Seinfeld have publicly backed Huang's reinstatement. Allies have pushed for a comeback, with one person close to the company suggesting a return to the CEO chair, a chairman role or a senior advisory position. The Financial Times reported the Nvidia board is not considering bringing him back, and the Wedbush analyst Dan Ives called the petition "noise," arguing the best outcome is an external CEO or the permanent promotion of Chief Financial Officer Colette Kress. Treasury Secretary Scott Bessent said Sunday he wants "a dramatic shakeup" of the board and an outside hire, and gave Nvidia's directors ten days to answer questions about whether the company's China export practices comply with US law.
+
 ## Sources
-- [TechCrunch](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+- [TechCrunch](https://techcrunch.com/2026-11-13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 - [WIRED](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
 - [CNET](https://www.cnet.com/tech/services-and-software/jensen-huang-big-tech-learn-from-nvidias-mistakes/)
 - [Scientific American](https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker/)
+- [The New York Times](https://www.nytimes.com/2026-11-16/business/trump-nvidia-jensen-huang.html)
+- [The Washington Post](https://www.washingtonpost.com/technology/2026-11-16/nvidia-ceo-jensen-huang-ouster-impact/)
+- [The Wall Street Journal](https://www.wsj.com/tech/nvidia-board-not-considering-bringing-back-jensen-huang-report-1101c51e?mod=rss_Technology)
+- [Financial Times](https://www.ft.com/content/dd332b48-4433-4834-a441-287cbc118219)
+- [BBC Business](https://www.bbc.co.uk/news/articles/cj4q04g4jz1o?at_medium=RSS&at_campaign=rss)
+- [CBS News](https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-resignation/)
+- [NBC News](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resignation-rcna371141)
+- [The Guardian](https://www.theguardian.com/us-news/2026/nov/16/trump-jensen-huang-nvidia)

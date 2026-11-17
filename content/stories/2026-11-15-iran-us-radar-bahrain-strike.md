@@ -1,7 +1,7 @@
 +++
 title = "Iran Claims Strike on US Radar in Bahrain as Blasts Rock Manama"
 date = 2026-11-15T16:15:00-05:00
-lastmod = 2026-11-15T16:15:00-05:00
+lastmod = 2026-11-17T03:30:00-05:00
 draft = false
 slug = "iran-us-radar-bahrain-strike"
 summary = "Iran's Revolutionary Guard said it targeted a US early-warning radar in Bahrain, the first direct Iranian attack on American military installations in months."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["iran", "bahrain", "united-states", "strait-of-hormuz", "middle-east"]
 image = "/images/stories/iran-us-radar-bahrain-strike.webp"
 image_alt = "A military early-warning radar array and dome on a desert base at dusk, perimeter fence and floodlights in front, a hazy city skyline across the water, a thin interceptor contrail crossing the sky, muted amber and grey light, documentary realism, 3:2"
-refs = 3
+refs = 7
 +++
 
 ![A military early-warning radar array and dome on a desert base at dusk, perimeter fence and floodlights in front, a hazy city skyline across the water, a thin interceptor contrail crossing the sky, muted amber and grey light, documentary realism, 3:2](/images/stories/iran-us-radar-bahrain-strike.webp)
@@ -28,7 +28,13 @@ Iran's Assembly of Experts, the elected body of Islamic jurists that chooses the
 
 The confrontation remains frozen in place for now: the blockade holds, the strait stays closed to most shipping, and neither side has signaled a return to the negotiating table.
 
+Update, November 17, 2026: Iran launched a second drone attack on Bahrain on Monday, the Islamic Revolutionary Guard Corps said, stating it targeted the US air-defence radar facility at al-Riffa air base with six drones. Bahrain's military said its air defence systems intercepted and destroyed the Iranian aircraft "before they could achieve their objectives." The Guard, speaking on Telegram, declared "the Strait of Hormuz is closed, and any aggression by the American enemy will be met with an even harsher and more forceful response," and claimed it had struck a US early-warning radar in Bahrain on Friday. US forces have denied the radar was destroyed and said the drones fired Friday were shot down with no injuries or damage. The attacks follow US strikes this month on Iran's Qeshm Island in the strait.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz)
 - [France 24](https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain)
 - [BBC News](https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss)
+- [The Guardian](https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain)
+- [The New York Times](https://www.nytimes.com/2026-11-15/world/middleeast/bahrain-iran-israel.html)
+- [The Wall Street Journal](https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews)
+- [Al Jazeera](https://www.aljazeera.com/news/2026-11-17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss)

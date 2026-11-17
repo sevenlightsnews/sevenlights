@@ -1,7 +1,7 @@
 +++
 title = "Trump, Putin and Xi to Hold First Trilateral Meeting on APEC Margins in Shenzhen"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-14T03:00:00-05:00
+lastmod = 2026-11-17T03:30:00-05:00
 draft = false
 slug = "trump-putin-xi-trilateral-shenzhen"
 summary = "The White House confirmed President Trump will conclude his China visit Thursday with a trilateral meeting with Xi Jinping and Vladimir Putin in Shenzhen, the first such gathering of the three leaders, centered on nuclear arms reduction."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["nuclear arms", "summit", "china", "russia"]
 image = "/images/stories/trump-putin-xi-trilateral-shenzhen.webp"
 image_alt = "Wide view of a modern conference hall prepared for a summit, three empty upholstered armchairs on a raised dais before microphones and neutral backdrops, flags blurred out of frame, polished floor reflections, cool even lighting, photorealistic, 3:2"
-refs = 4
+refs = 8
 +++
 
 ![Wide view of a modern conference hall prepared for a summit, three empty upholstered armchairs on a raised dais before microphones and neutral backdrops, flags blurred out of frame, polished floor reflections, cool even lighting, photorealistic, 3:2](/images/stories/trump-putin-xi-trilateral-shenzhen.webp)
@@ -28,8 +28,14 @@ The official said Trump intends to discuss the Iran war with both leaders but no
 
 Trump embraced Xi after a truce ended their short-lived trade war last year and has cultivated his relationship with Putin throughout the Ukraine conflict. The Shenzhen meeting tests whether three-way talks can begin where two-way arms control has stalled. The summit session is set for Thursday.
 
+Update, November 17, 2026: China's foreign ministry confirmed Monday that the meeting will proceed as planned. "On November 19, Chinese President Xi Jinping will hold a China-Russia-US heads of state meeting with Russian President Vladimir Putin and US President Donald Trump in Shenzhen," the ministry said in a brief statement. Trump departed Monday for the ASEAN and APEC meetings that bracket the summit. Russia and Ukraine exchanged strikes on bridges across their shared border in the days before the meeting, as Moscow and Kyiv jockeyed ahead of talks in which the three powers will take part.
+
 ## Sources
 - [The Hill](https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/)
 - [NBC News](https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275)
 - [The New York Times](https://www.nytimes.com/2026-11-13/us/politics/trump-putin-xi-china-nuclear-proliferation.html)
 - [Los Angeles Times](https://www.latimes.com/politics/story/2026-11-13/trump-putin-xi-will-meet-in-historic-summit-heres-what-to-expect)
+- [Hong Kong Free Press](https://hongkongfp.com/2026-11-16/china-confirms-first-xi-trump-putin-summit-in-shenzhen-on-thursday/)
+- [The Wall Street Journal](https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398?mod=rss_worldnews)
+- [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026-11-16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss)
+- [CNA](https://www.channelnewsasia.com/world/russia-ukraine-exchange-strikes-bridges-ahead-xi-trump-putin-summit-6556551)
