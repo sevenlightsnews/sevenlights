@@ -1,7 +1,7 @@
 +++
 title = "US Loses Measles Elimination Status as Cases Reach Highest Level in 35 Years"
 date = 2026-11-14T16:00:00-05:00
-lastmod = 2026-11-14T16:00:00-05:00
+lastmod = 2026-11-19T03:45:00-05:00
 draft = false
 slug = "us-loses-measles-elimination-status"
 summary = "A Pan American Health Organization expert panel concluded that measles has spread continuously in the United States for more than 12 months, ending an elimination status held for a quarter century."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["measles", "public-health", "vaccination", "cdc", "paho"]
 image = "/images/stories/us-loses-measles-elimination-status.webp"
 image_alt = "A pediatric clinic examination room, a nurse preparing a vaccination syringe at a stainless steel tray, child vaccination record cards stacked on the counter, soft window light, muted clinical colours, documentary realism, 3:2"
-refs = 4
+refs = 7
 +++
 
 ![A pediatric clinic examination room, a nurse preparing a vaccination syringe at a stainless steel tray, child vaccination record cards stacked on the counter, soft window light, muted clinical colours, documentary realism, 3:2](/images/stories/us-loses-measles-elimination-status.webp)
@@ -26,8 +26,13 @@ Public health experts attributed the surge to growing skepticism about vaccine s
 
 Regaining the status requires interrupting local transmission and returning vaccination coverage to the 95 per cent level that public health officials say is needed for herd immunity. Canada and the United Kingdom lost their own elimination status over the past year. PAHO's formal announcement next week will place the United States on a watchlist for re-verification, and state health departments face renewed pressure on school-entry vaccination rules.
 
+Update — November 19, 2026: The formal revocation has landed. International health officials announced Tuesday, November 17, after a meeting of a committee of the Pan American Health Organization, that measles is no longer considered eliminated in the United States, STAT News reported. The finding was widely expected and largely symbolic — a recognition of transmission that has already occurred — but it entrenches what Reuters called the worst US outbreak since 1991 in the official record, and it carries political consequence: Democrats and public health experts have attacked Health Secretary Robert F. Kennedy Jr. for not responding forcefully to recent outbreaks and for mixed messaging on vaccines. The United States had come close to losing the designation after outbreaks in 2019.
+
 ## Sources
 - [Axios](https://www.axios.com/2026-11-14/us-loses-measles-elimination-status)
 - [KFF Health News](https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/)
 - [Fox News](https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide)
 - [CBS News](https://www.cbsnews.com/news/measles-elimination-status-united-states/)
+- [The Guardian](https://www.theguardian.com/us-news/video/2026/nov/17/us-loses-measles-elimination-status-major-setback-for-us-public-health-video)
+- [NPR](https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone)
+- [STAT News](https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss)

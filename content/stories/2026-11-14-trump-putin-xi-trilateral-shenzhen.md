@@ -1,7 +1,7 @@
 +++
 title = "Trump, Putin and Xi to Hold First Trilateral Meeting on APEC Margins in Shenzhen"
 date = 2026-11-14T03:00:00-05:00
-lastmod = 2026-11-17T03:30:00-05:00
+lastmod = 2026-11-19T03:45:00-05:00
 draft = false
 slug = "trump-putin-xi-trilateral-shenzhen"
 summary = "The White House confirmed President Trump will conclude his China visit Thursday with a trilateral meeting with Xi Jinping and Vladimir Putin in Shenzhen, the first such gathering of the three leaders, centered on nuclear arms reduction."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["nuclear arms", "summit", "china", "russia"]
 image = "/images/stories/trump-putin-xi-trilateral-shenzhen.webp"
 image_alt = "Wide view of a modern conference hall prepared for a summit, three empty upholstered armchairs on a raised dais before microphones and neutral backdrops, flags blurred out of frame, polished floor reflections, cool even lighting, photorealistic, 3:2"
-refs = 8
+refs = 12
 +++
 
 ![Wide view of a modern conference hall prepared for a summit, three empty upholstered armchairs on a raised dais before microphones and neutral backdrops, flags blurred out of frame, polished floor reflections, cool even lighting, photorealistic, 3:2](/images/stories/trump-putin-xi-trilateral-shenzhen.webp)
@@ -30,6 +30,8 @@ Trump embraced Xi after a truce ended their short-lived trade war last year and 
 
 Update, November 17, 2026: China's foreign ministry confirmed Monday that the meeting will proceed as planned. "On November 19, Chinese President Xi Jinping will hold a China-Russia-US heads of state meeting with Russian President Vladimir Putin and US President Donald Trump in Shenzhen," the ministry said in a brief statement. Trump departed Monday for the ASEAN and APEC meetings that bracket the summit. Russia and Ukraine exchanged strikes on bridges across their shared border in the days before the meeting, as Moscow and Kyiv jockeyed ahead of talks in which the three powers will take part.
 
+Update — November 19, 2026: The summit is under way. Mr. Trump reached Shenzhen on Wednesday evening, and Mr. Xi personally greeted him on the airport tarmac, reciprocating the personal welcome Mr. Trump extended to the Chinese leader at their previous meeting. Mr. Putin, who arrived earlier, was welcomed by Politburo Standing Committee member Cai Qi. At the gala dinner, Mr. Putin walked over to Mr. Trump's seat and shook his hand. The two then held a brief informal "pull-aside" in a separate room of the Kylin Villa reception compound; pool footage showed Mr. Trump, accompanied by Treasury Secretary Scott Bessent and White House Chief of Staff Stephen Miller, approaching Mr. Putin immediately on entering the room. A US official said Mr. Trump planned a separate meeting with Mr. Putin on Thursday, in addition to the trilateral session, which the three leaders were scheduled to open later Thursday.
+
 ## Sources
 - [The Hill](https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/)
 - [NBC News](https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275)
@@ -39,3 +41,7 @@ Update, November 17, 2026: China's foreign ministry confirmed Monday that the me
 - [The Wall Street Journal](https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398?mod=rss_worldnews)
 - [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026-11-16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss)
 - [CNA](https://www.channelnewsasia.com/world/russia-ukraine-exchange-strikes-bridges-ahead-xi-trump-putin-summit-6556551)
+- [The Guardian](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)
+- [South China Morning Post](https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit)
+- [RFE/RL](https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html)
+- [Euronews](https://www.euronews.com/video/2026/11/19/china-xi-trump-and-putin-gather-ahead-of-trilateral-summit)
