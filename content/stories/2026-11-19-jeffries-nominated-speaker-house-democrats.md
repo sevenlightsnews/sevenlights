@@ -1,7 +1,7 @@
 +++
 title = "House Democrats Nominate Jeffries to Be Speaker"
 date = 2026-11-19T03:45:00-05:00
-lastmod = 2026-11-19T03:45:00-05:00
+lastmod = 2026-11-20T04:20:00-05:00
 draft = false
 slug = "jeffries-nominated-speaker-house-democrats"
 summary = "House Democrats nominated Hakeem Jeffries 251-11 on Wednesday, setting him to become the first Black speaker of the House when the new Congress convenes in January."
@@ -10,11 +10,11 @@ author = "Seven Lights"
 categories = ["Politics"]
 tags = ["hakeem jeffries", "house speaker", "house democrats", "congress", "progressives"]
 image = "/images/stories/jeffries-nominated-speaker-house-democrats.webp"
-image_alt = "Interior view of the chamber of the US House of Representatives before session, empty green chairs in curved rows facing a raised rostrum, morning light through tall windows, no people, photojournalism, no readable text, 3:2"
-refs = 5
+image_alt = "Elevated near-symmetrical view of an empty hemicycle legislative chamber with curving rows of dark-wood desks and green chairs sweeping toward a central rostrum backed by a vertically hung flag, all lit in warm amber tones, with unmarked pale desk nameplates and uninscribed stone walls"
+refs = 6
 +++
 
-![Interior view of the chamber of the US House of Representatives before session, empty green chairs in curved rows facing a raised rostrum, morning light through tall windows, no people, photojournalism, no readable text, 3:2](/images/stories/jeffries-nominated-speaker-house-democrats.webp)
+![Elevated near-symmetrical view of an empty hemicycle legislative chamber with curving rows of dark-wood desks and green chairs sweeping toward a central rostrum backed by a vertically hung flag, all lit in warm amber tones, with unmarked pale desk nameplates and uninscribed stone walls](/images/stories/jeffries-nominated-speaker-house-democrats.webp)
 
 House Democrats on Wednesday nominated Representative Hakeem Jeffries of New York to be speaker of the House when the new Congress is sworn in in January, a vote that would make him the first Black lawmaker to lead the chamber.
 
@@ -30,9 +30,12 @@ The caucus also chose the rest of its leadership for the 120th Congress — majo
 
 Jeffries, 56, will be formally elected speaker when the House convenes on January 3. Party officials said the floor vote should follow without incident, though the 11 dissenting ballots showed the unease within the caucus is real.
 
+Update — November 20, 2026: Seven of the 11 Democrats who voted against Mr. Jeffries, all of them freshmen, issued a joint statement explaining their opposition: "Whether on Medicare for All, stopping ICE terror, getting money out of politics, or ending the genocide in Gaza, our constituents sent us to Congress with a mandate on these issues." The signatories were representatives-elect Darializa Avila Chevalier of New York, Adam Hamawy of New Jersey, Frederick Haynes of Texas, Melat Kiros of Colorado, Donavan McKinney of Michigan, Chris Rabb of Pennsylvania and Claire Valdez of New York. Mr. Jeffries told reporters the recorded vote, which he had requested over the acclamation sought by his allies, was meant to let members speak plainly: "The results of today's election speak for themselves. Our job is to fight MAGA extremism, not each other."
+
 ## Sources
 - [Axios](https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats)
 - [The Guardian](https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination)
 - [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house)
 - [NBC News](https://www.nbcnews.com/politics/congress/democrats-formally-nominate-rep-hakeem-jeffries-paving-way-first-black-rcna609619)
-- [The New York Times](https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html)
+- [The New York Times](https://www.nytimes.com/2026-11-18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html)
+- [Semafor](https://www.semafor.com/article/11/18/2026/hakeem-jeffries-wins-big-in-speaker-nomination-vote)

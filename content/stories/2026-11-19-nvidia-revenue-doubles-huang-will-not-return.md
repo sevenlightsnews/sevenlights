@@ -1,7 +1,7 @@
 +++
 title = "Nvidia Revenue Doubles; Board Says Huang Will Not Return"
 date = 2026-11-19T03:45:00-05:00
-lastmod = 2026-11-19T03:45:00-05:00
+lastmod = 2026-11-20T05:20:00-05:00
 draft = false
 slug = "nvidia-revenue-doubles-huang-will-not-return"
 summary = "Nvidia reported quarterly revenue of $115.84 billion, up 103 per cent on the year, days after forcing out Jensen Huang; the board chairman said there is no plan to reinstate him."
@@ -10,11 +10,11 @@ author = "Seven Lights"
 categories = ["Business"]
 tags = ["nvidia", "jensen huang", "colette kress", "earnings", "semiconductors"]
 image = "/images/stories/nvidia-revenue-doubles-huang-will-not-return.webp"
-image_alt = "Long aisle of illuminated server racks in a data center, blue and green indicator lights, cool airflow corridors, symmetrical composition, shallow depth of field, photojournalism, no readable text, 3:2"
-refs = 5
+image_alt = "One-point-perspective view down a clean data-center aisle lined with tall unbranded black server racks studded with glowing blue and green status LEDs, a reflective raised floor, overhead strip lights, and a brightly lit end wall, with the mid-distance softly blurred."
+refs = 7
 +++
 
-![Long aisle of illuminated server racks in a data center, blue and green indicator lights, cool airflow corridors, symmetrical composition, shallow depth of field, photojournalism, no readable text, 3:2](/images/stories/nvidia-revenue-doubles-huang-will-not-return.webp)
+![One-point-perspective view down a clean data-center aisle lined with tall unbranded black server racks studded with glowing blue and green status LEDs, a reflective raised floor, overhead strip lights, and a brightly lit end wall, with the mid-distance softly blurred.](/images/stories/nvidia-revenue-doubles-huang-will-not-return.webp)
 
 Nvidia reported quarterly revenue of $115.84 billion on Tuesday, doubling the figure from a year earlier, in the chipmaker's first earnings report since its board forced out chief executive Jensen Huang. The chairman of the board, Harvey Jones, said the company "does not intend to reinstate Jensen as CEO."
 
@@ -28,9 +28,13 @@ Mr. Huang issued his first public statement Tuesday morning, apologising for his
 
 Jones said Mr. Huang had stepped down voluntarily and credited Ms. Kress's 13-year tenure at the centre of the company's growth. Mr. Huang has agreed to transcribed interviews in early December with three House committees, including foreign affairs and intelligence. The Wall Street Journal reported Tuesday that the Securities and Exchange Commission is examining Nvidia's business in China.
 
+Update — November 20, 2026: The California attorney general has served Nvidia with a subpoena over Mr. Huang's alleged connection to Alice Huang, a suspected Chinese spy, Forbes reported. Mr. Huang has retained the law firm Paul, Weiss, including former federal prosecutors Melinda Haag and Walter Brown, and Nvidia last week retained Wachtell, Lipton, Rosen & Katz to conduct an independent investigation into whether Mr. Huang was targeted by a foreign intelligence officer, a conclusion United States intelligence agencies have reportedly reached, CNBC reported. Securities lawyers said Mr. Huang "faces the Department of Justice, the SEC and private litigation"; a shareholder class action over statements concerning Megaspeed and Alice Huang is pending in San Francisco federal court. Nvidia shares are down 19 per cent since November 8.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang)
 - [NPR](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
 - [The New York Times](https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html)
 - [The Wall Street Journal](https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f)
-- [Forbes](https://www.forbes.com/sites/maryroeloffs/2026/11/18/bill-ackman-says-nvidia-board-for-rushed-to-judgment-on-jensen-huang/)
+- [Forbes](https://www.forbes.com/sites/maryroeloffs/2026-11-18/bill-ackman-says-nvidia-board-for-rushed-to-judgment-on-jensen-huang/)
+- [Forbes](https://www.forbes.com/sites/siladityaray/2026-11-20/california-ag-subpoenas-nvidia-over-jensen-huangs-alleged-chinese-spy-affair/)
+- [CNBC](https://www.cnbc.com/2026-11-19/nvidia-jensen-huang-legal.html)

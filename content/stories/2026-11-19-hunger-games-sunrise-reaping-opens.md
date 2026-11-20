@@ -1,7 +1,7 @@
 +++
 title = "'Sunrise on the Reaping' Revives the Hunger Games Franchise"
 date = 2026-11-19T03:45:00-05:00
-lastmod = 2026-11-19T03:45:00-05:00
+lastmod = 2026-11-20T06:10:00-05:00
 draft = false
 slug = "hunger-games-sunrise-reaping-opens"
 summary = "The prequel 'The Hunger Games: Sunrise on the Reaping' opens Friday with Francis Lawrence back behind the camera and newcomer Joseph Zada as the teenage Haymitch Abernathy."
@@ -10,11 +10,11 @@ author = "Seven Lights"
 categories = ["Entertainment"]
 tags = ["hunger games", "sunrise on the reaping", "joseph zada", "francis lawrence", "film"]
 image = "/images/stories/hunger-games-sunrise-reaping-opens.webp"
-image_alt = "Dawn over a vast dystopian arena landscape, raised platform in a town square ringed by barricades, empty spectator bleachers, cold mist and pale sunrise light, cinematic editorial illustration, no readable text, 3:2"
-refs = 4
+image_alt = "Symmetrical wide shot of a circular outdoor arena at sunrise: a raised railed platform with steps at center ringed by bleachers packed with tiny silhouetted spectators, floodlight towers at both edges, a misty village behind, and the low sun on the horizon."
+refs = 6
 +++
 
-![Dawn over a vast dystopian arena landscape, raised platform in a town square ringed by barricades, empty spectator bleachers, cold mist and pale sunrise light, cinematic editorial illustration, no readable text, 3:2](/images/stories/hunger-games-sunrise-reaping-opens.webp)
+![Symmetrical wide shot of a circular outdoor arena at sunrise: a raised railed platform with steps at center ringed by bleachers packed with tiny silhouetted spectators, floodlight towers at both edges, a misty village behind, and the low sun on the horizon.](/images/stories/hunger-games-sunrise-reaping-opens.webp)
 
 "The Hunger Games: Sunrise on the Reaping" opens in theaters Friday, the first new entry in the franchise since 2023. The prequel re-enters the world of Panem through the 50th Hunger Games, the Quarter Quell in which the number of tributes from each district is doubled.
 
@@ -28,8 +28,12 @@ Coverage of the film's campaign through the run-up came as a steady drum of stud
 
 The film plays in standard, IMAX and premium large-format auditoriums. Whether the prequel restores the series to the top of the box office will be measured against opening-weekend figures over the Thanksgiving stretch, when franchise releases historically perform best.
 
+Update — November 20, 2026: Advance ticket sales passed $21 million, the second-best preview total in the franchise, ahead of recent openings for "Wicked" and "The Odyssey," box-office trackers Deadline and The Hollywood Reporter reported. The A.V. Club, grading the film B as previews began, called it "another honorable attempt at prequelizing" the series, filling in the interval between the 10th Games of "Songbirds and Snakes" and the 74th that opens the original trilogy, with Mckenna Grace as Maysilee, Ben Wang as Wyatt, Jesse Plemons as a young Plutarch Heavensbee and Ralph Fiennes as a younger President Snow. The opening weekend itself arrives in the Thanksgiving stretch.
+
 ## Sources
 - [The Playlist](https://theplaylist.net/hunger-games-sunrise-on-the-reaping-review-joseph-zada-francis-lawrence-20261118/)
 - [The A.V. Club](https://www.avclub.com/the-hunger-games-sunrise-on-the-reaping-prequel-review)
 - [Vulture](http://www.vulture.com/article/hunger-games-sunrise-on-the-reaping-tries-a-vibe-shift.html?utm_source=rss&amp;utm_medium=social_acct&amp;utm_campaign=feed-part)
 - [Deadline](https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406/)
+- [Deadline](https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/)
+- [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/)
