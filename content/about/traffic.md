@@ -1,58 +1,58 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-19T17:10:32Z
-lastmod = 2026-11-19T17:10:32Z
+date = 2026-11-20T17:10:54Z
+lastmod = 2026-11-20T17:10:54Z
 draft = false
 +++
 
 These figures count **human visitors only**. Bots, scrapers, scanner probes, search-engine crawlers, and automated floods are filtered out before counting. Data lags about one day; "Last 24 hours" covers the most recent complete day.
 
 **Last 24 hours**  
-_Nov 18_
+_Nov 19_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,320 |
-| Unique human visitors (daily avg) | 157 |
-| Automated traffic filtered out | 10,200 |
-| Episode downloads (media server) | 4 |
+| Human page requests | 2,444 |
+| Unique human visitors (daily avg) | 787 |
+| Automated traffic filtered out | 22,144 |
+| Episode downloads (media server) | 3 |
 
 
 **Last 7 days**  
-_Nov 12–Nov 18_
+_Nov 13–Nov 19_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 13,912 |
-| Unique human visitors (daily avg) | 496 |
-| Automated traffic filtered out | 231,320 |
-| Episode downloads (media server) | 39 |
+| Human page requests | 13,797 |
+| Unique human visitors (daily avg) | 601 |
+| Automated traffic filtered out | 202,863 |
+| Episode downloads (media server) | 42 |
 
 
 **Last 30 days**  
-_Oct 20–Nov 18_
+_Oct 21–Nov 19_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 33,616 |
-| Unique human visitors (daily avg) | 342 |
-| Automated traffic filtered out | 3,085,776 |
-| Episode downloads (media server) | 89 |
+| Human page requests | 35,944 |
+| Unique human visitors (daily avg) | 339 |
+| Automated traffic filtered out | 3,108,036 |
+| Episode downloads (media server) | 94 |
 
 
 ## Most-read pages (last 7 days, humans only)
 
 | Page | Requests |
 |---|---|
-| `/` | 848 |
-| `/2026/11/08/cybertruck-symbol-of-musk-mistakes/` | 211 |
-| `/podcast/2026-11-14-daily-brief/` | 206 |
-| `/podcast/2026-11-16-daily-brief/` | 196 |
-| `/categories/global/` | 182 |
+| `/` | 961 |
+| `/categories/entertainment/` | 365 |
+| `/podcast/2026-11-14-daily-brief/` | 218 |
+| `/podcast/2026-11-16-daily-brief/` | 204 |
+| `/categories/global/` | 186 |
+| `/podcast/2026-11-15-daily-brief/` | 170 |
+| `/categories/politics/` | 167 |
 | `/categories/us/` | 165 |
-| `/categories/politics/` | 162 |
-| `/podcast/2026-11-15-daily-brief/` | 160 |
 
 ## Episode downloads (last 30 days)
 
@@ -61,14 +61,14 @@ _Oct 20–Nov 18_
 | `2026-10-29-daily-brief.mp3` | 7 |
 | `2026-10-24-daily-brief.mp3` | 6 |
 | `2026-10-31-daily-brief.mp3` | 6 |
+| `2026-10-26-daily-brief.mp3` | 6 |
 | `2026-10-27-daily-brief.mp3` | 5 |
 | `2026-10-25-daily-brief.mp3` | 5 |
+| `2026-10-30-daily-brief.mp3` | 5 |
 | `2026-10-28-daily-brief.mp3` | 5 |
-| `2026-10-26-daily-brief.mp3` | 5 |
-| `2026-11-01-daily-brief.mp3` | 5 |
 
 Episode downloads are counted at the media server. Plays inside Spotify and Apple Podcasts never touch our servers, so this count is a floor, not a ceiling.
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-19 17:10 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-20 17:10 UTC, measured at the Cloudflare edge._
