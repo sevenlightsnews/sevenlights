@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-21T17:10:14Z
-lastmod = 2026-11-21T17:10:14Z
+date = 2026-11-21T22:00:09Z
+lastmod = 2026-11-21T22:00:09Z
 draft = false
 +++
 
@@ -13,10 +13,10 @@ _Nov 20_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 3,158 |
+| Human page requests | 3,157 |
 | Unique human visitors (daily avg) | 1,204 |
-| Automated traffic filtered out | 10,085 |
-| Episode downloads (media server) | 1 |
+| Automated traffic filtered out | 10,086 |
+| Episode downloads (media server) | 2 |
 
 
 **Last 7 days**  
@@ -24,10 +24,10 @@ _Nov 14–Nov 20_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 14,980 |
+| Human page requests | 14,976 |
 | Unique human visitors (daily avg) | 680 |
-| Automated traffic filtered out | 146,751 |
-| Episode downloads (media server) | 39 |
+| Automated traffic filtered out | 146,694 |
+| Episode downloads (media server) | 40 |
 
 
 **Last 30 days**  
@@ -35,10 +35,10 @@ _Oct 22–Nov 20_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 38,761 |
-| Unique human visitors (daily avg) | 380 |
-| Automated traffic filtered out | 3,117,150 |
-| Episode downloads (media server) | 95 |
+| Human page requests | 39,234 |
+| Unique human visitors (daily avg) | 377 |
+| Automated traffic filtered out | 3,116,505 |
+| Episode downloads (media server) | 96 |
 
 
 ## Most-read pages (last 7 days, humans only)
@@ -46,12 +46,12 @@ _Oct 22–Nov 20_
 | Page | Requests |
 |---|---|
 | `/categories/entertainment/` | 1,088 |
-| `/` | 970 |
+| `/` | 979 |
 | `/2026/11/19/grand-theft-auto-vi-opens-after-13-year-wait/` | 407 |
 | `/podcast/2026-11-14-daily-brief/` | 221 |
 | `/podcast/2026-11-16-daily-brief/` | 209 |
 | `/categories/global/` | 182 |
-| `/categories/politics/` | 176 |
+| `/categories/politics/` | 175 |
 | `/podcast/2026-11-15-daily-brief/` | 173 |
 
 ## Episode downloads (last 30 days)
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-21 17:10 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-21 22:00 UTC, measured at the Cloudflare edge._
