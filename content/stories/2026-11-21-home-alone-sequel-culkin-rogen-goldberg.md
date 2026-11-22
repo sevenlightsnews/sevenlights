@@ -28,6 +28,8 @@ Reps for Disney and Culkin did not immediately respond to requests for comment. 
 
 The 1990 film held the live-action comedy box-office record for nearly two decades. No director or release date has been set for the sequel.
 
+Update, November 22, 2026: The Playlist reported that the long-discussed sequel is now officially in development, with Rogen and Goldberg's Point Grey producing. The earlier reports had described the project as in talks.
+
 ## Sources
 - [The Playlist](https://theplaylist.net/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-sequel-20261120/)
 - [The A.V. Club](https://www.avclub.com/home-alone-sequel-macaulay-culkin-seth-rogen-evan-goldberg)
