@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-22T09:11:05Z
-lastmod = 2026-11-22T09:11:05Z
+date = 2026-11-22T17:10:14Z
+lastmod = 2026-11-22T17:10:14Z
 draft = false
 +++
 
@@ -13,10 +13,10 @@ _Nov 21_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 1,266 |
-| Unique human visitors (daily avg) | 552 |
-| Automated traffic filtered out | 5,674 |
-| Episode downloads (media server) | 1 |
+| Human page requests | 1,752 |
+| Unique human visitors (daily avg) | 155 |
+| Automated traffic filtered out | 5,188 |
+| Episode downloads (media server) | 6 |
 
 
 **Last 7 days**  
@@ -24,10 +24,10 @@ _Nov 15–Nov 21_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 14,604 |
-| Unique human visitors (daily avg) | 693 |
-| Automated traffic filtered out | 124,247 |
-| Episode downloads (media server) | 38 |
+| Human page requests | 15,055 |
+| Unique human visitors (daily avg) | 594 |
+| Automated traffic filtered out | 123,796 |
+| Episode downloads (media server) | 43 |
 
 
 **Last 30 days**  
@@ -35,40 +35,40 @@ _Oct 23–Nov 21_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 39,669 |
-| Unique human visitors (daily avg) | 394 |
-| Automated traffic filtered out | 3,120,105 |
-| Episode downloads (media server) | 98 |
+| Human page requests | 40,158 |
+| Unique human visitors (daily avg) | 389 |
+| Automated traffic filtered out | 3,119,616 |
+| Episode downloads (media server) | 103 |
 
 
 ## Most-read pages (last 7 days, humans only)
 
 | Page | Requests |
 |---|---|
-| `/categories/entertainment/` | 1,140 |
+| `/categories/entertainment/` | 1,100 |
 | `/` | 960 |
-| `/2026/11/19/grand-theft-auto-vi-opens-after-13-year-wait/` | 436 |
+| `/2026/11/19/grand-theft-auto-vi-opens-after-13-year-wait/` | 607 |
+| `/categories/global/` | 420 |
 | `/podcast/2026-11-16-daily-brief/` | 216 |
-| `/categories/politics/` | 191 |
 | `/podcast/2026-11-15-daily-brief/` | 175 |
-| `/categories/global/` | 165 |
-| `/categories/us/` | 159 |
+| `/categories/politics/` | 148 |
+| `/2026/11/05/pixar-garson-president-morris-emeritus/` | 144 |
 
 ## Episode downloads (last 30 days)
 
 | File | Downloads |
 |---|---|
+| `2026-10-29-daily-brief.mp3` | 8 |
 | `2026-10-24-daily-brief.mp3` | 7 |
-| `2026-10-29-daily-brief.mp3` | 7 |
+| `2026-10-27-daily-brief.mp3` | 6 |
 | `2026-10-25-daily-brief.mp3` | 6 |
 | `2026-10-31-daily-brief.mp3` | 6 |
 | `2026-11-01-daily-brief.mp3` | 6 |
 | `2026-10-26-daily-brief.mp3` | 6 |
-| `2026-10-27-daily-brief.mp3` | 5 |
-| `2026-10-30-daily-brief.mp3` | 5 |
+| `2026-11-07-daily-brief.mp3` | 5 |
 
 Episode downloads are counted at the media server. Plays inside Spotify and Apple Podcasts never touch our servers, so this count is a floor, not a ceiling.
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-22 09:11 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-22 17:10 UTC, measured at the Cloudflare edge._
