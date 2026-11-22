@@ -1,7 +1,7 @@
 +++
 title = "World Court Finds Myanmar Committed Genocide Against the Rohingya"
 date = 2026-11-20T04:00:00-05:00
-lastmod = 2026-11-20T04:00:00-05:00
+lastmod = 2026-11-21T03:05:00-05:00
 draft = false
 slug = "icj-rules-myanmar-genocide-rohingya"
 summary = "The International Court of Justice ruled Thursday that Myanmar's security forces committed genocide against the Rohingya in 2017, the first time the UN's top court has held a state responsible for the crime."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["rohingya", "genocide", "international court of justice", "myanmar", "the gambia"]
 image = "/images/stories/icj-rules-myanmar-genocide-rohingya.webp"
 image_alt = "At golden-hour dusk a dense crowd seen from behind raises its hands toward a large brightly lit outdoor projection screen displaying close-up generic portraits, with rows of white A-frame tents on a hillside and mountain ridges under a hazy orange-pink sky."
-refs = 6
+refs = 9
 +++
 
 ![At golden-hour dusk a dense crowd seen from behind raises its hands toward a large brightly lit outdoor projection screen displaying close-up generic portraits, with rows of white A-frame tents on a hillside and mountain ridges under a hazy orange-pink sky.](/images/stories/icj-rules-myanmar-genocide-rohingya.webp)
@@ -28,9 +28,14 @@ Myanmar's government had argued the campaign in Rakhine state was a legitimate r
 
 The judgment closes a decade-long effort at legal recognition but arrives amid continued violence. A military coup in 2021 plunged Myanmar into civil war, and a recent wave of attacks by the Myanmar military has driven new displacement, including among Rohingya who had remained in the country. Immigration lawyers and community leaders in Australia, which has pledged more than one billion dollars in humanitarian assistance since 2017, welcomed the ruling as long-overdue recognition and called on governments to translate it into diplomatic pressure and support for safe, voluntary return.
 
+Update, November 21: Reactions Friday laid bare divisions over the court. Myanmar's spokesperson called the ruling "unfair" without saying whether the government would comply. The State Department said it was examining the judgment while avoiding "politicisation" of the court. The European Union hailed a "landmark" judgment, Britain reaffirmed "full support" for the court, and Australia called on Myanmar to comply fully. China, a backer of Myanmar's rulers, raised "issues such as jurisdiction overreach and expanded interpretation." Myanmar has two years to report to the court on restitution. The National Unity Government, formed after the 2021 coup, said it respects the judgment.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling)
 - [The Wall Street Journal](https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews)
+- [Sky News](https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272)
+- [The New York Times](https://www.nytimes.com/2026-11-19/world/europe/myanmar-genocide-icj-decision-.html)
+- [Time](https://time.com/article/2026-11-20/rohingya-genocide-icj-history-myanmar-israel/)
 - [ABC News (Australia)](https://www.abc.net.au/news/2026-11-20/icj-rohingya-genocide-case-community-reactions/107408880)
 - [Al Jazeera](https://www.aljazeera.com/news/2026-11-20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss)
 - [BBC](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss)

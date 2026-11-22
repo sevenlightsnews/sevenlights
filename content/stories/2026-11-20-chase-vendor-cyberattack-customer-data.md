@@ -1,7 +1,7 @@
 +++
 title = "Chase Confirms Cyberattack on Vendors That May Have Exposed Customer Data"
 date = 2026-11-20T05:10:00-05:00
-lastmod = 2026-11-20T05:10:00-05:00
+lastmod = 2026-11-21T03:12:00-05:00
 draft = false
 slug = "chase-vendor-cyberattack-customer-data"
 summary = "JPMorgan Chase said Thursday that hackers attacked third-party vendors handling its marketing information, potentially exposing customer names and email addresses, days after a separate software failure disrupted its banking services."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["jpmorgan chase", "cyberattack", "data breach", "banking"]
 image = "/images/stories/chase-vendor-cyberattack-customer-data.webp"
 image_alt = "A silhouetted security guard in a peaked cap, seen from behind through a floor-to-ceiling glass wall, stands at dusk facing a curved glass corporate tower with scattered lit windows across an empty paved plaza under a blue-grey twilight sky."
-refs = 5
+refs = 8
 +++
 
 ![A silhouetted security guard in a peaked cap, seen from behind through a floor-to-ceiling glass wall, stands at dusk facing a curved glass corporate tower with scattered lit windows across an empty paved plaza under a blue-grey twilight sky.](/images/stories/chase-vendor-cyberattack-customer-data.webp)
@@ -28,9 +28,14 @@ The episode is the second technology failure to hit the country's largest bank i
 
 JPMorgan said its services were operating normally. The investigation continues, and the bank said it would report further to affected customers as the review proceeds.
 
+Update, November 21: The Russian-linked ransomware group n0n claimed responsibility for the hack, according to a report by the threat-analysis firm SOCRadar, after leaked data linked to the companies' customers appeared online. Visa and Mastercard separately confirmed third-party incidents. A Visa spokesperson said the company was "aware of these claims," that the incident involved a third-party service provider in the Asia-Pacific region, that "Visa's systems were not involved and were not impacted," and that no payments data were affected. Mastercard said there was "no impact to the Mastercard payment network or the ability to use cards." JPMorgan, whose consumer division reports about 78 million active digital customers, repeated that attackers accessed certain marketing data held by vendors, which may include customer names and email addresses. None of the three firms would identify the providers involved, say when the breaches occurred or detail what data was taken.
+
 ## Sources
 - [Fast Company](https://www.fastcompany.com/91645730/chase-confirms-cyberattack-that-may-have-exposed-customer-data-heres-what-we-know)
 - [International Business Times](https://www.ibtimes.com/jpmorgan-vendor-cyberattack-customer-data-exposure-3809966)
 - [The New York Times](https://www.nytimes.com/2026-11-19/business/jpmorgan-chase-customer-data-breach.html)
 - [The Wall Street Journal](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main)
 - [Business Insider](https://www.businessinsider.com/jpmorgan-vendor-cyberattack-customer-data-exposed-2026-11)
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
+- [Mashable](https://mashable.com/tech/n0n-ransomware-group-leaks-chase-mastercard-visa-customer-data)
+- [The Register](https://www.theregister.com/security/2026-11-19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175)

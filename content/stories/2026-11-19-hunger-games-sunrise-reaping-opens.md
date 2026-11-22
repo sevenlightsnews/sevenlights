@@ -1,7 +1,7 @@
 +++
 title = "'Sunrise on the Reaping' Revives the Hunger Games Franchise"
 date = 2026-11-19T03:45:00-05:00
-lastmod = 2026-11-20T06:10:00-05:00
+lastmod = 2026-11-21T03:16:00-05:00
 draft = false
 slug = "hunger-games-sunrise-reaping-opens"
 summary = "The prequel 'The Hunger Games: Sunrise on the Reaping' opens Friday with Francis Lawrence back behind the camera and newcomer Joseph Zada as the teenage Haymitch Abernathy."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["hunger games", "sunrise on the reaping", "joseph zada", "francis lawrence", "film"]
 image = "/images/stories/hunger-games-sunrise-reaping-opens.webp"
 image_alt = "Symmetrical wide shot of a circular outdoor arena at sunrise: a raised railed platform with steps at center ringed by bleachers packed with tiny silhouetted spectators, floodlight towers at both edges, a misty village behind, and the low sun on the horizon."
-refs = 6
+refs = 8
 +++
 
 ![Symmetrical wide shot of a circular outdoor arena at sunrise: a raised railed platform with steps at center ringed by bleachers packed with tiny silhouetted spectators, floodlight towers at both edges, a misty village behind, and the low sun on the horizon.](/images/stories/hunger-games-sunrise-reaping-opens.webp)
@@ -28,7 +28,9 @@ Coverage of the film's campaign through the run-up came as a steady drum of stud
 
 The film plays in standard, IMAX and premium large-format auditoriums. Whether the prequel restores the series to the top of the box office will be measured against opening-weekend figures over the Thanksgiving stretch, when franchise releases historically perform best.
 
-Update — November 20, 2026: Advance ticket sales passed $21 million, the second-best preview total in the franchise, ahead of recent openings for "Wicked" and "The Odyssey," box-office trackers Deadline and The Hollywood Reporter reported. The A.V. Club, grading the film B as previews began, called it "another honorable attempt at prequelizing" the series, filling in the interval between the 10th Games of "Songbirds and Snakes" and the 74th that opens the original trilogy, with Mckenna Grace as Maysilee, Ben Wang as Wyatt, Jesse Plemons as a young Plutarch Heavensbee and Ralph Fiennes as a younger President Snow. The opening weekend itself arrives in the Thanksgiving stretch.
+Update — November 20, 2026: Advance ticket sales passed $21 million, the second-best preview total in the franchise, ahead of recent openings for "Wicked" and "The Odyssey," box-office trackers Deadline and The Hollywood Reporter reported. The A.V. Club, grading the film B as previews began, called it "another honorable attempt at prequelizing" the series, filling in the interval between "Songbirds and Snakes" and the original trilogy, with Mckenna Grace as Maysilee, Ben Wang as Wyatt, Jesse Plemons as a young Plutarch Heavensbee and Ralph Fiennes as a younger President Snow. The opening arrives in the Thanksgiving stretch.
+
+Update — November 21: Deadline reported the film began its global weekend with a running cume of about $76 million, counting an estimated $51 million Friday that includes $21 million in previews, the second-best preview haul of 2026 behind "Spider-Man: Brand New Day's" $72 million. The picture led 66 of the 67 markets it has played to date, with 17 further territories opening this weekend, and posted the largest opening day in the franchise in several markets. The net production cost is $150 million, financed largely through foreign presales; analysts put the likely global opening near $200 million.
 
 ## Sources
 - [The Playlist](https://theplaylist.net/hunger-games-sunrise-on-the-reaping-review-joseph-zada-francis-lawrence-20261118/)
@@ -37,3 +39,5 @@ Update — November 20, 2026: Advance ticket sales passed $21 million, the secon
 - [Deadline](https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406/)
 - [Deadline](https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/)
 - [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/)
+- [Deadline](https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/)
+- [IndieWire](https://www.indiewire.com/news/box-office/box-office-hunger-games-sunrise-on-the-reaping-previews-1235229692/)

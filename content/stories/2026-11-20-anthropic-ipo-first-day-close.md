@@ -1,7 +1,7 @@
 +++
 title = "Anthropic Shares Close 17 Per Cent Above IPO Price in Nasdaq Debut"
 date = 2026-11-20T05:00:00-05:00
-lastmod = 2026-11-20T05:00:00-05:00
+lastmod = 2026-11-21T03:17:00-05:00
 draft = false
 slug = "anthropic-ipo-first-day-close"
 summary = "Anthropic closed its first day of trading 17 per cent above its $83 offering price, after a debut that briefly valued the AI company above $2 trillion and followed the largest initial public offering on record."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["anthropic", "ipo", "nasdaq", "artificial intelligence"]
 image = "/images/stories/anthropic-ipo-first-day-close.webp"
 image_alt = "Suited traders seen from behind watch a huge wall screen showing a jagged upward-trending white line chart in a trading-floor room lit by warm golden light through tall industrial windows, with monitors glowing on desks below."
-refs = 6
+refs = 10
 +++
 
 ![Suited traders seen from behind watch a huge wall screen showing a jagged upward-trending white line chart in a trading-floor room lit by warm golden light through tall industrial windows, with monitors glowing on desks below.](/images/stories/anthropic-ipo-first-day-close.webp)
@@ -28,6 +28,8 @@ Market and research commentators noted the split picture of the day: a rapturous
 
 The listing leaves Anthropic among the world's most valuable publicly traded companies alongside Apple, Microsoft and Nvidia, and its results will now be subject to quarterly public reporting for the first time.
 
+Update, November 21: Anthropic shares slid 8.5 per cent Friday, nearly erasing the IPO pop as a broad sell-off in artificial-intelligence stocks swept the market. The Nasdaq fell more than five per cent to wipe out its gains for 2026, and the S&P 500 and Dow slipped into correction territory, while Nvidia dropped about 12 per cent and AMD, Broadcom and Micron posted double-digit declines. Markets priced a more than 95 per cent probability of a rate increase at the Federal Reserve's December meeting after Governor Lisa Cook said monetary policy was not sufficiently restrictive for current inflation. The first week of trading left the market's verdict on the sector unresolved.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo)
 - [Fast Company](https://www.fastcompany.com/91645598/anthropic-ipo-what-time-trading-start-stock-price-live-update)
@@ -35,3 +37,7 @@ The listing leaves Anthropic among the world's most valuable publicly traded com
 - [Fortune](https://fortune.com/2026-11-19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/)
 - [The Wall Street Journal](https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main)
 - [MarketWatch](https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels)
+- [The New York Times](https://www.nytimes.com/2026-11-20/business/dealbook/anthropic-ipo-ai-rally.html)
+- [CNBC](https://www.cnbc.com/2026-11-19/anthropic-ipo-ai-stocks-selloff.html)
+- [The Wall Street Journal](https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main)

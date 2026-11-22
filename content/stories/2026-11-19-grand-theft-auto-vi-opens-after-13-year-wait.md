@@ -1,7 +1,7 @@
 +++
 title = "Grand Theft Auto VI Opens After a 13-Year Wait"
 date = 2026-11-19T03:45:00-05:00
-lastmod = 2026-11-19T03:45:00-05:00
+lastmod = 2026-11-21T03:15:00-05:00
 draft = false
 slug = "grand-theft-auto-vi-opens-after-13-year-wait"
 summary = "Rockstar Games released Grand Theft Auto VI on Thursday for consoles, the first mainline entry in 13 years and a launch the industry expects to set sales records."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["grand theft auto vi", "video games", "rockstar games", "launch", "workplace"]
 image = "/images/stories/grand-theft-auto-vi-opens-after-13-year-wait.webp"
 image_alt = "Queue of young people with sleeping bags outside a video game store at night before opening, glowing shop window light, rain-slick pavement, city street reflections, documentary photojournalism, no readable text, 3:2"
-refs = 5
+refs = 10
 +++
 
 ![Queue of young people with sleeping bags outside a video game store at night before opening, glowing shop window light, rain-slick pavement, city street reflections, documentary photojournalism, no readable text, 3:2](/images/stories/grand-theft-auto-vi-opens-after-13-year-wait.webp)
@@ -32,9 +32,16 @@ The launch has not been free of controversy. Former Rockstar workers in Britain 
 
 The release closes a stretch of repeated delays: Rockstar pushed the game from 2025 twice before setting this November date. Analysts expect first-week sales to exceed those of any previous game.
 
+Update, November 21: Take-Two Interactive said Friday that Grand Theft Auto VI generated nearly $4 billion in sell-through on its first day, at $3.79 billion by Business Insider's account, the largest opening day in entertainment history. Forbes put the figure at $3.8 billion. Bloomberg reported that internet service providers recorded their busiest traffic day ever as players downloaded the title.
+
 ## Sources
 - [CBC News](https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305?cmp=rss)
 - [The New York Times](https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html)
 - [BBC](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&amp;at_campaign=rss)
 - [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss)
-- [The Economist](https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming)
+- [The Economist](https://www.economist.com/culture/2026-11-18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming)
+- [The Wall Street Journal](https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f)
+- [Business Insider](https://www.businessinsider.com/grand-theft-auto-6-launch-sales-top-3-79-billion-2026-11)
+- [The New York Times](https://www.nytimes.com/2026-11-20/arts/grand-theft-auto-vi-sales-revenue.html)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever)
+- [Forbes](https://www.forbes.com/sites/antoniopequenoiv/2026-11-20/gta-6-raked-in-38-billion-sales-on-first-day-the-largest-entertainment-launch-ever/)
