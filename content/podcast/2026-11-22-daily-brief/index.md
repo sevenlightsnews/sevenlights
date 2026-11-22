@@ -1,6 +1,6 @@
 +++
 title = "Daily Brief: November 22, 2026"
-date = 2026-11-22T05:00:00-05:00
+date = 2026-11-22T04:00:00-05:00
 author = "Seven Lights"
 audio = "https://media.sevenlights.org/podcasts/2026-11-22-daily-brief.mp3"
 audio_bytes = 11847932
