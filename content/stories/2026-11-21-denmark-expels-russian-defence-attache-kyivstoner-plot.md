@@ -1,7 +1,7 @@
 +++
 title = "Denmark Expels Russian Defence Attaché Over Rapper Assassination Plot"
 date = 2026-11-21T03:00:00-05:00
-lastmod = 2026-11-21T03:00:00-05:00
+lastmod = 2026-11-23T03:24:00-05:00
 draft = false
 slug = "denmark-expels-russian-defence-attache-kyivstoner-plot"
 summary = "Denmark announced Friday it would expel Russia's defence attaché in Copenhagen after its intelligence service said it suspected Russian intelligence services of plotting an assassination of the Ukrainian rapper Kyivstoner."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["denmark", "russia", "espionage", "assassination plot", "ukraine"]
 image = "/images/stories/denmark-expels-russian-defence-attache-kyivstoner-plot.webp"
 image_alt = "Police cars with blue lights outside a suburban concert venue at night on a wet street, officers in high-visibility jackets behind a cordon, low winter light, documentary photojournalism, no readable text, 3:2"
-refs = 5
+refs = 7
 +++
 
 ![Police cars with blue lights outside a suburban concert venue at night on a wet street, officers in high-visibility jackets behind a cordon, low winter light, documentary photojournalism, no readable text, 3:2](/images/stories/denmark-expels-russian-defence-attache-kyivstoner-plot.webp)
@@ -34,9 +34,13 @@ Denmark has been a steadfast supporter of Ukraine since Russia's invasion nearly
 
 The two suspects remain under investigation, and the attaché must leave the country within seven days. Danish officials said the visa question would be decided in the coming weeks.
 
+Update, November 23, 2026: Danish media identified the target as Albert Vasiliev. The PET service said three individuals were stopped near the venue where he was to perform on September 25, and the two charged have pleaded not guilty. European Commission President Ursula von der Leyen condemned the plot Saturday as "an attack on EU soil." Polish authorities said Russia had tried to assassinate the rapper twice in Poland, Al Jazeera reported.
+
 ## Sources
 - [South China Morning Post](https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper)
 - [Euronews](https://www.euronews.com/2026-11-20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper)
 - [The New York Times](https://www.nytimes.com/2026-11-20/world/europe/denmark-russia-ukraine-rapper-assassination.html)
 - [Sky News](https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604)
 - [Al Jazeera](https://www.aljazeera.com/news/2026-11-21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss)
+- [BBC World](https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss)
+- [Al Jazeera](https://www.aljazeera.com/news/2026-11-23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss)

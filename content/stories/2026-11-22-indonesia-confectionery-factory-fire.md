@@ -1,7 +1,7 @@
 +++
 title = "Indonesia Candy Factory Fire Kills Three; Dozens Still Missing"
 date = 2026-11-22T03:30:00-05:00
-lastmod = 2026-11-22T03:30:00-05:00
+lastmod = 2026-11-23T03:24:00-05:00
 draft = false
 slug = "indonesia-confectionery-factory-fire"
 summary = "A fire at the Fonusa Agung Mulia confectionery factory in Cikande, Banten, killed at least three people and left 36 missing, with survivors pulled from the wreckage on Sunday."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["indonesia", "factory fire", "disasters", "jakarta"]
 image = "/images/stories/indonesia-confectionery-factory-fire.webp"
 image_alt = "Blackened shell of an industrial factory building in morning light, firefighters in helmets and reflective gear on ladders, hoses across wet ground, thin smoke rising, tropical trees at the edge, no readable text, documentary photojournalism, 3:2"
-refs = 4
+refs = 5
 +++
 
 ![Blackened shell of an industrial factory building in morning light, firefighters in helmets and reflective gear on ladders, hoses across wet ground, thin smoke rising, tropical trees at the edge, no readable text, documentary photojournalism, 3:2](/images/stories/indonesia-confectionery-factory-fire.webp)
@@ -30,8 +30,11 @@ The local disaster management agency said the cause remained under investigation
 
 Rescuers faced unstable structure and residual heat inside the plant, officials said, which slowed the search. The joint operation was expected to continue until all the missing were accounted for.
 
+Update, November 23, 2026: Indonesian authorities confirmed the deaths of 24 people, and rescuers removed 24 body bags from the site while about 30 people remained missing, The Guardian and Al Jazeera reported. Crews braved unstable structures in the burned wreckage, and DNA testing is required to identify the victims.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
-- [Al Jazeera](https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss)
+- [Al Jazeera](https://www.aljazeera.com/news/2026-11-22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss)
 - [CNA](https://www.channelnewsasia.com/asia/indonesia-factory-fire-39-missing-6572421)
 - [BBC World](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss)
+- [Al Jazeera](https://www.aljazeera.com/news/2026-11-23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss)

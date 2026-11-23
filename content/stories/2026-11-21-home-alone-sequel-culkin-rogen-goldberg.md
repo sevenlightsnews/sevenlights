@@ -1,7 +1,7 @@
 +++
 title = "Culkin to Return as Kevin McCallister in Home Alone Sequel From Rogen and Goldberg"
 date = 2026-11-21T03:00:00-05:00
-lastmod = 2026-11-21T03:00:00-05:00
+lastmod = 2026-11-23T03:24:00-05:00
 draft = false
 slug = "home-alone-sequel-culkin-rogen-goldberg"
 summary = "Macaulay Culkin is in talks to reprise Kevin McCallister in a Home Alone sequel for Disney and 20th Century Studios written by Seth Rogen and Evan Goldberg from an idea Culkin pitched, with the story built around Kevin as a father."
@@ -29,6 +29,8 @@ Reps for Disney and Culkin did not immediately respond to requests for comment. 
 The 1990 film held the live-action comedy box-office record for nearly two decades. No director or release date has been set for the sequel.
 
 Update, November 22, 2026: The Playlist reported that the long-discussed sequel is now officially in development, with Rogen and Goldberg's Point Grey producing. The earlier reports had described the project as in talks.
+
+Update, November 23, 2026: The A.V. Club reported that the sequel's story finds Kevin a father who leaves his children behind, inverting the premise that made the original a holiday staple.
 
 ## Sources
 - [The Playlist](https://theplaylist.net/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-sequel-20261120/)

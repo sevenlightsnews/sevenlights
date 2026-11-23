@@ -1,7 +1,7 @@
 +++
 title = "Hunger Games Prequel Opens to $120 Million, Reviving Lionsgate Franchise"
 date = 2026-11-22T15:55:00-05:00
-lastmod = 2026-11-22T15:55:00-05:00
+lastmod = 2026-11-23T03:24:00-05:00
 draft = false
 slug = "sunrise-reaping-120-million-opening"
 summary = "The Hunger Games prequel 'Sunrise on the Reaping' opened to $120 million in North America and $225 million worldwide, Lionsgate's biggest opening in more than a decade."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["hunger games", "box office", "lionsgate", "film industry", "sunrise on the reaping"]
 image = "/images/stories/sunrise-reaping-120-million-opening.webp"
 image_alt = "Crowded cinema lobby at night with queues at the box office and blank illuminated poster frames on the walls, warm interior light against a dark street exterior, no readable text or titles, wide editorial photograph, 3:2"
-refs = 4
+refs = 5
 +++
 
 ![Crowded cinema lobby at night with queues at the box office and blank illuminated poster frames on the walls, warm interior light against a dark street exterior, no readable text or titles, wide editorial photograph, 3:2](/images/stories/sunrise-reaping-120-million-opening.webp)
@@ -28,8 +28,11 @@ Lionsgate's shares rose on the estimates. The studio follows the film with an ex
 
 The franchise's next chapter is already in development. Exhibitors expect the holiday corridor to sustain the film through December.
 
+Update, November 23, 2026: The film also opened at No. 1 in mainland China, taking 39.3 million yuan ($5.9 million) in the Nov. 20-22 weekend, according to Artisan Gateway data reported by Variety.
+
 ## Sources
 - [The Playlist](https://theplaylist.net/the-hunger-games-sunrise-on-the-reaping-overcomes-grand-theft-auto-box-office-20261122/)
 - [Deadline](https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/)
 - [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/)
 - [IndieWire](https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/)
+- [Variety](https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/)
