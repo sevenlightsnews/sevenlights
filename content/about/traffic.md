@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-24T09:12:32Z
-lastmod = 2026-11-24T09:12:32Z
+date = 2026-11-24T17:10:14Z
+lastmod = 2026-11-24T17:10:14Z
 draft = false
 +++
 
@@ -13,10 +13,10 @@ _Nov 23_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 2,988 |
-| Unique human visitors (daily avg) | 686 |
-| Automated traffic filtered out | 11,533 |
-| Episode downloads (media server) | 0 |
+| Human page requests | 3,036 |
+| Unique human visitors (daily avg) | 637 |
+| Automated traffic filtered out | 11,485 |
+| Episode downloads (media server) | 7 |
 
 
 **Last 7 days**  
@@ -24,10 +24,10 @@ _Nov 17–Nov 23_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 19,034 |
-| Unique human visitors (daily avg) | 751 |
-| Automated traffic filtered out | 90,752 |
-| Episode downloads (media server) | 46 |
+| Human page requests | 19,035 |
+| Unique human visitors (daily avg) | 750 |
+| Automated traffic filtered out | 90,751 |
+| Episode downloads (media server) | 53 |
 
 
 **Last 30 days**  
@@ -35,10 +35,10 @@ _Oct 25–Nov 23_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 47,773 |
-| Unique human visitors (daily avg) | 427 |
-| Automated traffic filtered out | 3,136,621 |
-| Episode downloads (media server) | 117 |
+| Human page requests | 47,043 |
+| Unique human visitors (daily avg) | 426 |
+| Automated traffic filtered out | 3,137,351 |
+| Episode downloads (media server) | 124 |
 
 
 ## Most-read pages (last 7 days, humans only)
@@ -47,10 +47,10 @@ _Oct 25–Nov 23_
 |---|---|
 | `/categories/entertainment/` | 2,108 |
 | `/` | 937 |
-| `/categories/politics/` | 473 |
+| `/categories/politics/` | 474 |
 | `/2026/11/19/grand-theft-auto-vi-opens-after-13-year-wait/` | 459 |
-| `/categories/global/` | 435 |
-| `/2026/11/22/sunrise-reaping-120-million-opening/` | 403 |
+| `/categories/global/` | 436 |
+| `/2026/11/22/sunrise-reaping-120-million-opening/` | 402 |
 | `/categories/sports/` | 218 |
 | `/2026/11/21/trump-contractor-congress-oversight-order/` | 200 |
 
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-24 09:12 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-24 17:10 UTC, measured at the Cloudflare edge._
