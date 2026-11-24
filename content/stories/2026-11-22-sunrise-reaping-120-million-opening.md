@@ -1,7 +1,7 @@
 +++
 title = "Hunger Games Prequel Opens to $120 Million, Reviving Lionsgate Franchise"
 date = 2026-11-22T15:55:00-05:00
-lastmod = 2026-11-23T03:24:00-05:00
+lastmod = 2026-11-24T04:10:00-05:00
 draft = false
 slug = "sunrise-reaping-120-million-opening"
 summary = "The Hunger Games prequel 'Sunrise on the Reaping' opened to $120 million in North America and $225 million worldwide, Lionsgate's biggest opening in more than a decade."
@@ -11,7 +11,7 @@ categories = ["Entertainment"]
 tags = ["hunger games", "box office", "lionsgate", "film industry", "sunrise on the reaping"]
 image = "/images/stories/sunrise-reaping-120-million-opening.webp"
 image_alt = "Crowded cinema lobby at night with queues at the box office and blank illuminated poster frames on the walls, warm interior light against a dark street exterior, no readable text or titles, wide editorial photograph, 3:2"
-refs = 5
+refs = 3
 +++
 
 ![Crowded cinema lobby at night with queues at the box office and blank illuminated poster frames on the walls, warm interior light against a dark street exterior, no readable text or titles, wide editorial photograph, 3:2](/images/stories/sunrise-reaping-120-million-opening.webp)
@@ -30,9 +30,9 @@ The franchise's next chapter is already in development. Exhibitors expect the ho
 
 Update, November 23, 2026: The film also opened at No. 1 in mainland China, taking 39.3 million yuan ($5.9 million) in the Nov. 20-22 weekend, according to Artisan Gateway data reported by Variety.
 
+Update, November 24, 2026: Weekend runners-up were Farrelly's "I Play Rocky," which grossed $9.32 million in just under 2,500 theaters on its wide expansion, and "Ebenezer," down nearly 60 percent to $7.7 million in a second weekend. "Godzilla Minus Zero" fell nearly 80 percent, to $1.867 million, dropping from third to eighth. "Sunrise on the Reaping" holds a 69 percent critical rating on Rotten Tomatoes against a 94 percent audience score, with an A- CinemaScore, indicating strong word of mouth into the holiday corridor.
+
 ## Sources
 - [The Playlist](https://theplaylist.net/the-hunger-games-sunrise-on-the-reaping-overcomes-grand-theft-auto-box-office-20261122/)
-- [Deadline](https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/)
-- [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/)
-- [IndieWire](https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/)
-- [Variety](https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/)
+- [SlashFilm](https://www.slashfilm.com/2325515/the-hunger-games-sunrise-on-the-reaping-box-office-success-explained/)
+- [AV Club](https://www.avclub.com/weekend-box-office-sunrise-on-the-reaping-hunger-games-i-play-rocky)

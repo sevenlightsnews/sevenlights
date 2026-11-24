@@ -1,7 +1,7 @@
 +++
 title = "Anthropic's Record Debut Splits Wall Street Opinion as Tech Rallies Behind It"
 date = 2026-11-22T15:55:00-05:00
-lastmod = 2026-11-22T15:55:00-05:00
+lastmod = 2026-11-24T04:10:00-05:00
 draft = false
 slug = "anthropic-debut-wall-street-valley-split"
 summary = "Anthropic raised a record $93.5 billion in its Nasdaq debut this week and closed the week valued near $1.6 trillion, even as the Nasdaq logged its worst week since 2020, exposing the split between Wall Street caution and Silicon Valley celebration."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["anthropic", "initial public offering", "nasdaq", "artificial intelligence", "venture capital"]
 image = "/images/stories/anthropic-debut-wall-street-valley-split.webp"
 image_alt = "Traders at desks on a stock exchange trading floor at dusk, blank dark monitor screens reflecting ceiling lights, glass towers of a financial district beyond, no readable text, wide editorial photograph, 3:2"
-refs = 3
+refs = 4
 +++
 
 ![Traders at desks on a stock exchange trading floor at dusk, blank dark monitor screens reflecting ceiling lights, glass towers of a financial district beyond, no readable text, wide editorial photograph, 3:2](/images/stories/anthropic-debut-wall-street-valley-split.webp)
@@ -26,7 +26,10 @@ For the industry, the offering marked the reopening of an exit window that had b
 
 Investors and analysts spent the week debating whether Anthropic will trade alongside AI hardware companies, on whose chips and data centres it depends, or stand apart as the first public pure-play developer of AI models. Friday's trading suggested scepticism about its ability to grow into its valuation. The question will follow the stock into the holiday week.
 
+Update, November 24, 2026: Bond investors are pricing Anthropic's debt below investment grade. The company has committed approximately $900.9 billion to computing power and infrastructure through 2045, and investors expect credit rating agencies to assign a speculative-grade rating, reflecting doubts that cash flow will cover the commitments. Separately, philanthropic organizations aligned with the company's founders are preparing for a sharp rise in giving. Coefficient Giving, the vehicle founded by Chief Science Officer Jared Kaplan, has directed more than $8 billion since 2014 and raised its commitment to the grantmaker GiveWell to $1 billion in July, a step its chief executive, Alexander Berger, attributed to expectations of "considerably more future funding."
+
 ## Sources
 - [The New York Times](https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html)
-- [The Wall Street Journal](https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main)
-- [CNBC](https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+- [The Wall Street Journal](https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main)
+- [International Business Times](https://www.ibtimes.com/anthropic-ipo-junk-debt-rating-infrastructure-commitments-3810082)
+- [Fast Company](https://www.fastcompany.com/91647467/after-anthropics-record-breaking-debut-wall-street-nonprofits-prepare-wave-ai-philanthropy)

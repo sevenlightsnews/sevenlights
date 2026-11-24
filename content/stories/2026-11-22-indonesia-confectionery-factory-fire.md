@@ -1,7 +1,7 @@
 +++
 title = "Indonesia Candy Factory Fire Kills Three; Dozens Still Missing"
 date = 2026-11-22T03:30:00-05:00
-lastmod = 2026-11-23T03:24:00-05:00
+lastmod = 2026-11-24T04:10:00-05:00
 draft = false
 slug = "indonesia-confectionery-factory-fire"
 summary = "A fire at the Fonusa Agung Mulia confectionery factory in Cikande, Banten, killed at least three people and left 36 missing, with survivors pulled from the wreckage on Sunday."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["indonesia", "factory fire", "disasters", "jakarta"]
 image = "/images/stories/indonesia-confectionery-factory-fire.webp"
 image_alt = "Blackened shell of an industrial factory building in morning light, firefighters in helmets and reflective gear on ladders, hoses across wet ground, thin smoke rising, tropical trees at the edge, no readable text, documentary photojournalism, 3:2"
-refs = 5
+refs = 6
 +++
 
 ![Blackened shell of an industrial factory building in morning light, firefighters in helmets and reflective gear on ladders, hoses across wet ground, thin smoke rising, tropical trees at the edge, no readable text, documentary photojournalism, 3:2](/images/stories/indonesia-confectionery-factory-fire.webp)
@@ -32,9 +32,12 @@ Rescuers faced unstable structure and residual heat inside the plant, officials 
 
 Update, November 23, 2026: Indonesian authorities confirmed the deaths of 24 people, and rescuers removed 24 body bags from the site while about 30 people remained missing, The Guardian and Al Jazeera reported. Crews braved unstable structures in the burned wreckage, and DNA testing is required to identify the victims.
 
+Update, November 24, 2026: Preliminary reports indicate the fire may have been caused by a short circuit in an air-conditioning unit, Said, the manpower minister, told reporters, adding that he would summon the factory's chief executive and that safety protocols were being assessed. The factory is owned by United Family Food. The chief executive, Steven Erwin Wijaya, said about 300 people were on the complex for Saturday's shift. Intensive cooling operations continued Monday before crews could enter all parts of the building, and relatives of about 30 workers waited at a police-run hospital where DNA sampling was under way; visual identification was impossible because of the condition of the remains, said Wahyu Hidayati Dwi Palupi, who heads the national police's victim identification division.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
-- [Al Jazeera](https://www.aljazeera.com/news/2026-11-22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss)
-- [CNA](https://www.channelnewsasia.com/asia/indonesia-factory-fire-39-missing-6572421)
-- [BBC World](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss)
-- [Al Jazeera](https://www.aljazeera.com/news/2026-11-23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss)
+- [South China Morning Post](https://www.scmp.com/news/asia/southeast-asia/article/3375508/indonesia-says-24-killed-factory-fire-rescuers-search-dozens-missing)
+- [Euronews](https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say)
+- [Sky News](https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577)
+- [The New York Times](https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html)
+- [BBC](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss)

@@ -1,7 +1,7 @@
 +++
 title = "Russian Warship Sinks in Benghazi After Ukrainian Sea Drone Strike"
 date = 2026-11-23T03:00:00-05:00
-lastmod = 2026-11-23T03:00:00-05:00
+lastmod = 2026-11-24T04:10:00-05:00
 draft = false
 slug = "russian-warship-sinks-benghazi-drone-attack"
 summary = "A Russian navy corvette sank at the Benghazi naval base after Ukrainian sea drones struck it on Sunday, satellite images and Libyan officials said."
@@ -11,7 +11,7 @@ categories = ["Global"]
 tags = ["ukraine war", "libya", "russia", "drone warfare", "benghazi"]
 image = "/images/stories/russian-warship-sinks-benghazi-drone-attack.webp"
 image_alt = "Aerial view of a Mediterranean naval harbor at dawn, a small grey warship listing heavily to one side and half-submerged beside a concrete pier, dark oil sheen on calm turquoise water, breakwaters and low warehouse buildings along the shore, hazy desert coastline, no people, no readable text, no flags or insignia, editorial satellite-imagery style photograph, 3:2"
-refs = 5
+refs = 4
 +++
 
 ![Aerial view of a Mediterranean naval harbor at dawn, a small grey warship listing heavily to one side and half-submerged beside a concrete pier, dark oil sheen on calm turquoise water, breakwaters and low warehouse buildings along the shore, hazy desert coastline, no people, no readable text, no flags or insignia, editorial satellite-imagery style photograph, 3:2](/images/stories/russian-warship-sinks-benghazi-drone-attack.webp)
@@ -34,9 +34,10 @@ Ukrainian forces have stepped up long-range strikes in recent months. Ukrainian 
 
 The extent of the damage to the Merkury and the fate of its crew were not fully detailed by Libyan officials. Investigators in eastern Libya were examining the launch route of the drones, the officials said.
 
+Update, November 24, 2026: President Volodymyr Zelensky said on Monday that Ukraine carried out the attack, deploying seven maritime drones against the corvette Merkury, which Mr. Zelensky described as one of the Russian navy's newest vessels. Mr. Zelensky called the operation, conducted about 2,400 kilometers from the front line, "exemplary" and said "the targets we set were achieved." Kremlin spokesman Dmitry Peskov declined to comment, saying the Defense Ministry would provide information if deemed appropriate. Ukrainian officials said a second vessel, the cargo ship Sparta, was also struck in the same area; Russian and Finnish vessels helped extinguish the fire, its crew was rescued and the ship was towed away, Reuters reported. The European Commission on Monday proposed a further round of sanctions against Russia, targeting dozens of banks and crypto platforms and banning Russian teams and athletes from competing under the flag; the measures require the endorsement of all 27 member states.
+
 ## Sources
-- [The Guardian](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)
-- [South China Morning Post](https://www.scmp.com/news/world/africa/article/3375407/suspected-ukrainian-sea-drones-hit-russian-warship-libyan-naval-base-officials-say)
-- [France 24](https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine)
-- [Euronews](https://www.euronews.com/video/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st)
-- [RFE/RL](https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html)
+- [NPR](https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya)
+- [The Hill](https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/)
+- [CBS News](https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/)
+- [Fox News](https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns)

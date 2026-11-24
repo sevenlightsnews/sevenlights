@@ -1,7 +1,7 @@
 +++
 title = "Democrats Clinch at Least 258 House Seats, Largest Sweep Since 1992"
 date = 2026-11-22T15:55:00-05:00
-lastmod = 2026-11-22T15:55:00-05:00
+lastmod = 2026-11-24T04:10:00-05:00
 draft = false
 slug = "democrats-clinch-258-seat-house-majority"
 summary = "House Democrats secured at least 258 seats on Sunday, their best result since 1992, after Chuck Hubbard defeated Representative Virginia Foxx in North Carolina."
@@ -28,9 +28,11 @@ The outstanding races will decide the final arithmetic. The two Louisiana contes
 
 Democrats take control of the chamber in January. The size of the majority, already the largest since 1992, may still grow depending on the runoffs.
 
+Update, November 24, 2026: The 258-seat tally is the largest majority either party has won in the House in a general election in three decades, and the 44 seats gained exceed the 40 Democrats won in 2018. Representative Hakeem Jeffries of New York, the incoming majority leader, wrote on X that Democrats had "just secured the largest majority any party in Congress has held this century." Senate Democrats take a 56-seat majority, their largest advantage in more than a decade. Party leaders have drafted a 100-day agenda that contemplates swift votes to reverse Medicaid reductions and restore Affordable Care Act tax credits that expired, alongside subpoenas and oversight inquiries of the administration. Four races remain: one each in Minnesota and Tennessee, and two Louisiana contests heading to December runoffs.
+
 ## Sources
-- [The Guardian](https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep)
+- [The Hill](https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/)
+- [CBS News](https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/)
 - [The New York Times](https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html)
 - [PBS NewsHour](https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992)
-- [Los Angeles Times](https://www.latimes.com/politics/story/2026-11-22/democrats-clinch-historic-house-majority-of-at-least-258-seats-largest-since-1992)
 - [NBC News](https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708)
