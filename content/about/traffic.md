@@ -1,8 +1,8 @@
 +++
 title = "Traffic Statistics"
 description = "Seven Lights readership, measured at the Cloudflare edge with bots and scrapers filtered out. Updated daily."
-date = 2026-11-25T09:08:42Z
-lastmod = 2026-11-25T09:08:42Z
+date = 2026-11-25T17:10:14Z
+lastmod = 2026-11-25T17:10:14Z
 draft = false
 +++
 
@@ -16,7 +16,7 @@ _Nov 24_
 | Human page requests | 8,004 |
 | Unique human visitors (daily avg) | 776 |
 | Automated traffic filtered out | 27,432 |
-| Episode downloads (media server) | 0 |
+| Episode downloads (media server) | 5 |
 
 
 **Last 7 days**  
@@ -27,7 +27,7 @@ _Nov 18–Nov 24_
 | Human page requests | 25,560 |
 | Unique human visitors (daily avg) | 789 |
 | Automated traffic filtered out | 98,961 |
-| Episode downloads (media server) | 51 |
+| Episode downloads (media server) | 56 |
 
 
 **Last 30 days**  
@@ -35,10 +35,10 @@ _Oct 26–Nov 24_
 
 | Metric | Count |
 |---|---|
-| Human page requests | 55,604 |
+| Human page requests | 55,238 |
 | Unique human visitors (daily avg) | 448 |
-| Automated traffic filtered out | 3,159,379 |
-| Episode downloads (media server) | 123 |
+| Automated traffic filtered out | 3,159,745 |
+| Episode downloads (media server) | 128 |
 
 
 ## Most-read pages (last 7 days, humans only)
@@ -59,10 +59,10 @@ _Oct 26–Nov 24_
 | File | Downloads |
 |---|---|
 | `2026-10-29-daily-brief.mp3` | 9 |
+| `2026-10-27-daily-brief.mp3` | 8 |
+| `2026-10-24-daily-brief.mp3` | 7 |
 | `2026-10-30-daily-brief.mp3` | 7 |
-| `2026-10-27-daily-brief.mp3` | 6 |
 | `2026-10-25-daily-brief.mp3` | 6 |
-| `2026-10-24-daily-brief.mp3` | 6 |
 | `2026-10-31-daily-brief.mp3` | 6 |
 | `2026-11-01-daily-brief.mp3` | 6 |
 | `2026-11-04-daily-brief.mp3` | 6 |
@@ -71,4 +71,4 @@ Episode downloads are counted at the media server. Plays inside Spotify and Appl
 
 _On a few days the per-day detail sample caps out during bot floods; human counts for those days are a lower bound._
 
-_Last updated: 2026-11-25 09:08 UTC, measured at the Cloudflare edge._
+_Last updated: 2026-11-25 17:10 UTC, measured at the Cloudflare edge._
