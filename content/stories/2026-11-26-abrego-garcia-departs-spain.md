@@ -1,7 +1,7 @@
 +++
 title = "Abrego Garcia Reaches Spain, Calling Departure a Victory"
 date = 2026-11-26T03:07:00-05:00
-lastmod = 2026-11-26T03:07:00-05:00
+lastmod = 2026-11-27T03:00:00-05:00
 draft = false
 slug = "abrego-garcia-departs-spain"
 summary = "Kilmar Abrego Garcia arrived in Madrid early Wednesday after leaving the United States on a court-ordered deadline, closing a deportation battle that became a symbol of the administration's immigration crackdown."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["kilmar abrego-garcia", "immigration", "deportation", "trump administration"]
 image = "/images/stories/abrego-garcia-departs-spain.webp"
 image_alt = "Night scene at a large international airport terminal, silhouettes of a small group of travelers with luggage walking toward a jet bridge, a wide-body airliner under floodlights, reflections on rain-wet apron, cold blue lighting, editorial photojournalism photograph, 3:2"
-refs = 3
+refs = 5
 +++
 
 ![Night scene at a large international airport terminal, silhouettes of a small group of travelers with luggage walking toward a jet bridge, a wide-body airliner under floodlights, reflections on rain-wet apron, cold blue lighting, editorial photojournalism photograph, 3:2](/images/stories/abrego-garcia-departs-spain.webp)
@@ -32,7 +32,11 @@ The case became an early flashpoint in the debate over the administration's depo
 
 Abrego Garcia said he and his family would announce their plans in time. The government had no immediate comment on his status in Spain.
 
+**Update, November 27:** Abrego Garcia arrived in Madrid early Wednesday after boarding a commercial flight at Washington Dulles International Airport on Tuesday with his wife, his brother and his lawyer. Speaking at a virtual news conference from Spain, he said he was "happy and celebrating my freedom," and that he "can breathe in freedom." His lawyer, Simon Sandoval-Moshenberg, said Abrego Garcia retained options to return to the United States after the end of the Trump presidency, as the husband of a US citizen and the father of a US citizen child. The immigrant rights group We Are CASA said he planned international speaking engagements in several countries.
+
 ## Sources
 - [The Hill](https://thehill.com/homenews/administration/6243654-kilmar-abrego-garcia-trump-administration-deportation-case/)
 - [NBC News](https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215)
 - [CBS News](https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/)
+- [The Hill](https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/)
+- [The New York Times](https://www.nytimes.com/2026-11-24/us/politics/abrego-garcia-leave-deportation.html)

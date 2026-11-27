@@ -1,7 +1,7 @@
 +++
 title = "Army Sets Iowa Detonation of Unstable Lead Explosives for Wednesday"
 date = 2026-11-24T03:40:00-05:00
-lastmod = 2026-11-24T03:40:00-05:00
+lastmod = 2026-11-27T03:00:00-05:00
 draft = false
 slug = "iowa-army-lead-explosives-detonation"
 summary = "The Army will detonate about five tons of degraded lead azide at the Iowa Army Ammunition Plant on Wednesday, a day before Thanksgiving, after a legal fight and an order from President Trump to pause the blast."
@@ -11,7 +11,7 @@ categories = ["US"]
 tags = ["iowa", "u.s. army", "explosives", "lead contamination", "environmental regulation"]
 image = "/images/stories/iowa-army-lead-explosives-detonation.webp"
 image_alt = "Flat Iowa farmland in late autumn under a steel-grey sky, bare soybean stubble in the foreground, a chain-link fence and low concrete bunkers of a munitions plant on the far horizon, a weather-worn warning sign too distant to read, muted brown and grey palette, editorial photojournalism, no people, no readable text, 3:2"
-refs = 4
+refs = 7
 +++
 
 ![Flat Iowa farmland in late autumn under a steel-grey sky, bare soybean stubble in the foreground, a chain-link fence and low concrete bunkers of a munitions plant on the far horizon, a weather-worn warning sign too distant to read, muted brown and grey palette, editorial photojournalism, no people, no readable text, 3:2](/images/stories/iowa-army-lead-explosives-detonation.webp)
@@ -30,9 +30,14 @@ The Army has advised residents near the plant to avoid the area, stay indoors an
 
 The detonation is set for Wednesday. Officials have said the blast cannot be deferred indefinitely.
 
+**Update, November 27:** The Army carried out the detonation on Wednesday, destroying 68 drums holding about 9,700 pounds of degraded lead azide at the plant in Middletown. Acting Army Secretary Adam Telle said the controlled detonation "exceeded all expectations and was a HUGE success," and that a federal sensor array across the area showed no readings above 0.0. President Trump said the mitigation efforts "far exceeded expectations." Residents within a five-mile cone southwest of the plant had been evacuated and were to be notified by phone when it was safe to return; others were told to shelter in place, close windows and doors and take precautions for children and livestock.
+
 ## Sources
 
-- [Axios](https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump)
+- [Axios](https://www.axios.com/2026-11-23/iowa-lead-detonation-delayed-trump)
+- [Axios](https://www.axios.com/2026-11-25/iowa-army-lead-detonation)
+- [NBC News](https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182)
+- [The Guardian](https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears)
 - [NPR](https://www.npr.org/2026/11/23/nx-s1-6048731/army-reschedules-detonation-of-toxic-explosives-in-iowa-for-wednesday)
 - [The Hill](https://thehill.com/policy/energy-environment/6239030-army-detonates-lead-munitions-iowa/)
 - [NBC News](https://www.nbcnews.com/video/court-allows-trump-admin-and-army-to-move-forward-with-planned-iowa-detonation-274047557779)
