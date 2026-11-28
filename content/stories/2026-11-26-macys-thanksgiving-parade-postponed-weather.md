@@ -1,7 +1,7 @@
 +++
 title = "Macy's Thanksgiving Parade Postponed by Storm, First Time in Its History"
 date = 2026-11-26T03:03:00-05:00
-lastmod = 2026-11-26T03:03:00-05:00
+lastmod = 2026-11-28T16:05:00-05:00
 draft = false
 slug = "macys-thanksgiving-parade-postponed-weather"
 summary = "An approaching nor'easter forced Macy's to postpone its Thanksgiving Day parade for the first time in the event's hundred-year history, moving the celebration to Saturday morning."
@@ -32,9 +32,13 @@ The parade began in 1924 as a holiday promotion for Macy's Herald Square store. 
 
 Officials said the Saturday route and start time had been set with city agencies, and that the balloon decision would be reviewed again on Friday against the latest forecasts.
 
+**Update, November 28, 2026:** The centennial parade marched Saturday morning from 8:30 under dry skies and light winds, three days after the storm forced its first postponement. RAYE opened the show and organizers said 95 percent of the scheduled acts took part; LL Cool J and Gloria Gaynor were added as surprises, while the Macy's Great American Marching Band and the University of Alabama's Million Dollar Band withdrew because of scheduling conflicts. A record 100 inflatables flew the route, including new balloons of Bluey, Hello Kitty, Mickey Mouse and Underdog. Before Santa closed the procession, the program honored Dolly Parton, who died on Aug. 25 at age 80. Al Roker said "nobody embodied the true spirit of this day better" than Parton, and the 380-member Dobyns-Bennett High School band from Kingsport, Tennessee, played a mash-up of "Jolene" and "9 to 5" as paper butterflies drifted down the avenue. Co-host Savannah Guthrie noted that "Dolly: A True Original Musical" opens on Broadway on Jan. 19, Parton's birthday. The lineup also carried a showcase of numbers from nine Broadway shows.
+
 ## Sources
 - [Axios](https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather)
 - [The Guardian](https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather)
 - [CBS News](https://www.cbsnews.com/video/details-why-macys-postponed-thanksgiving-day-parade/)
 - [LA Times](https://www.latimes.com/entertainment-arts/tv/story/2026-11-25/macys-thanksgiving-day-parade-postponed)
-- [The New York Times](https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html)
+- [The New York Times](https://www.nytimes.com/2026-11-25/nyregion/macys-thanksgiving-day-parade-tourists.html)
+- [Deadline](https://deadline.com/2026-11/macys-thanksgiving-parade-broadway-medley-1237234533/)
+- [Rolling Stone](https://www.rollingstone.com/culture/culture-news/dolly-parton-tribute-thanksgiving-parade-tribute-1235664337/)
