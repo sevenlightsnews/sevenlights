@@ -1,7 +1,7 @@
 +++
 title = "Federal Judge Blocks FCC Review of ABC Station Licenses"
 date = 2026-11-26T03:05:00-05:00
-lastmod = 2026-11-26T03:05:00-05:00
+lastmod = 2026-11-28T03:20:00-05:00
 draft = false
 slug = "judge-blocks-fcc-abc-license-review"
 summary = "A federal judge has blocked the Federal Communications Commission from pressing ahead with an unusually early review of ABC's broadcast licenses, a directive the Walt Disney Co. called retaliation against speech."
@@ -11,7 +11,7 @@ categories = ["Politics"]
 tags = ["fcc", "disney", "abc", "brendan carr", "first amendment"]
 image = "/images/stories/judge-blocks-fcc-abc-license-review.webp"
 image_alt = "Neoclassical federal courthouse facade with tall columns at dusk, a broadcast transmission tower silhouetted beside it against a slate grey sky, a stone gavel sculpture on the steps, moody blue light, editorial illustration, 3:2"
-refs = 5
+refs = 8
 +++
 
 ![Neoclassical federal courthouse facade with tall columns at dusk, a broadcast transmission tower silhouetted beside it against a slate grey sky, a stone gavel sculpture on the steps, moody blue light, editorial illustration, 3:2](/images/stories/judge-blocks-fcc-abc-license-review.webp)
@@ -30,9 +30,14 @@ The confrontation has deepened over two years. After an earlier Kimmel controver
 
 The early renewal proceedings stand suspended while the case proceeds. The commission had not said whether it would seek review of the order.
 
+**Update, November 28:** Further reporting showed Judge Loren L. AliKhan had granted ABC a preliminary injunction blocking the commission from taking any action curbing the network's ability to renew its eight local licenses. The judge wrote that ABC was "likely to succeed on their first amendment claim" of retaliation, and that the early renewal proceedings created a risk sufficient to chill "a broadcaster of ordinary firmness." She denied the FCC's request to dismiss the case but also declined ABC's broader request to bar the agency from formal or informal coercion of editorial judgment. An ABC News spokesperson called the decision "an important victory for the First Amendment." Commissioner Anna Gomez, the lone Democratic appointee, said the ruling showed the agency "is a paper tiger whose threats crumble when challenged by those willing to defend their rights." The commission had not said whether it would appeal.
+
 ## Sources
 - [The Hill](https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/)
 - [NBC News](https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892)
 - [CBS News](https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/)
 - [Fox News](https://www.foxnews.com/media/judge-temporarily-blocks-fcc-reviewing-abc-station-licenses-amid-first-amendment-fight)
 - [The New York Times](https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html)
+- [The Guardian](https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses)
+- [CNBC](https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html)
+- [The Wall Street Journal](https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f)

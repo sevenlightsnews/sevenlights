@@ -1,7 +1,7 @@
 +++
 title = "US Proposes Section 301 Tariffs on 14 Trading Partners"
 date = 2026-11-26T03:12:00-05:00
-lastmod = 2026-11-26T03:12:00-05:00
+lastmod = 2026-11-28T03:20:00-05:00
 draft = false
 slug = "trump-section-301-tariffs-14-partners"
 summary = "The Trump administration proposed new Section 301 tariffs on 14 economies including China, the European Union, Japan and India, seeking an additional 20 per cent duty on Chinese goods after the Supreme Court struck down the Liberation Day tariffs."
@@ -11,7 +11,7 @@ categories = ["Business"]
 tags = ["tariffs", "trade", "china", "european union", "us trade policy"]
 image = "/images/stories/trump-section-301-tariffs-14-partners.webp"
 image_alt = "Vast container terminal at dusk, gantry cranes towering over stacked multicolored shipping containers, a cargo ship being loaded, hazy amber light, long shadows, immense industrial scale, editorial photojournalism photograph, 3:2"
-refs = 5
+refs = 9
 +++
 
 ![Vast container terminal at dusk, gantry cranes towering over stacked multicolored shipping containers, a cargo ship being loaded, hazy amber light, long shadows, immense industrial scale, editorial photojournalism photograph, 3:2](/images/stories/trump-section-301-tariffs-14-partners.webp)
@@ -32,9 +32,15 @@ Economists warned that tariffs fuel inflation and lift consumer prices when impo
 
 The proposals were published with extensive reports on how each jurisdiction's practices purportedly affect American commerce. A final decision would come after the hearings.
 
+**Update, November 28:** Economists said the measures carry less weight than the headline suggests. Stephen Brown, chief North American economist at Capital Economics, wrote that the announcement is "not as alarming as it looks" because the proposed duties would largely replace previously announced Section 301 tariffs rather than stack on top of them. The administration also proposed tougher measures against Brazil, after 25 per cent tariffs took effect there in July: higher duties on sugar imports exceeding existing quotas and a new 10 per cent levy on Brazilian aircraft previously exempt. Asian share markets and US futures fell on the news. The small-business coalition We Pay the Tariffs warned the duties would raise prices in the holiday season, and Democrats in the incoming Congress are moving to curb presidential authority over trade policy.
+
 ## Sources
 - [The Guardian](https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe)
 - [The New York Times](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
 - [CNBC](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)
 - [BBC News](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss)
 - [The Wall Street Journal](https://www.wsj.com/logistics-report/china-and-other-countries-face-higher-u-s-tariffs-over-industrial-subsidies-399e2747?mod=pls_whats_news_us_business_f)
+- [Axios](https://www.axios.com/2026/11/25/trump-tariffs-china)
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/trump-administration-to-raise-tariffs-on-china-eu-brazil-and-others)
+- [CBS News](https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/)
+- [NPR](https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners)

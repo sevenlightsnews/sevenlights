@@ -1,7 +1,7 @@
 +++
 title = "FCC Approves SpaceX Plan for Up to One Million Data-Center Satellites"
 date = 2026-11-26T03:08:00-05:00
-lastmod = 2026-11-26T03:08:00-05:00
+lastmod = 2026-11-28T03:20:00-05:00
 draft = false
 slug = "spacex-starmind-fcc-orbital-data-centers"
 summary = "The Federal Communications Commission gave SpaceX conditional approval to deploy up to one million satellites for an orbital data-center network, despite objections from Amazon, Viasat and astronomers."
@@ -11,7 +11,7 @@ categories = ["Technology"]
 tags = ["spacex", "fcc", "satellites", "orbital computing", "artificial intelligence"]
 image = "/images/stories/spacex-starmind-fcc-orbital-data-centers.webp"
 image_alt = "Vast swarm of identical flat-panel satellites with glowing solar wings orbiting above the blue curve of Earth, dense lattice of reflective panels to the horizon, black space with stars, sunlight glinting off arrays, editorial illustration, 3:2"
-refs = 5
+refs = 7
 +++
 
 ![Vast swarm of identical flat-panel satellites with glowing solar wings orbiting above the blue curve of Earth, dense lattice of reflective panels to the horizon, black space with stars, sunlight glinting off arrays, editorial illustration, 3:2](/images/stories/spacex-starmind-fcc-orbital-data-centers.webp)
@@ -30,9 +30,13 @@ Approval does not put data centers in orbit. SpaceX must still cut the cost of b
 
 Rivals including Google and Blue Origin are exploring the same concept, pitched as a cleaner alternative to ground data centers that consume large quantities of power and cooling water. Opponents argue a million satellites would crowd orbits already used by more than 10,000 Starlink spacecraft.
 
+**Update, November 28:** Further details of the authorization showed SpaceX must place one satellite in its assigned orbit by November 25, 2033, 100,000 by the same date in 2035, and 500,000 three years later, with the full constellation deployed no later than November 25, 2040. The company proposed operating in six orbital shells between roughly 550 and 1,000 kilometers, which would increase the number of satellites in orbit some fifty-fold. The commission declined SpaceX's request to retire satellites above 600 kilometers into disposal or heliocentric orbits rather than de-orbit them, finding the company had not supplied sufficient information; a waiver will be required before any such satellite is deployed. Musk has previously said launches would begin in 2027.
+
 ## Sources
 - [TechCrunch](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
 - [BBC News](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&amp;at_campaign=rss)
 - [The Verge](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
 - [Ars Technica](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/)
 - [Mashable](https://mashable.com/tech/spacex-starmind-fcc-approval-ai-data-centers-space)
+- [Space.com](https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites)
+- [Engadget](https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/)
